@@ -15,8 +15,8 @@
     "website": "https://eostea.io/",
     "email": "support@tclabs.tech",
     "branding":{
-      "logo": "",
-      "cover": ""
+      "logo": "log-eostea.png",
+      "cover": "cover-eostea.png"
     },
     "location": "HangZhou,China",
     "social_network": {
