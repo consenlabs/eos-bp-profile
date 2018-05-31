@@ -1,0 +1,42 @@
+{
+  "title": "EOSTEA",
+  "tagline": {
+    "en": "A team dedicated to the development and application of EOS.IO in China.",
+    "zh": "一个致力于EOS在中国发展和应用落地的团队."
+  },
+  "introduce": {
+    "en": "A team dedicated to the development and application of EOS.IO in China.We will always remain independent, and contribute to the community in a continuous manner. We welcome oversight and inspection from everyone.",
+    "zh": "EOSTEA是一个由社区驱动且保持中立的团队, 目前运营着最大的EOS开发者社区: eosfans.io"
+  },
+  "account_name": "",
+  "public_key": "",
+  "org": {
+    "name": "EOSTEA",
+    "website": "https://eostea.io/",
+    "email": "support@tclabs.tech",
+    "branding":{
+      "logo": "log-eostea.png",
+      "cover": "cover-eostea.png"
+    },
+    "location": "HangZhou,China",
+    "social_network": {
+      "steemit": "https://steemit.com/@eostea",
+      "twitter": "https://twitter.com/eostea_io",
+      "facebook": "",
+      "github": "https://github.com/eostea",
+      "telegram": "https://t.me/eosfanscn"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": ""
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
