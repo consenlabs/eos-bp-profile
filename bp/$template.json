@@ -13,8 +13,8 @@
     "website": "",
     "email": "",
     "branding":{
-      "logo": "",
-      "cover": ""
+      "logo": "logo-$account_name.png",
+      "cover": "cover-$account_name.png"
     },
     "location": "",
     "social_network": {

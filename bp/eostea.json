@@ -15,14 +15,13 @@
     "website": "https://eostea.io/",
     "email": "support@tclabs.tech",
     "branding":{
-      "logo": "log-eostea.png",
+      "logo": "logo-eostea.png",
       "cover": "cover-eostea.png"
     },
     "location": "HangZhou,China",
     "social_network": {
       "steemit": "https://steemit.com/@eostea",
       "twitter": "https://twitter.com/eostea_io",
-      "facebook": "",
       "github": "https://github.com/eostea",
       "telegram": "https://t.me/eosfanscn"
     }
