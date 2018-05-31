@@ -1,0 +1,40 @@
+{
+  "title": "eos90s",
+  "tagline": {
+    "en": ""
+  },
+  "introduce": {
+    "en": ""
+  },
+  "account_name": "",
+  "public_key": "",
+  "org": {
+    "name": "eos90后",
+    "website": "http://www.eos90s.io",
+    "email": "",
+    "branding":{
+      "logo": "",
+      "cover": ""
+    },
+    "location": "",
+    "social_network": {
+      "steemit": "",
+      "twitter": "",
+      "facebook": "",
+      "github": "",
+      "telegram": ""
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": ""
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
