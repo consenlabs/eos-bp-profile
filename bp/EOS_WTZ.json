@@ -1,0 +1,41 @@
+{
+"title": "EOS WTZ",
+"tagline": {
+"en": "THE CICADA ARISING IN THE SUMMER, AMAZES THE WORLD AS IT SINGS",
+"cn": "蝉鸣于夏 一鸣惊人"
+},
+"introduce": {
+"en": "EOS WTZ is founded by WTZ, an early investor in cryptocurrency. WTZ is the author of WTZ Blockchain Diary, which is the most chrismatic content producer in the Chinese blockchain media, and has tens of thousands of followers. The team of EOS WTZ has 8 core members and more than 40 staff. The team consists of talents graduated from Columbia University, Hong Kong University, Georgia Institute of Technology and more, all in diverse backgrounds, such as Cryptography, IT, media, marketing, finance, and consulting. The technical team of EOS WTZ include members who participate in the development of ETH and EOS and members who work on research and development of the blockchain infrastructure design, technology integration, and system optimization for public chain development. In addition, our technical team also includes network security with many years of experience in system security, network structure experts, system operation and maintenance engineers.",
+"cn": "EOS WTZ的创始人王团长是数字货币早期参与者，王团长区块链日记作者，该公众号是中国区块链行业最有温度的自媒体，影响了几十万区块链热爱者。EOS WTZ中心化管理团队拥有核心成员8名，运营团队超过40人。其中包括哥大、港大、佐治亚理工学院的毕业生和互联网、法务、媒体传播、营销策划、金融、咨询方面的资深从业人员。我们的技术团队有数个EOS源代码贡献者，早期参与了ETH和EOS开发，对于公链开发的区块链底层架构设计、技术整合以及系统优化等研发方面有着丰富的经验；此外，技术人员中还包括具备多年经验的网络安全专家、网络结构专家和系统运维工程师等。"
+},
+"account_name": "eos_wtz",
+"public_key": "",
+"org": {
+"name": "EOS WTZ",
+"website": "http://www.eoswtz.com/",
+"email": "",
+"branding":{
+"logo": "logo-eos_wtz.png",
+"cover": "cover-eos_wtz.png"
+},
+"location": "Nanjing",
+"social_network": {
+"steemit": "https://www.steemit.com/@eoswtz",
+"twitter": "https://www.twitter.com/eos_wtz",
+"github": "",
+"telegram": "https://t.me/eoswtz"
+}
+},
+"nodes": [
+{
+"location": {
+"id": "",
+"name": ""
+},
+"is_producer": false,
+"p2p_endpoint": "",
+"api_endpoint": "",
+"ssl_endpoint": ""
+}
+]
+}
