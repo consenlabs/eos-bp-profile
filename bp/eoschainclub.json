@@ -1,0 +1,41 @@
+{
+  "title": "EOS_ChainClub",
+  "tagline": {
+    "en": "Build an EOS Super University",
+    "zh": "共建一所EOS超级大学"
+  },
+  "introduce": {
+    "en": "EOS ChainClub was founded by ChainClub, a professional blockchain learning community with more than 10,000 members worldwide. We aim to link everyone in the community with education and incubation. Our goal is to build an EOS Super University and enable everyone to contribute to the EOS ecosystem.",
+    "zh": "EOS ChainClub 由专业的区块链学习社群『区块链研习社』组建，我们致力于通过高价值、多维度的社群矩阵，打造EOS普及推广、教育培训、项目孵化闭环，让每一个参与者实现个人成长的同时，为EOS生态持续贡献价值。共建一所分布式学习、链接与协作的“EOS 超级大学”，让全球的EOS支持者与开发者参与到EOS生态建设中来。"
+  },
+  "account_name": "",
+  "public_key": "",
+  "org": {
+    "name": "EOS_ChainClub",
+    "website": "https://eosio.university/",
+    "email": "admin@eosio.university",
+    "branding":{
+      "logo": "logo-eoschainclub.png",
+      "cover": "cover-eoschainclub.png"
+    },
+    "location": "Sydney,Australia",
+    "social_network": {
+      "steemit": "https://steemit.com/@eoschainclub/",
+      "twitter": "https://twitter.com/eoschainclub",
+      "github": "https://github.com/BlockChainClub",
+      "telegram": "https://t.me/eoscc"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": ""
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
