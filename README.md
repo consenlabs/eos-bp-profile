@@ -32,7 +32,7 @@ cover-$account_name.png
 - logo size: 180x180 png
 - cover size: 1125x420 png
 
-![example](tutorial/image_example.jpg)
+![example](tutorial/image_example.png)
 
 
 ## Copyright
