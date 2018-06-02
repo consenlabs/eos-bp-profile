@@ -1,0 +1,81 @@
+{
+  "title": "EOS Wenzhou",
+  "tagline": {
+    "en": "EOS Wenzhou is a blockchain oriented community founded in October 2017.",
+    "cn": "EOS Wenzhou是在2017年10月成立的以区块链为导向的社区。"
+  },
+  "introduce": {
+	"en": "We are EOS.IO technical fans who obtained the earliest research on blockchain technology and EOS.IO. Currently, there are ten members on core  development team,and fifteen members on community team.",
+	"cn": "我们是最早对区块链技术和eos.io进行研究的社区粉丝。目前，核心开发团队有10名成员，社区团队有15名成员。"
+  },
+  "account_name": "eoswenzhou",
+  "public_key": "",
+  "org": {
+    "name": "EOS Wenzhou",
+    "website": "http://www.eoswz.com",
+    "email": "service@eoswz.com",
+    "branding":{
+      "logo": "logo-eoswenzhou.png",
+      "cover": "cover-eoswenzhou.png"
+    },
+    "location": "Wenzhou(zhejiang province in China)",
+    "social_network": {
+      "steemit": "https://steemit.com/@eos.wenzhou",
+      "twitter": "https://twitter.com/eoswenzhou",
+	  "weibo": "https://weibo.com/u/6327269283",
+      "telegram": "https://t.me/eoswenzhou"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": "China"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "id": "",
+        "name": "Hong Kong"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+	{
+      "location": {
+        "id": "",
+        "name": "United States"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+	{
+      "location": {
+        "id": "",
+        "name": "Japan"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+	{
+      "location": {
+        "id": "",
+        "name": "Singapore"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
