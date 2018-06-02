@@ -1,0 +1,41 @@
+{
+  "title": "Sheleaders",
+  "tagline": {
+    "en": "Make EOS carry omnidirectional distribution and circulation of human values!",
+    "cn": "让EOS承载人类全方位价值的发行和流通!"
+  },
+  "introduce": {
+    "en": "The EOSBIXIN group is affiliated to Bixin, led by Bixin COO Chaojijun, and is a newly formed group of outstanding engineers from departments such as mining pools, block producers, and wallets. We have recognized that the blockchain is moving from the underlying technology era to the product era.As a high-performance blockchain, EOS will carry omnidirectional distribution and circulation of human values, therefore, we built two basic foundations of EOSBIXIN Block Producer and Bixin EOS Wallet to provide a robust network for EOS, and at the same time make it easier for everyone to use EOS to achieve the prosperity and development of EOS ecology.",
+    "cn": "EOSBIXN由币信COO“超级君”吴广庚领衔，聚合矿池、节点和钱包等部门优秀工程师组成专业的运营团队。我们认识到区块链正从底层技术时代迈向产品时代，EOS作为高性能区块链，将承载人类全方位价值的自由发行和流通，所以我们打造EOSBIXIN超级节点和币信EOS钱包两大底层基础，为EOS提供强健网络的同时让大家更方便使用EOS，实现EOS生态的繁荣发展。"
+  },
+  "account_name": "eosbixin",
+  "public_key": "",
+  "org": {
+    "name": "EOSBIXIN",
+    "website": "http://www.eosbixin.com/",
+    "email": "eos@bixin.com",
+    "branding":{
+      "logo": "logo-eosbixin.png",
+      "cover": "cover-eosbixin.png"
+    },
+    "location": "Bangkok",
+    "social_network": {
+      "steemit": " https://steemit.com/@tuitui",
+      "twitter": "https://twitter.com/eosbixin",
+      "github": "https://github.com/EOSBIXIN",
+      "telegram": "https://t.me/EosBixinChat"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": ""
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
