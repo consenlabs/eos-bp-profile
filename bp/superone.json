@@ -1,0 +1,62 @@
+{
+  "title": "SuperONE",
+  "tagline": {
+    "en": "SuperONE, technical and aesthetic specialist of deep ploughing in graphene filed, focus continuously on the contribution of graphene ecosystem.",
+    "cn": "SuperONE，深耕石墨烯领域多年的技术流和审美流，持续专注为石墨烯生态贡献力量。"
+  },
+  "introduce": {
+    "en": "We are the earliest enthusiasts of blockchain technology, technical and aesthetic specialist of deep ploughing in graphene filed, focus continuously on the contribution of graphene ecosystem. The SuperONE project sponsor (community ID: crazybit) is a senior participant in the BitShares community, also responsible for one of the BitShares Witness nodes and has in-depth research on the kernel of graphene. We have two product currently, one is BitShares wallet named SuperONE(https://superone.io), another is EOS LIVE(https://eos.live), which is the first product and information aggregation platform for EOS community."
+    "cn": "我们是最早期的区块链技术狂热爱好者，深耕石墨烯领域多年的技术流和审美流，持续专注为石墨烯生态贡献力量。SuperONE 项目发起人（社区 ID：crazybit) 是 BitShares 社区的资深参与者，同时也是 BitShares 见证人节点之一的负责人，对石墨烯底层有深入的研究。目前我们上线了两个产品，一是 BitShares 钱包 SuperONE（https://superone.io），二是 EOS 社区首个产品与资讯聚合平台 EOS LIVE（https://eos.live）。"
+  },
+  "account_name": "superone",
+  "public_key": "",
+  "org": {
+    "name": "SuperONE",
+    "website": "https://superone.io",
+    "email": "support@superone.io",
+    "branding":{
+      "logo": "logo-superone.png",
+      "cover": "cover-superone.png"
+    },
+    "location": "Guangzhou, China",
+    "social_network": {
+      "steemit": "https://steemit.com/@superoneio",
+      "twitter": "https://twitter.com/superoneio",
+      "facebook": "https://www.facebook.com/superoneio",
+      "github": "https://github.com/superoneio",
+      "telegram": "https://t.me/superoneio"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": "America"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "id": "",
+        "name": "China"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "id": "",
+        "name": "Japan"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
