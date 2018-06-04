@@ -1,15 +1,15 @@
 {
   "title": "EOS Wenzhou",
   "tagline": {
-    "en": "EOS Wenzhou is a blockchain oriented community founded in October 2017.",
-    "cn": "EOS Wenzhou是在2017年10月成立的以区块链为导向的社区。"
+    "en": "communicate with million international commercial business resource，and enable EOS on real economy and ecology promoting.",
+    "cn": "EOS Wenzhou:沟通世界百万商业资源,促进EOS赋能实体经济及生态繁荣"
   },
   "introduce": {
-	"en": "We are EOS.IO technical fans who obtained the earliest research on blockchain technology and EOS.IO. Currently, there are ten members on core  development team,and fifteen members on community team.",
-	"cn": "我们是最早对区块链技术和eos.io进行研究的社区粉丝。目前，核心开发团队有10名成员，社区团队有15名成员。"
+	"en": "We are the early community who devote to R&D on blockchian and EOS.IO.With the ambition on millions international commercial resource integrating,and the aim of serving for real economy,then there appear with all real thing under blockchain economy.and Blockchain 3.0 will also be well applied in real business",
+	"cn": "我们是最早对区块链技术和eos.io进行研究的社区。立志聚合全世界的商业资源,本着虚拟经济为实体经济服务的宗旨，将区块链数字经济去伪成真, 使区块链3.0技术真正落地到商业应用。"
   },
   "account_name": "eoswenzhou",
-  "public_key": "",
+  "public_key": "EOS7TE1bhYwMhscabYraC88WHpMHz3xNiS2Vokp9rJx6Q1N26Ynnh",
   "org": {
     "name": "EOS Wenzhou",
     "website": "http://www.eoswz.com",
@@ -23,7 +23,7 @@
       "steemit": "https://steemit.com/@eos.wenzhou",
       "twitter": "https://twitter.com/eoswenzhou",
 	  "weibo": "https://weibo.com/u/6327269283",
-      "telegram": "https://t.me/eoswenzhou"
+      "telegram": "https://t.me/EOSwenzhouofficial"
     }
   },
   "nodes": [
