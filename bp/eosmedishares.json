@@ -1,0 +1,40 @@
+{
+  "title": "EOS.MediShares",
+  "tagline": {
+    "en": "Build mutual trust world on EOS!",
+    "cn": "在 EOS 上建立互信世界！"
+  },
+  "introduce": {
+   "en": "We are dedicated to bringing EOS to the masses. The best way to achieve widespread adoption is through useful, fun, and well-designed products that showcase the best of the EOS platform. And also build and share our tools with the EOS developer community.",
+   "cn": "我们将致力于让更多人参与到 EOS 生态中来。我们认为最好的方式是创建对普通人来说有用、有趣、设计精美的产品，将 EOS 平台的特点发挥到极致。同时我们将创建并共享我们的开发工具给 EOS 开发者社区。"
+  },
+  "account_name": "ha4daobxg4ge",
+  "public_key": "EOS5ewbBCj3ZrAy5yJnCqBM6Y6X9nCLzJ4DR8rphbqMhapeT3S5e",
+  "org": {
+    "name": "EOS.MediShares",
+    "website": "http://eos.medishares.org/",
+    "email": "hello@medishares.org",
+    "branding":{
+      "logo": "logo-eosmedishares.png",
+      "cover": "cover-eosmedishares.png"
+    },
+    "location": "Singapore",
+    "social_network": {
+      "steemit": "https://steemit.com/@ericfish",
+      "github": "https://github.com/MediShares",
+      "telegram": "https://t.me/eosmedishares"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": "Singapore"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
