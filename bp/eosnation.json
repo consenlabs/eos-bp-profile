@@ -1,0 +1,46 @@
+{
+  "title": "EOS Nation",
+  "tagline": {
+    "en": "Building our Future one Block at a Time"
+  },
+  "introduce": {
+    "en": "EOS Nation is dedicated to fostering the EOS platform through reliable and efficient block production and community engagement. We believe in a future where life, liberty, and property is protected through decentralization. Our mission is to bring together all members of the EOS community under one project. Accessible to the community in jurisdictions around the world. We strive to share our vision for the future of EOS through education and through education, engagement and support. EOS Nation is focused on trying to ignite leadership in ourselves and others... Expecting greatness, we will discover it! A global community is possible, and we aim to make it a reality."
+  },
+  "account_name": "eosnationcom",
+  "public_key": "EOS8PkNNBYU1xnbcjBUNm1mT6N68QiGvCDgPT97rqurLBEjDanSXK",
+  "org": {
+    "name": "EOS Nation",
+    "website": "https://eosnation.io",
+    "email": "info@eosnation.io",
+    "branding":{
+      "logo": "logo-eosnation.png",
+      "cover": "cover-eosnation.png"
+    },
+    "location": "Canada",
+    "social_network": {
+      "steemit": "eosnation",
+      "twitter": "EOS_Nation",
+      "youtube": "UCXgAY9DyooykrubRXw3xK1g",
+      "facebook": "groups/EOSNation",
+      "github": "EOS-Nation",
+      "reddit": "EOSNation",
+      "keybase": "eosnation",
+      "telegram": "EOSNation",
+      "wechat": ""
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "Toronto, Canada",
+        "country": "CA",
+        "latitude": 43.655045,
+        "longitude": -79.381306
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
