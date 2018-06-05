@@ -4,14 +4,12 @@
     "en": "Distributed Autonomous Organization based on EOS"
   },
   "introduce": {
-    "en": "DAO.EOS is an autonomous distributed organization and EOS block production candidate.
-     DAO.EOS nodes and communities will be owned by all DAO.EOS token holders.
-     The goal of DAO.EOS is to help the development of DAPP based on EOS development through the vote of all token holders."
+    "en": "DAO.EOS is an autonomous distributed organization and EOS block production candidate.DAO.EOS nodes and communities will be owned by all DAO.EOS token holders.The goal of DAO.EOS is to help the development of DAPP based on EOS development through the vote of all token holders."
   },
   "account_name": "daoeosbpbwin",
   "public_key": "",
   "org": {
-    "name": "Dao Eos ",
+    "name": "Dao Eos",
     "website": "http://www.daoeos.io",
     "email": "contactus@daoeos.io",
     "branding":{
@@ -29,7 +27,7 @@
   "nodes": [
     {
       "location": {
-        "id": "",
+        "id": "65",
         "name": "Singapore"
       },
       "is_producer": false,
