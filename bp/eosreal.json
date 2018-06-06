@@ -1,0 +1,41 @@
+{
+  "title": "EOSREAL",
+  "tagline": {
+    "en": "EOSREAL is a  professional team with international background, we aim to improve the ecosystem. Also focus on underprivilegal individuals.",
+    "zh": "拥有国际化背景的专业团队EOSREAL，将致力于完善EOS生态系统，尤其关注区块链技术能为弱势群体带来的裨益。"
+  },
+  "introduce": {
+    "en": "EOSREAL has a team of multiple cultural backgrounds (Singapore, China, Pakistan, Australia). We have rich professional experience in finance, compliance, international affairs and psychology research. One of our members had worked for UN and World Bank for over 10 years. One has long career in financial industry in Wall Street, and another one has outstanding academic performance in psychology.We are among the first group of BPCs that have passed 8 standard checks recommended by EOS GO. We abide by the highest ethical standards, and dedicated to be the most professional and most transparent BP in EOS community.Due to our professional advantage and experienc, EOSREAL is devoted to contributing to the governance and development of EOS community. We have made a critcal contribution to the voting mechanism, constitution revision, bp agreement draft and arbitration system estabilishment, and thus are highly recognized by the community.EOSREAL pays a special attention to the underprivileged, and plan to start dApps development in this field.",
+    "zh": "EOSREAL的团队拥有多重文化背景（新加坡、中国、巴基斯坦、澳大利亚），在金融、合规、国际事务和心理研究领域拥有丰富的专业经验。我们团队中有的在世界银行和联合国工作超过十年的成员，拥有华尔街丰富金融从业经验的成员，还有在学术研究上有突出成绩的成员。我们是首批通过EOS GO推荐的所有八项标准的超级节点，我们将以最高的职业道德标准约束自己，致力于成为社区中最专业化、最公开透明的超级节点。由于我们的专业优势和经验，EOSREAL致力于EOS社区生态的治理和发展，为EOS投票机制、宪法修订、超级节点协议设计和仲裁系统建立做出了关键和重要的贡献。EOSREAL所发起的工作计划帮助EOS社区在治理文件上达成了共识，得到了社区的高度评价。EOSREAL更加关注区块链为弱势群体带来的裨益。我们未来将致力于相关方向的dApp的开发。"
+  },
+  "account_name": "eosrealbpcsg",
+  "public_key": "EOS6fcpQu16GAASdLwK6BbTQTMK5EZSh1ecci2oKQJdioQvxp8DRs",
+  "org": {
+    "name": "EOSREAL",
+    "website": "http://eosreal.com",
+    "email": "eos@eosreal.one",
+    "branding":{
+      "logo": "logo-eosreal.jpg",
+      "cover": "cover-eosreal.png"
+    },
+    "location": "singapore,singapore",
+    "social_network": {
+      "steemit": "https://steemit.com/@eosreal-io",
+      "twitter": "https://twitter.com/EOSREAL_IO",
+      "github": "https://github.com/EOSREAL",
+      "telegram": "https://t.me/G6-t7RKGUdGWu-Q8MA5IKg"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "65",
+        "name": "singapore"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
