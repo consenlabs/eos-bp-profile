@@ -1,0 +1,41 @@
+{
+  "title": "Blockgenic",
+  "tagline": {
+    "en": "Bringing Enterprises to EOS Ecosystem",
+    "zh": "把世界顶级企业带进EOS生态系统"
+  },
+  "introduce": {
+    "en": "Our team has 70 years of combined enterprise experience across top media and technology companies in the world. Here are some unique points：Our team members work has been nominated for Technical Academy Award (Technical Oscar). Members of our team have authored 7 Internet (IETF RFCs) standards on authentication, identity and cryptography. Our team members hold 12 granted patents, 7 of which are focused on security. Our team members have co-founded one of the earliest and very successful cryptocurrency funds in the world.",
+    "zh": "我们团队来自世界顶级的媒体和科技公司，比如梦工厂、微软和亚马逊，并有数十年的从业经验。取得的成就有：作品被提名奥斯卡；编写了7项有关验证、身份和密码学的互联网标准(IETF RFCs)；持有12项专利，其中7项来自安全领域；共同创立了最早（之一）投资区块链的基金。"
+  },
+  "account_name": "blockgenic21",
+  "public_key": "",
+  "org": {
+    "name": "Blockgenic",
+    "website": "www.blockgenic.io",
+    "email": "info@blockgenic.io",
+    "branding":{
+      "logo": "logo-blockgenic.png",
+      "cover": "cover-blockgenic.png"
+    },
+    "location": "Seattle, USA",
+    "social_network": {
+      "steemit": "https://steemit.com/@block21",
+      "twitter": "https://twitter.com/blockgenic",
+      "github": "https://github.com/blockgenic",
+      "telegram": "https://t.me/EOS_Seattle"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "1",
+        "name": "United States"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
