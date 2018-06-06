@@ -15,8 +15,8 @@
         "website": "http://www.eosmedi.com",
         "email": "admin@eosmedi.com",
         "branding": {
-            "logo": "180X180.png",
-            "cover": "1125X420.png"
+             "logo": "logo-eosmedi.png",
+             "cover": "cover-eosmedi.png"    
         },
         "location": "Madrid",
         "social_network": {
@@ -38,9 +38,5 @@
             "api_endpoint": "",
             "ssl_endpoint": ""
         }
-    ],
-    "branding": {
-         "logo": "logo-eosmedi.png",
-         "cover": "cover-eosmedi.png"    
-    }
+    ]
 }
