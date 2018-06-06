@@ -38,5 +38,9 @@
             "api_endpoint": "",
             "ssl_endpoint": ""
         }
-    ]
+    ],
+    "branding": {
+         "logo": "logo-eosmedi.png",
+         "cover": "cover-eosmedi.png"    
+    }
 }
