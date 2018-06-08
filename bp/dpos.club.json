@@ -1,0 +1,61 @@
+{
+  "title": "DPoS.CLUB",
+  "tagline": {
+    "en": "Open Community of DPoS, The World Works On A New Way.",
+	  "zh": "助力开发者社区，共建DPoS生态。"
+  },
+  "introduce": {
+    "en": "We are a group of developers who believe that the BlockChain Technology will change the way the world works, and the DPoS is the mapping of the excellent social institutions in BlockChains. We have worked in the Bitshares developer community for a long time, have rich experience in product, operation and maintenance, also familiar with the souce code.  Now we are working on the ecological construction of DPoS to promote the self-evolution of other communities based on DPoS",
+	  "zh": "我们是一群出身于技术社区的DPoS信仰者，出身于国内石墨烯开发者社区，对产品、运维、底层开发都有丰富经验。我们认为，DPoS(委托权益共识机制）及其变种是现实中优秀制度的线上映射，可能是共识机制的最终形态。鉴于此，我们致力于助力开发者，共建DPoS生态，协助推动项目的自我进化。"
+  },
+  "account_name": "dposclubprod",
+  "public_key": "",
+  "org": {
+    "name": "DPoS.Club",
+    "website": "https://dpos.club",
+    "email": "dpos.club@gmail.com",
+    "branding":{
+      "logo": "logo-dpos.club.png",
+      "cover": "cover-dpos.club.png"
+    },
+    "location": "Beijing, China",
+    "social_network": {
+      "steemit": "https://steemit.com/@dposclub",
+      "twitter": "https://twitter.com/DPoS_CLUB",
+      "github": "https://github.com/dposclub",
+      "telegram": "https://t.me/DPoSClub"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "81",
+        "name": "Japan"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+	{
+      "location": {
+        "id": "65",
+        "name": "Singapore"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "id": "86",
+        "name": "Bejing"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
