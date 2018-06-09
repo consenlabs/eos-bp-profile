@@ -15,7 +15,8 @@
     "website": "https://meet.one",
     "email": "hello@meet.one",
     "branding":{
-      "logo": "https://static.ethte.com/meet/static/images/logo-black-44749e58a98d59da42d788a564cc3634.png"
+      "logo": "logo-eosiomeetone.png",
+      "cover": "cover-eosiomeetone.png"
     },
     "location": "City, Singapore",
     "social_network": {
