@@ -33,8 +33,8 @@
         "name": ""
       },
       "is_producer": true,
-      "p2p_endpoint": "mars.fnp2p.eosbixin.com",
-      "api_endpoint": "mars.fn.eosbixin.com",
+      "p2p_endpoint": "mars.fnp2p.eosbixin.com:443",
+      "api_endpoint": "mars.fn.eosbixin.com:80",
       "ssl_endpoint": ""
     }
   ]
