@@ -6,7 +6,7 @@
     },
     "introduce": {
         "en": "As a global melting pot throughout history, Spain and the Mediterranean area have attracted multiple cultures and developed a strong sense of commerce and global markets. \nWith multiple cultural roots, we found theMediterranean area to be one of the gaps to be tackled by support DAPPs developers.With headquarters in Madrid, our group includes multiple profiles and a strong background in software development and cryptography. We hope to bring to the community a mix of skills, from European social activists to Chinese technical expertise or global business managers for Fortune 500; our main objectives are: Give support to the global EOS network Cooperate with the community to raise awareness of EOS blockchain’s awesome possibilities  Support the growth of DAPPS and DAPP developers in the Mediterranean area Help to change the world by offering an opportunity to individuals and groups with tools for their development.",
-        "zh": "EOS Mediterranean(地中海)的宗旨是加速地中海地区的区块链速度，支持地区的DAPP发展。\n西班牙，意大利，希腊，北非等地中海地区有着灿烂的文明，然而由于金融危机的影响金融机构举步维艰，去中心化运动却异常活跃，DAPP认知条件非常成熟，然而除了EOS目前没有一 条链能承载高并发DAPP，于是EOS Mediterranean (EOS地中海)愿意为当地DAPP开发者提供高速区块链基础服务，并也希望孵化当地DAPP的发展，让EOS.IO成为当地DAPP开发者的首选。 "
+        "zh": "EOS Mediterranean(地中海) 的宗旨是加速地中海地区的区块链速度，支持地区的DAPP发展。地中海地区有着灿烂的文明，美味的食物，无敌的风景还有有世界最美的女神（不是在说雅典娜 - - ）！\n西班牙，意大利，希腊，北非等地中海地区，由于金融危机的影响金融机构举步维艰，去中心化运动却异常活跃，DAPP认知条件非常成熟，然而除了EOS目前没有一条链能承载高并发DAPP，于是 EOS Mediterranean（EOS地中海）愿意为当地DAPP开发者提供高速区块链基础服务，并希望孵化当地DAPP的发展，让EOS.IO成为当地DAPP开发者的首选。欢迎大家来到地中海时，EOS Mediterranean会给到最热心的当地接待！"
     },
     "account_name": "eosmedinodes",
     "public_key": "EOS8A9cAMw29gr23Wk7FkmPZA1DAhdwFfpiNrKSWrgFn5y6CderFD",
@@ -28,15 +28,15 @@
         }
     },
     "nodes": [
-        {
-            "location": {
+         {
+              "location": {
                 "id": "",
-                "name": ""
-            },
-            "is_producer": false,
-            "p2p_endpoint": "",
-            "api_endpoint": "",
-            "ssl_endpoint": ""
-        }
+                "name": "Paris",
+              },
+              "is_producer": true,
+              "p2p_endpoint": "bp.eosmedi.com:9877",
+              "api_endpoint": "",
+              "ssl_endpoint": "https://api.eosmedi.com"
+            }
     ]
 }
