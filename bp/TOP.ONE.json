@@ -30,8 +30,8 @@
   "nodes": [
     {
       "location": {
-        "id": "86",
-        "name": "China"
+        "id": "852",
+        "name": "HongKong"
       },
       "is_producer": true,
       "p2p_endpoint": "",
