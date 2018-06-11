@@ -8,15 +8,15 @@
     "en": "TOP ONE will become a platform integrating funding investment, ICO project financing and currency-to-currency transactions. In addition to the Chinese market, TOP.ONE is committed to exploring emerging markets in Africa, Southeast Asia, South America and the like countries, providing all-language digital currency trading experience. TOP.ONE will also provide high-quality projects with various incubation services, including startup financing, business consulting, resource exchange, and exchange listing. After the successful incubation of the project, it will be given priority to launch on TOP.ONE exchange.",
     "zh": "TOP.ONE 致力于打造一个融合基金投资、区块链项目融资、币币交易为一体的综合数字货币平台。除了东亚和欧美等现有活跃市场，TOP.ONE 将专注开拓一带一路、非洲、东南亚、南美等新兴市场，提供全语种的数字货币交易体验。TOP.ONE还为优质的项目提供包括创业融资、业务咨询、资源对接、交易所上线在内的各项孵化服务。"
   },
-  "account_name": "TOP.ONE",
-  "public_key": "",
+  "account_name": "toponeforeos",
+  "public_key": "EOS66TmbW6LYhwsewwT7vWYwh8mZfxapvNEaMAg46T5wveXnRtpjm",
   "org": {
     "name": "TOP.ONE",
     "website": "https://www.top.one/",
     "email": "contact@top.one",
     "branding":{
-      "logo": "logo-top_one.png",
-      "cover": "cover-top_one.png"
+      "logo": "logo-toponeforeos.png",
+      "cover": "cover-toponeforeos.png"
     },
     "location": "British Virgin Islands",
     "social_network": {
@@ -30,10 +30,10 @@
   "nodes": [
     {
       "location": {
-        "id": "86",
-        "name": "China"
+        "id": "852",
+        "name": "HongKong"
       },
-      "is_producer": false,
+      "is_producer": true,
       "p2p_endpoint": "",
       "api_endpoint": "",
       "ssl_endpoint": ""
@@ -43,17 +43,7 @@
         "id": "81",
         "name": "Japan"
       },
-      "is_producer": false,
-      "p2p_endpoint": "",
-      "api_endpoint": "",
-      "ssl_endpoint": ""
-    },
-	{
-      "location": {
-        "id": "66",
-        "name": "Thailand"
-      },
-      "is_producer": false,
+      "is_producer": true,
       "p2p_endpoint": "",
       "api_endpoint": "",
       "ssl_endpoint": ""
