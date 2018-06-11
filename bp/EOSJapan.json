@@ -1,0 +1,41 @@
+{
+  "title": "EOSJapan",
+  "tagline": {
+    "en": "Make EOS carry omnidirectional distribution and circulation of human values!",
+    "zh": "EOSJapan,做最努力的日本节点！"
+  },
+  "introduce": {
+    "en": "We are EOSJapan, the EOS enthusiast community in Japan, and the founding team is working on the promotion of EOS in Japan.",
+    "zh": "我们是EOSJapan，日本的EOS爱好者社群，创始团队正在为EOS在日本的推广进行努力。"
+  },
+  "account_name": "eosjapan",
+  "public_key": "",
+  "org": {
+    "name": "EOSJapan",
+    "website": "http://www.eosjapan.co.jp",
+    "email": "eosjapancojp@yahoo.co.jp",
+    "branding":{
+      "logo": "logo-eosjapan.png",
+      "cover": "cover-eosjapan.png"
+    },
+    "location": "Tokyo, Japan",
+    "social_network": {
+      "steemit": "https://steemit.com/@eosjapancojp",
+      "twitter": "https://twitter.com/EosJapancojp",
+      "facebook": "https://www.facebook.com/groups/222839938478527/",
+      "telegram": "https://t.me/eosjapancojp"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": ""
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

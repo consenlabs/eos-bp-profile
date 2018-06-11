@@ -1,0 +1,40 @@
+{
+  "title": "EOSHCC",
+  "tagline": {
+    "en": "Integrate EOS information of the whole network to establish healthy communities and applications based on eos.hcc",
+    "zh": "整合全网EOS资讯,建立基于eos.hcc的健康社区和应用"
+  },
+  "introduce": {
+    "en": "HCC applies the decentralized distributed structure to the medical and health industry to reduce the pain points of huge resource consumption and complicated data circulation, and finally achieve the purpose of reducing the cost of the intermediary; through the security trust mechanism, it can solve the current great health information technology. The certification defect, with the flexible programmability of the blockchain, helps healthcare organizations build outreach applications. CC Personal Health Management Platform APP is a DAPP application under the umbrella of Hcchain; it provides the most comprehensive personal medical records and health management for community members worldwide.",
+    "zh": "HCC是将去中心化的分布式结构应用于医疗健康行业，以减少资源耗费巨大、数据流转复杂等行业疼点， 最终达到减少中介成本的目的；通过安 全的信任机制，解决现今大健康信息技术的认证 缺陷，用区块链灵活的可编程特性，帮助医疗健 康机构建立拓展应用。CC个人医疗健康管理平台APP是Hcchain旗下的一个DAPP应用；为全球社区人员提供最全面的个人病历和健康管理。"
+  },
+  "account_name": "eoshcchealth",
+  "public_key": "EOS7qQrBczoy9B892tRY9eir21eBh6S1nUMjZGyJaVY1EDLe7TdvL",
+  "org": {
+    "name": "EOSHCC",
+    "website": "http://eos.hcc.top/index_en.html",
+    "email": "help@pu-li.tech",
+    "branding":{
+      "logo": "logo-eoshcc.png",
+      "cover": "cover-eoshcc.png"
+    },
+    "location": "Crescent, Singapore",
+    "social_network": {
+      "steemit": "https://steemit.com/@eos.hcc",
+      "github": "https://github.com/healthcarechain",
+      "telegram": "https://t.me/eos_hcc_node"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "65",
+        "name": "Singapore"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

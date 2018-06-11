@@ -1,0 +1,43 @@
+{
+  "title": "OracleChain",
+  "tagline": {
+    "en": "LINK DATA LINK WORLD! Delving into ten billion dollar valuation market，linking blockchain technology services with real-life scenarios",
+    "zh": "OracleChain（欧链）作为全球第一个直面EOS区块链生态Oracle（预言机）需求的基础应用，将区块链技术服务和现实生活中的多种需求场景直接高效对接，深耕这个百亿美金估值的巨大市场。"
+  },
+  "introduce": {
+    "en": "As the world’s first application built on an EOS ecosphere, OracleChain needs to meet the demands of the Oracle (oracle machine) ecosystem by efficiently linking blockchain technology services with various real-life scenarios, thereby delving into this immense tens of billions of dollars valuation market. Our mission is to “Link Data, Link World,” with the aim of becoming the infrastructure linking the real world with the blockchain world. By achieving intra-chain and extra-chain data connectivity, we aspire to create a service provisioning platform that can most efficiently gain access to extra-chain data in the future blockchain world.",
+    "zh": "OracleChain（欧链）作为全球第一个直面EOS区块链生态Oracle（预言机）需求的基础应用，将区块链技术服务和现实生活中的多种需求场景直接高效对接，深耕这个百亿美金估值的巨大市场。OracleChain的使命是“让世界与区块链互联”，立志成为链接现实世界与区块链世界的基础设施，通过把外部数据引入区块链来实现链内链外的数据互通，OracleChian将是未来区块链世界中最高效的获取链外数据的服务提供平台。"
+  },
+  "account_name": "oraclechain",
+  "public_key": "",
+  "org": {
+    "name": "OracleChain",
+    "website": "https://oraclechain.io/",
+    "email": "contact@oraclechain.io",
+    "branding": {
+      "logo": "logo-oraclechain.png",
+      "cover": "cover-oraclechain.png"
+    },
+    "location": "Beijing, China",
+    "social_network": {
+      "steemit": "https://steemit.com/@oraclechain",
+      "twitter": "https://twitter.com/Oracle_Chain",
+      "github": "https://github.com/OracleChain",
+      "telegram": "https://t.me/OracleChainChat",
+      "facebook": "https://t.me/OracleChainChat",
+      "weibo": " https://www.weibo.com/u/6347445425?is_hot=1"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": ""
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

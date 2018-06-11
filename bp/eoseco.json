@@ -1,0 +1,42 @@
+{
+  "title": "EOSeco(EOS生态区)",
+  "tagline": {
+    "en": "We are a team dedicated to EOS project incubation and community development, aiming at providing strong BP service and tools for DAPP developers.",
+    "zh":"我们致力于为广大EOS拥护者提供开放、自由的社区建设，并将坚定地、稳定地、有序地维护好EOS主节点的运转，为社区开发者提供便捷。"
+  },
+  "introduce": {
+    "en": "We are a team dedicated to EOS project incubation and community development, aiming at providing services for all DAPP developers based on the EOS platform. We are launching project on EOS wallet, EOS explorer, EOS side chain , etc. We also provide EOSeco fund to support startup EOS project.",
+    "zh":"EOS生态区是由易理华先生发起的。我们团队本身是在做一个项目Uchain.one，基于区块链的分布式多链协议，构建了跨链的点对点信任体系，优化服务于以加密数字资产管理服务平台和商业级应用基础设施为核心的应用生态。我们豪华的技术团队和硬件设施，在做Uchain项目的同时，基于对EOS系统的深度理解，同步做了EOS生态区^_^。"
+  },
+  "account_name": "eosecosystem",
+  "public_key": "",
+  "org": {
+    "name": "EOSeco",
+    "website": "http://www.eoseco.com/",
+    "email": "luxueyou@eoseco.net",
+    "branding":{
+      "logo": "logo-eoseco.png",
+      "cover": "cover-eoseco.png"
+    },
+    "location": "Shanghai, China",
+    "social_network": {
+      "steemit": "https://steemit.com/@eoseco2018",
+      "twitter": "https://twitter.com/Eoseco2018",
+      "facebook": "https://www.facebook.com/eoseco2018",
+      "github": "https://github.com/Eoseco",
+      "telegram": "http://t.me/eoseco2018"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": ""
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
