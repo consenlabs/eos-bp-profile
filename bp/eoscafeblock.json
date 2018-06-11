@@ -1,0 +1,41 @@
+{
+  "title": "EOS Cafe",
+  "tagline": {
+    "en": "Power of Coffee to Produce Blocks",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "The mission of EOS Cafe Calgary as a block producer is to ultimately increase the adoption and value of EOS. We strongly believe that it is our role as a block producer to support dApps and dApp developers. ",
+    "zh": ""
+  },
+  "account_name": "eoscafeblock",
+  "public_key": "EOS7MAPWVuYcxNtc2n9e6WaEedEZd9thGVHn2Wpu2PoMhNiteTTqL",
+  "org": {
+    "name": "EOS Cafe Calgary",
+    "website": "https://eoscafecalgary.com",
+    "email": "syedjafri@eoscalgary.io",
+    "branding":{
+      "logo": "logo-eoscafeblock.png",
+      "cover": "cover-eoscafeblock.png"
+    },
+    "location": "Calgary, Canada",
+    "social_network": {
+      "steemit": "https://steemit.com/@eoscafe",
+      "twitter": "https://twitter.com/eoscafe",
+      "github": "https://github.com/eoscafe",
+      "telegram": "https://t.me/eoscafe"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "1",
+        "name": "Canada"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "http://mainnet.eoscalgary.io",
+      "ssl_endpoint": ""
+    }
+  ]
+}
