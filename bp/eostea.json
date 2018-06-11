@@ -8,8 +8,8 @@
     "en": "A team dedicated to the development and application of EOS.IO in China.We will always remain independent, and contribute to the community in a continuous manner. We welcome oversight and inspection from everyone.",
     "zh": "EOSTEA是一个由社区驱动且保持中立的团队, 目前运营着最大的EOS开发者社区: eosfans.io"
   },
-  "account_name": "",
-  "public_key": "",
+  "account_name": "eosteaeostea",
+  "public_key": "EOS5B7V5TxdZPNiBeDUJSdoovg4Unp3CCbUy4KDiuWJXEWcctXLZN",
   "org": {
     "name": "EOSTEA",
     "website": "https://eostea.io/",
@@ -30,12 +30,12 @@
     {
       "location": {
         "id": "",
-        "name": ""
+        "name": "HongKong"
       },
       "is_producer": false,
       "p2p_endpoint": "",
-      "api_endpoint": "",
-      "ssl_endpoint": ""
+      "api_endpoint": "http://eosio.tc.ink",
+      "ssl_endpoint": "https://eosio.tc.ink"
     }
   ]
 }
