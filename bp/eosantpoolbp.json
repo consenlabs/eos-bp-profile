@@ -32,7 +32,7 @@
         "id": "",
         "name": "China"
       },
-      "is_producer": false,
+      "is_producer": true,
       "p2p_endpoint": "",
       "api_endpoint": "",
       "ssl_endpoint": ""
