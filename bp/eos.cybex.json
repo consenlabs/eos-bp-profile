@@ -9,7 +9,7 @@
     "zh": "EOS.CYBEX是一个专注于EOS项目孵化、生态运营的社区，旨在为EOS上的DAPP开发者提供一站式服务，其中包括测试链开发环境和最齐全的测试工具及服务。"
   },
   "account_name": "EOS.CYBEX",
-  "public_key": "Public key for producer account",
+  "public_key": "",
   "org": {
     "name": "EOS.CYBEX",
     "website": "https://eos.cybex.io/index_en.html",
