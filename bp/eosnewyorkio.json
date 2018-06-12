@@ -1,0 +1,42 @@
+{
+  "title": "EOS New York",
+  "tagline": {
+    "en": "Always Adding Value. Everything a Block Away.",
+    "zh": "Always Adding Value. Everything a Block Away."
+  },
+  "introduce": {
+    "en": "EOS New York was the first Western Block Producer candidate to announce itself to the world and the first to reach out to the Chinese community. We are self-funded and self-owned so that the needs of an investor are never in conflict with the needs of the network. We are an agile core team of 4 with multiple contractor relationships. Our extensive background is in data center operations, cyber security, communications, and economics. The mission of EOS New York is to position the EOS blockchain as the most attractive decentralized application development platform to developers in the world. We achieve this by increasing the value of the EOS blockchain in a transparent way through advancements in the technology, community empowerment, and increasing adoption through education. We believe simple and scalable solutions will be the key to unlocking EOS’ success. Our first dApp contribution is a tool that tells developers how many EOS they need for their dApp called the EOS Resource Planner.",
+    "zh": "EOS New York 是世界上第一个宣布参选的国外超级节点，也是第一个主动和中国社区建立联系的超级节点。我们没有接收过任何外部投资，一直保持独立运营以保证节点不受投资人控制，完全只为社区服务。我们的主要成员有四位，团队也有多位兼职人员。我们团队成员拥有丰富的数据中心运维经验，也是网络安全、公关和经济学的专家。EOS New York 的使命是帮助 EOS 成为世界上最受开发者欢迎的去中心应用开发平台。我们将通过推进技术进步，社区赋能以及通过教育提高普及率来实现这一目标。我们相信通过简洁易用和可扩展的功能将会是 EOS 成功的关键。我们的第一个 dApp 是一款辅助开发者估算他们的 dApp 将需要多少 EOS 的资源计划工具：EOS Resource Planner."
+  },
+  "account_name": "eosnewyorkio",
+  "public_key": "EOS6GVX8eUqC1gN1293B3ivCNbifbr1BT6gzTFaQBXzWH9QNKVM4X",
+  "org": {
+    "name": "EOS New York",
+    "website": "https://www.eosnewyork.io/",
+    "email": "community@eosnewyork.io",
+    "branding": {
+      "logo": "logo-eosnewyorkio.png",
+      "cover": "cover-eosnewyorkio.png"
+    },
+    "location": "Cook Islands",
+    "social": {
+      "steemit": "https://steemit.com/@eosnewyork",
+      "twitter": "https://twitter.com/eosnewyork",
+      "facebook": "https://www.facebook.com/eosnewyorkBP/",
+      "github": "https://github.com/eosnewyork",
+      "telegram": "https://t.me/eosnewyorkchat"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "primary",
+        "name": "BR"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "35.198.59.183:9876",
+      "api_endpoint": "http://api.eosnewyork.io:80",
+      "ssl_endpoint": "https://api.eosnewyork.io:443"
+    }
+  ]
+}
