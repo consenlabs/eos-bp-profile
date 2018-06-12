@@ -1,0 +1,42 @@
+{
+  "title": "BitcoinGOD",
+  "tagline": {
+    "en": "No-profit organization Bitcoin God, a safe, stable and efficient EOS democracy community.",
+    "zh": "BitcoinGOD 一个安全，稳定，高效的非盈利EOS民主公益社区"
+  },
+  "introduce": {
+    "en": "No-profit organization Bitcoin God, aims to create a safe, stable and efficient EOS democracy node. We are a technical group of warm-hearted Public welfare undertaking, we are committed to building a democratic, open and transparent public welfare community based on EOS platform. In our community all the people concerned public welfare can invest and supervise the areas of interest freely and equally. It is an equal community, and there is no injustice here because of the concentration of absolute power. We believe and invest in our passion, knowledge and faith. We will make positive contributions to EOS platform and its community, and we are confident that our EOS community will be a model for public welfare undertakings.",
+    "zh": "非营利性的Bitcoin God, 旨在打造一个安全,稳定高效的EOS民主节点, 我们是一群热心公益事业的技术团队，我们正在致力于围绕EOS平台建设一个民主、公开、透明的公益社区，所有有心公益事业的人士都可以在我们的社区自由，平等的对自己所关心的领域进行投资，监督，这里是一个平等的社区，这里没有因为绝对权力集中而产生的各种不公。我们相信并为之投入我们的热情，知识和信仰。我们将为EOS平台及其社区做出积极的贡献，同时我们坚信我们的EOS公益社区将成为公益事业的典范。"
+  },
+  "account_name": "bitcoingod11",
+  "public_key": "EOS8FGBXiineqciyhjKM2ypFgETDu8BJTDyHXuA2kY58Rbt1RNeHm",
+  "org": {
+    "name": "BitcoinGOD",
+    "website": "https://eos.bitcoingod.org/",
+    "email": "eos@bitcoingod.org",
+    "branding":{
+      "logo": "logo-bitcoingod11.png",
+      "cover": "cover-bitcoingod11.png"
+    },
+    "location": "CA, US",
+    "social_network": {
+      "steemit": "https://steemit.com/@bitcoingod2018/",
+      "facebook": "https://www.facebook.com/BitcoinGodOrg/",
+      "twitter": "https://twitter.com/BitcoinGodOrg",
+      "reddit": "https://www.reddit.com/user/BitcoinGodOrg/",
+      "telegram": ""
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "1"
+        "CA": "US"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
