@@ -9,7 +9,7 @@
 		"cn": "一般社团法人EOS开发者协会(Japan EOS Developer Association, 一般社団法人EOS開発者協会，简称JEDA)立足于日本，以支援日本地区EOS生态发展为基本，深度参与项目生态建设。积极组织线上线下活动，召集EOS开发者开发有吸引力的Dapp，并且开发基于EOS的多种服务。"
 	},
 	"account_name": "jedaaaaaaaaa",
-	"public_key": "",
+	"public_key": "EOS5XP49jx9eJNQZjqvP7pfKNaAe5JmyAbPZMdsiqD61QQEExqUYe",
 	"org": {
 		"name": "JEDA",
 		"website": "http://www.eosjapan.org",
@@ -27,14 +27,18 @@
 			"telegram": "https://t.me/eosjapan"
 		}
 	},
-	"nodes": [{
-		"location": {
-			"id": "",
-			"name": ""
-		},
-		"is_producer": false,
-		"p2p_endpoint": "",
-		"api_endpoint": "",
-		"ssl_endpoint": ""
-	}]
+	"nodes": [
+    {
+      "location": {
+        "name": "Tokyo",
+        "country": "JP",
+        "latitude": 35.679105,
+        "longitude": 139.779609
+      },
+      "is_producer": false,
+      "p2p_endpoint": "p.jeda.one:3322",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
 }
