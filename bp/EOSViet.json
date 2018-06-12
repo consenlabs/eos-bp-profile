@@ -1,0 +1,42 @@
+{
+  "title": "EOS Vietnam",
+  "tagline": {
+    "en": "The coffee industry is about more than just coffee.",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "Most people will not expect a coffee company to get involved in a technology driven field like EOS, but technology is the core of our business. The coffee industry is about more than just coffee; at its heart it is a logistics business bringing beans grown in the hills to consumers worldwide.",
+    "zh": ""
+  },
+  "account_name": "eosvietnambp",
+  "public_key": "EOS6LThT4JZmqbqPjzk1Sf8VCBQg6XWX6hjaVmHJDSRkfWsTxZdLG",
+  "org": {
+    "name": "EOS VietNam",
+    "website": "eosviet.io",
+    "email": "admin@eosviet.io",
+    "branding":{
+      "logo": "logo-eosvietnambp.png",
+      "cover": "cover-eosvietnambp.png"
+    },
+    "location": "Ho Chi Minh City, Vietnam",
+    "social_network": {
+      "steemit": "https://steemit.com/@eosvietnam",
+      "twitter": "",
+      "facebook": "",
+      "github": "",
+      "telegram": "https://t.me/EOSViet"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "VN",
+        "name": "Vietnam"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
