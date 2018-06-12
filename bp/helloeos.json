@@ -2,14 +2,14 @@
   "title": "HelloEOS",
   "tagline": {
     "en": "Gathering the best developers of Graphene toolkit and senior leaders of the community.",
-	  "zh": "汇聚国内最强石墨烯开发者力量，构建最具底蕴EOS社区。"
+	"zh": "汇聚国内最强石墨烯开发者力量，构建最具底蕴EOS社区。"
   },
   "introduce": {
     "en": "The HelloEOS team was originated from the HelloBTS community established in 2014. BTS (BitShares) is the first blockchain project promoted by EOS founder Daniel Larimer (BM). HelloEOS is composed of the most powerful Graphene development forces and some of the senior community participants in China. The team has implemented in-depth research in Graphene blockchain technology, DPOS consensus algorithm and DAC distributed autonomous concept and the outcomes of the research have been put into practice. With the comprehensive capabilities in graphene blockchain network development and maintenance, HelloEOS is one of the prioneering groups to research and advocate the idea of EOS in China. Its founder Zi Cen is still a member of the BitShares committee. In March 2018, HelloEOS officially announced its participation in the EOS super node campaign. Based on its community strength and technological R&D capacities, the team is actively involved in the development of the EOS ecosystem. In May 2018, HelloEOS reached a cooperation agreement with Shui Mu Feng Hua, the BIC Capital and the Fuyun Capital, which represents the start of HelloEOS’ corporatization process to stimulate standardization and professionalization which are considered the quality of a Block Producer candidate. In the meantime, HelloEOS sets up a specific incubation fund with the amount of CNY 1 billion in the initial phase – HelloBIC, and has completed its series PreA financing round with the amount of CNY 150 million in early June. So far, HelloEOS has formed a vigorous team for the EOS ecosystem development, covering the priority areas of community, technology, industrial park, research institution and incubation fund. At present, HelloEOS is devoting itself to building a top EOS node and community. With the support of its own advantages and strengths, HelloEOS will facilitate the development of the EOS ecosystem following the six main lines of action, coming as node maintenance, network security, technology research and development, capacity-building for developers, professional media and HelloEOS clubs.",
-	  "zh": "HelloEOS团队缘起于2014年成立的HelloBTS社区，BTS（比特股）是EOS创始人Daniel Larimer（BM）的首个区块链项目。团队聚集了中国区最强的石墨烯开发力量和最资深的社区参与者，对石墨烯区块链技术、DPOS共识算法和DAC分布式自治理念有着深入研究和实践，具备全面的石墨烯区块链网络开发能力和维护能力，也是国内最早研究和推广EOS的团队之一，创始人梓岑目前仍是BTS理事会成员。2018年3月，HelloEOS正式宣布参与EOS超级节点竞选。此后，在自身社区力量、技术研发力量基础上，团队积极布局EOS生态，在2018年5月与水木丰华、BIC资本、扶云资本共同发起成立柚梓科技，完成公司化运营，开始推进超级节点竞选团队标准化、规范化、专业化运营。同时，旗下首期设立了一支规模达10亿元人民币的孵化基金——HelloBIC，并于6月初完成了1.5亿元人民币PreA轮融资。至此，HelloEOS形成了社区、技术、产业园、研究院、孵化基金五位一体的EOS生态建设力量。目前，HelloEOS正致力于建设最棒EOS节点和EOS社区，集合自身资源优势，从节点维护、网络安全、技术研发、开发者培训、专业媒体、EOS俱乐部等六大方面推进EOS生态建设。"
+	"zh": "HelloEOS团队缘起于2014年成立的HelloBTS社区，BTS（比特股）是EOS创始人Daniel Larimer（BM）的首个区块链项目。团队聚集了中国区最强的石墨烯开发力量和最资深的社区参与者，对石墨烯区块链技术、DPOS共识算法和DAC分布式自治理念有着深入研究和实践，具备全面的石墨烯区块链网络开发能力和维护能力，也是国内最早研究和推广EOS的团队之一，创始人梓岑目前仍是BTS理事会成员。2018年3月，HelloEOS正式宣布参与EOS超级节点竞选。此后，在自身社区力量、技术研发力量基础上，团队积极布局EOS生态，在2018年5月与水木丰华、BIC资本、扶云资本共同发起成立柚梓科技，完成公司化运营，开始推进超级节点竞选团队标准化、规范化、专业化运营。同时，旗下首期设立了一支规模达10亿元人民币的孵化基金——HelloBIC，并于6月初完成了1.5亿元人民币PreA轮融资。至此，HelloEOS形成了社区、技术、产业园、研究院、孵化基金五位一体的EOS生态建设力量。目前，HelloEOS正致力于建设最棒EOS节点和EOS社区，集合自身资源优势，从节点维护、网络安全、技术研发、开发者培训、专业媒体、EOS俱乐部等六大方面推进EOS生态建设。"
   },
   "account_name": "helloeoscnbp",
-  "public_key": "",
+  "public_key": "EOS79cHpaEittzgJWgj79tdRhgzLEWy8wXmmQ3fL7kkDjmYYiGNet",
   "org": {
     "name": "HelloEOS",
     "website": "https://www.helloeos.com.cn",
@@ -30,32 +30,22 @@
     {
       "location": {
         "id": "1",
-        "name": "America"
+        "name": "USA"
       },
       "is_producer": false,
-      "p2p_endpoint": "",
-      "api_endpoint": "",
-      "ssl_endpoint": ""
+      "p2p_endpoint": "peer1.mainnet.helloeos.com.cn:80",
+      "api_endpoint": "http://api.helloeos.com.cn",
+      "ssl_endpoint": "https://api.helloeos.com.cn"
     },
 	{
-      "location": {
-        "id": "86",
-        "name": "China"
-      },
-      "is_producer": false,
-      "p2p_endpoint": "",
-      "api_endpoint": "",
-      "ssl_endpoint": ""
-    },
-    {
       "location": {
         "id": "81",
         "name": "Japan"
       },
-      "is_producer": false,
-      "p2p_endpoint": "",
-      "api_endpoint": "",
-      "ssl_endpoint": ""
+      "is_producer": true,
+      "p2p_endpoint": "peer2.mainnet.helloeos.com.cn:80",
+      "api_endpoint": "http://api.helloeos.com.cn",
+      "ssl_endpoint": "https://api.helloeos.com.cn"
     }
   ]
 }
