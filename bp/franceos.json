@@ -8,8 +8,8 @@
     "en": "franceos is a gathering of French-speaking and involved crypto-enthusiasts, candidating for a block production position on the EOS decentralized network.",
     "zh": ""
   },
-  "account_name": "franceos",
-  "public_key": "",
+  "account_name": "franceosysbp",
+  "public_key": "EOS7FurktbYTCLzwVpjckHxC2Wx1zuWysUzyjWXhG9fm9E2geV6ZA",
   "org": {
     "name": "franceos",
     "website": "https://www.franceos.fr",
@@ -33,7 +33,7 @@
         "name": "france"
       },
       "is_producer": false,
-      "p2p_endpoint": "",
+      "p2p_endpoint": "p2p.franceos.fr:1987",
       "api_endpoint": "",
       "ssl_endpoint": ""
     }
