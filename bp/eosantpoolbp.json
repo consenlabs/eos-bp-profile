@@ -1,0 +1,41 @@
+{
+  "title": "EOSAntPool",
+  "tagline": {
+    "en": "Working with the EOS community to reconstruct the Internet of “freedom, equality, and respect”",
+    "zh": "与EOS社区一起重构“自由、平等、尊重”的互联网世界"
+  },
+  "introduce": {
+    "en": "As a leading crypto currency mining platform, AntPool has already received lots of users’ support and trust through user-friendly interface, safe and stable performance, efficient and intimate service since it was online in August 2014. ",
+    "zh": "AntPool是全球领先的挖矿服务平台，自2014年8月上线以来，通过简单易用的功能、安全稳定的性能、高效贴心的服务赢得众多用户的支持，算力长期稳居世界前列。"
+  },
+  "account_name": "eosantpoolbp",
+  "public_key": "EOS6F9hDeGD3unoq67N9pmLVXKvsLTqi7wx3Ly9kxq4fZB3qLTjcs",
+  "org": {
+    "name": "EOSAntPool",
+    "website": "http://www.eosantpool.com/",
+    "email": "antpool@bitmain.com",
+    "branding":{
+      "logo": "logo-eosantpoolbp.png",
+      "cover": "cover-eosantpoolbp.png"
+    },
+    "location": "Beijing, China",
+    "social_network": {
+      "steemit": "https://steemit.com/@antpool",
+      "twitter": "https://twitter.com/AntPoolofficial",
+      "telegram": "https://t.me/AntPoolEOSCN",
+      "wechat" :"icupertino"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": "China"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}A
