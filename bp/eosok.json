@@ -1,0 +1,41 @@
+{
+  "title": "EOS.OK",
+  "tagline": {
+    "en": "Capital . Development . Research",
+    "zh": "资本 . 开发 . 研究"
+  },
+  "introduce": {
+    "en": "Owned by OK Group, OK Blockchain Capital is a venture capital firm which focuses on financing emerging blockchain projects. Currently, OK Group operates blockchain-related businesses under the brands of OKCoin.com (digital asset exchange), OKLink.com (global settlement network) and OK Blockchain Academy of Engineering.",
+    "zh": "OK资本为全球领先区块链集团OK集团旗下专注于区块链领域的风险投资基金。OK集团经过5年的发展，已经建立了 OKCoin 数字资产交易平台（全球站）、OKCoinKr 数字资产交易平台 (韩国站）、OKLink 全球跨境支付网络、OK区块链工程院。全球战略合作伙伴包括 OKEx 数字资产及衍生品交易平台等。积累了丰富的区块链研究及技术开发经验，在区块链产业投资布局及战略合作方面展现出突出的前瞻性。OK资本致力于探寻具有长期增长空间的区块链项目和顶级团队，充分布局未来成长机会。EOS 作为优秀的高性能公链，将会成为互联网去中心化的操作系统，为 Dapp 提供了可靠、易用的基础设施。OK资本将围绕 EOS 生态建设进行一系列投资布局。"
+  },
+  "account_name": "eosokcapital",
+  "public_key": "EOS8cvX5MkM68mhyxdK2ohrMR1MaSB9aTmhmcWU7Sd5W4EEsZvdAP",
+  "org": {
+    "name": "EOS.OK",
+    "website": "https://www.okex.com/pages/products/eos.html",
+    "email": "dapeng.hu@okcoin.com",
+    "branding":{
+      "logo": "logo-eosok.png",
+      "cover": "cover-eosok.png"
+    },
+    "location": "Beijing, China",
+    "social_network": {
+      "steemit": "https://steemit.com/eos/@eosok/eos-ok",
+      "twitter": "https://twitter.com/eos_ok",
+      "github": "https://github.com/eosok",
+      "telegram": "https://t.me/eos_ok"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": ""
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

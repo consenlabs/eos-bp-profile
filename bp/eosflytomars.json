@@ -1,0 +1,44 @@
+{
+    "title": "EOSflytoMARS",
+    "tagline": {
+      "en": "A Wonderful CRYPTO Journey to the MARS!!",
+      "zh": "我们的航程是火星银河"
+    },
+
+    "introduce": {
+      "en": "EOS Flying to the MARS! Crypto 3.0 era will link everyone to the future and dream of human. We will contribute to improve the awareness of EOS in worldwide level, connect countries to each other, and build up the eco-system of EOS. We have big and brave dream to the future and planet faraway, while take each launching step carefully. We provide stable and secure node service, enhance EOS chain performance, and attract high quality projects. The future is coming, the MARS we set today!",
+      "zh": "EOS Flying to the MARS! 让加密货币3.0时代服务于每一个人，服务于人类的未来和梦想。我们致力于提升EOS在世界范围内的影响力，沟通各国社区，促进生态建设和公链的采用，我们大胆梦想遥远的未来，并小心走好出发时的每一步，提供稳定可靠的节点服务，提升公链整体性能，吸引更多优质项目加入，未来并不遥远，火星今日启航！ "
+    },
+
+    "account_name": "eosflytomars",
+    "public_key": "EOS6Agpfp38bTyRjJDmB4Qb1EpQSq7wnEAsALXgXE7KFSzKjokkFD",
+    "org": {
+      "name": "BitMars",
+      "website": "http://www.bitmars.one",
+      "email": "eosflytomars@sohu.com",
+      "branding":{
+        "logo": "logo-eosflytomars.png",
+        "cover": "cover-eosflytomars.png"
+      },
+
+      "location": "Beijing, China",
+      "social_network": {
+        "github": "https://github.com/EOSFlyToMars"
+      }
+    },
+
+    "nodes": [
+      {
+        "location": {
+          "id": "81",
+          "name": "Japan"
+        },
+        "is_producer": true,
+        "p2p_endpoint": "",
+        "api_endpoint": "",
+        "ssl_endpoint": ""
+      }
+
+    ]
+
+  }

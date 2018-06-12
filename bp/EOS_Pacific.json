@@ -1,0 +1,41 @@
+{
+  "title": "EOS Pacific",
+  "tagline": {
+    "en": "The Decentralized Symphony of EOS Power",
+    "zh": "强大的EOS —— 演奏去中心化之新乐章"
+  },
+  "introduce": {
+    "en": "NodePacific Tech is a leading blockchain company in Asia. Based in Hong Kong, we build both local and global communities for those who have interests in Asia-Pacific regions. We provide Asia-Pacific access and one-stop solutions for global developers. We are currently promoting EOS technology and working to be an EOS block producer candidate. more details: https://steemit.com/eospacific/@eos.pacific/eos-pacific-block-producer-candidacy-announcement",
+    "zh": "节点亚太（NodePacific Tech）是亚洲领先的区块链科技公司，总部设在香港。我们建立本地和全球社区，为所有对亚太地区感兴趣的开发者提供亚太通道和一站式解决方案。 目前我们正在推广EOS技术，并致力于成为EOS区块生产者候选人。 详见：https://steemit.com/eospacific/@eos.pacific/eos-pacific-block-producer-candidacy-announcement"
+  },
+  "account_name": "EOS Pacific",
+  "public_key": "",
+  "org": {
+    "name": "EOS Pacific",
+    "website": "http://www.nodepacific.com",
+    "email": "eos.pacific@nodepacific.com",
+    "branding":{
+      "logo": "logo-eos_pacific.png",
+      "cover": "cover-eos_pacific.png"
+    },
+    "location": "Hong Kong",
+    "social_network": {
+      "steemit": "https://steemit.com/@eos.pacific",
+      "twitter": "https://twitter.com/eos_pacific",
+      "github": "https://github.com/NodePacific/eos.pacific",
+      "telegram": "https://t.me/EOSpacifc"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": ""
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

@@ -2,11 +2,11 @@
   "title": "EOS Gravity",
   "tagline": {
     "en": "The Largest EOS Community in the World",
-    "cn": "引力区——全球最大的EOS社区"
+    "zh": "引力区——全球最大的EOS社区"
   },
   "introduce": {
    "en": "As an international team featuring professionalism, EOS Gravity is joined by a group of experienced talents who specialize in community operation and technical development. Liao Yang Yang, the founder of EOS Gravity, obtained his master degree in computer science at Fudan University and is known as the senior evangelist of blockchain technology, the founder of West Miner, the founder of QChain Exchange, Litecoin expert, a famous Litecoin technical analyst and industry tycoon, the author of the analytical article ‘Litecoin Will Not Die’ and the managing director and founder of EOS Gravity. Li Wan Cai (Peter Li) is the co-founder of EOS Gravity. Over 10 years into technical development in scientific research institutions, Li Wan Cai, Ph.D. in computer science from Fudan University, specializes in incubation, investment and technical development of blockchain projects. He is an expert in the field of data encryption, data security and IoT and has published many thesis and patents. Apart from that, he is known as the core member of one of the earliest chip miners groups. With 4 years of study and experience in the cryptocurrency industry, Li Wan Cai is currently the co-founder and director of WaterDrip Capital, the co-founder of Formula Capital and EOS Gravity.",
-   "cn": "引力区是一个专业的国际化团队，凝聚了一批经验丰富的社区运营、技术开发的人才队伍。廖洋阳【创始人】：毕业于复旦大学计算机系，复旦大学计算机硕士，区块链资深布道者、西部矿机创始人、秋千交易所创始人、莱特币资深人士，著名莱特币技术分析及行业领袖，2014年’莱特币不会死’的发起者，EOS引力区的主编和创始人。李万才【联合创始人】：博士，毕业于复旦大学计算机系，拥有10年以上科研院所的技术开发经验及数十篇论文专利，数据加密，网络安全及物联网领域专家。早期某知名芯片矿机核心成员，4年数字货币从业经验。水滴资本联合创始人，理事。原力资本（Force.Fund）联合创始人，EOS引力区联合创始人。主要致力于区块链项目孵化，投资和技术开发。"
+   "zh": "引力区是一个专业的国际化团队，凝聚了一批经验丰富的社区运营、技术开发的人才队伍。廖洋阳【创始人】：毕业于复旦大学计算机系，复旦大学计算机硕士，区块链资深布道者、西部矿机创始人、秋千交易所创始人、莱特币资深人士，著名莱特币技术分析及行业领袖，2014年’莱特币不会死’的发起者，EOS引力区的主编和创始人。李万才【联合创始人】：博士，毕业于复旦大学计算机系，拥有10年以上科研院所的技术开发经验及数十篇论文专利，数据加密，网络安全及物联网领域专家。早期某知名芯片矿机核心成员，4年数字货币从业经验。水滴资本联合创始人，理事。原力资本（Force.Fund）联合创始人，EOS引力区联合创始人。主要致力于区块链项目孵化，投资和技术开发。"
   },
   "account_name": "eosisgravity",
   "public_key": "EOS55HTTjoxVX1zVpW8pabxygBb1J3SEnG5D8D3y3KgrnSbLpELfE",
@@ -18,7 +18,7 @@
       "logo": "logo-eosgravity.png",
       "cover": "cover-eosgravity.png"
     },
-    "location": "Shanghai",
+    "location": "Shanghai, China",
     "social_network": {
       "steemit": "https://steemit.com/@eosgravity",
       "twitter": "https://twitter.com/EOSGravity",
@@ -29,7 +29,7 @@
   "nodes": [
     {
       "location": {
-        "id": "",
+        "id": "1",
         "name": "Canada"
       },
       "is_producer": false,
@@ -39,7 +39,7 @@
     },
     {
       "location": {
-        "id": "",
+        "id": "81",
         "name": "Japan"
       },
       "is_producer": false,
@@ -49,7 +49,7 @@
     },
     {
       "location": {
-        "id": "",
+        "id": "65",
         "name": "Singapore"
       },
       "is_producer": false,
