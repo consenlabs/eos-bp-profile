@@ -1,0 +1,41 @@
+{
+  "title": "Worbli BP",
+  "tagline": {
+    "en": "Where fintech and blockchain meet.",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "Worbli is building a full service financial platform with total cryptocurrency integration built on the EOS blockchain. Worbli is committed to making the EOS ecosystem as secure and efficient as possible and will work with the community to build the tools to bring blockchain to the masses!",
+    "zh": ""
+  },
+  "account_name": "worblieosbp1",
+  "public_key": "EOS8PYEWNe5VYEnka43KzbGF12iSmhdfK9pAoyikZid63JXuTP985",
+  "org": {
+    "name": "Worbli",
+    "website": "https://eos.worbli.io",
+    "email": "rob@worbli.io",
+    "branding":{
+      "logo": "logo-worblieosbp1.png",
+      "cover": "cover-worblieosbp1.png"
+    },
+    "location": "Minnesota, USA",
+    "social_network": {
+      "steemit": "https://steemit.com/@worbli-bp",
+      "twitter": "https://twitter.com/worbli",
+      "github": "https://github.com/worbli",
+      "telegram": "https://t.me/worblicommunity"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "1",
+        "name": "USA"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "eos-p2p.worbli.io:33981",
+      "api_endpoint": "http://eos-api.worbli.io",
+      "ssl_endpoint": "https://eos-api.worlbi.io"
+    }
+  ]
+}
