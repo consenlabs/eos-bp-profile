@@ -1,0 +1,44 @@
+{
+  "title": "EosLaoMao",
+  "tagline": {
+    "en": "Initiated by LaoMao, aiming to maintain a fair and stable BP and promote EOS in Japan.",
+    "zh": "EosLaoMao 节点由老猫发起，旨在维护一个公平稳定的主网节点，促进 EOS 生态的发展。"
+  },
+  "introduce": {
+    "en": "We have serveral engineers with more than 7 years of developing experience. We build up our BP infrastructure using Google Cloud and AWS, and constantly working with some security firms like 360 and SlowMist to enhance our infrastructure security.",
+    "zh": "EosLaoMao 团队由多位开发经验均超过 7 年的工程师组成。我们的节点架构基于 Google Cloud 和 AWS 搭建，并将持续和包括 360 和慢雾在内的顶级安全团队们一起合作，确保节点的安全稳定。"
+  },
+  "account_name": "eoslaomaocom",
+  "public_key": "EOS8QgURqo875qu3a8vgZ58qBeu2cTehe9zAWRfpdCXAQipicu1Fi",
+  "org": {
+    "name": "EOS LaoMao",
+    "website": "https://eoslaomao.com",
+    "email": "zhaoyu@eoslaomao.com",
+    "branding":{
+      "logo": "https://eoslaomao.com/static/img/eoslogo.png",
+      "cover": "https://eoslaomao.com/static/img/eoslogo.png"
+    },
+    "location": "Tokyo",
+    "social_network": {
+      "steemit": "https://steemit.com/@eoslaomao",
+      "twitter": "https://twitter.com/eoslaomao",
+      "github": "https://github.com/eoslaomao",
+      "telegram": "https://t.me/eoslaomao",
+      "keybase": "https://keybase.io/eoslaomao"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "Tokyo",
+        "country": "JP",
+        "latitude": 35.6585805,
+        "longitude": 139.7454329
+      },
+      "is_producer": true,
+      "p2p_endpoint": "fullnode.eoslaomao.com:443",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
