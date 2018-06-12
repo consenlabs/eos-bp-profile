@@ -1,0 +1,40 @@
+{
+  "title": UnlimitedEOS",
+  "tagline": {
+    "en": "The humble Servant of EOS Ecology",
+    "zh": "EOS生态的谦逊仆人"
+  },
+  "introduce": {
+    "en": "No need to be a president, Whip is Enough! UnlimitedEOS is funded by UnlimitedIP, a decentrilized Copyright protection and trading dapp. we are one of the very few project decided to build our Dapp on EOS at the very begining. ",
+    "zh": "可以不成为总统，但是要有成为议员的权利！UnlimitedEOS超级节点是由未来版权发起。未来版权是一款针对版权保护以及版权交易的Dapp。我们也是最早的一批决定基于EOS来开发项目的团队"
+  },
+  "account_name": "unlimitedeos",
+  "public_key": "EOS8jjSeSmwX4kxMbpo8G4uibMnhf52QrGi4f9N7Zd3jY6oYVt9g6",
+  "org": {
+    "name": "UnlimitedEOS",
+    "website": "http://unlimitedeos.com/",
+    "email": "shiyasong@lianyu.io",
+    "branding":{
+      "logo": "logo-unlimitedeos.png",
+      "cover": "cover-unlimitedeos.png"
+    },
+    "location": "Beijing,China",
+    "social_network": {
+      "steemit": "https://steemit.com/@uipofficial/",
+      "twitter": "https://twitter.com/UIP_Officialt",
+      "github": "https://github.com/fattyeggy/UnlimitedEOS",
+      "telegram": "https://t.me/UIPWorld"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "81",
+        "name": "Japan"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "p2p.unlimitedeos.com:15555",
+      "api_endpoint": "https://eos.unlimitedeos.com:9999",
+      "ssl_endpoint": ""
+    }
+  ]
