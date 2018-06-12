@@ -1,0 +1,42 @@
+{
+ "title": "Whateos",
+ "tagline": {
+ "en": "The most powerful community representative in Oceania",
+ "zh": "最强大的大洋洲节点"
+ },
+ "introduce": {
+ "en": "Whateos aims to become the democratic node with the highest security and stability and the most powerful EOS super node in Oceania",
+ "zh": "Whateos的目标是成为具有最高安全性和稳定性的民主节点，以及大洋洲最强大的EOS超级节点"
+ },
+ "account_name": "whateosbp111",
+ "public_key": "EOS5M4pNafgde3WiQc4LTHgDKcFgB4MvaUsNjugTG5KY65aVoL68w",
+ "org": {
+ "name": "WhatEOS",
+ "website": "http://whateos.com",
+ "email": "steven.xu@horman.vc",
+ "branding":{
+ "logo": "logo-whateosbp111.png",
+ "cover": "cover-whateosbp111.png"
+ },
+ "location": "Melbourne, Australia",
+ "social_network": {
+ "steemit": " http://twitter.com/Whateos_bp",
+ "twitter": " http://twitter.com/Whateos_bp",
+ "facebook": "",
+ "github": "",
+ "telegram": "t.me/whateos"
+ }
+ },
+ "nodes": [
+ {
+ "location": {
+ "id": "",
+ "name": ""
+ },
+ "is_producer": false,
+ "p2p_endpoint": "",
+ "api_endpoint": "",
+ "ssl_endpoint": ""
+ }
+ ]
+ }
