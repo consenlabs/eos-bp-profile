@@ -1,0 +1,68 @@
+{
+  "producer_account_name": "eosdacserver",
+  "producer_public_key": "EOS7aBPDACAn1SpJDjmaZHSEUgqfNWdUaNawVZhVuEWUx5aoepJf6",
+  "org": {
+    "candidate_name": "eosDAC",
+    "website": "https://eosdac.io",
+    "code_of_conduct": "https://eosdac.io",
+    "email": "hello@eosdac.io",
+    "branding": {
+      "logo_256": "https://eosdac.io/wp-content/uploads/2018/06/eosdaclogo_256.png",
+      "logo_1024": "https://eosdac.io/wp-content/uploads/2018/06/eosdaclogo_1024.png",
+      "logo_svg": ""
+    },
+    "location": {
+      "name": "Anguilla",
+      "country": "AI",
+      "latitude": 18.2206,
+      "longitude": -63.0686
+    },
+    "social": {
+      "steemit": "eosdac",
+      "twitter": "eosdac",
+      "youtube": "eosdac",
+      "facebook": "eosdac",
+      "github": "eosdac",
+      "reddit": "eosdac",
+      "keybase": "",
+      "telegram": "eosdacio",
+      "wechat": ""
+    }
+  },
+  "nodes": [{
+      "location": {
+        "name": "Manchester",
+        "country": "UK",
+        "latitude": 53.4808,
+        "longitude": -2.2426
+      },
+      "is_producer": true,
+      "p2p_endpoint": "eu1.eosdac.io:49876",
+      "api_endpoint": "http://eu1.eosdac.io",
+      "ssl_endpoint": "https://eu1.eosdac.io:443"
+    },
+    {
+      "location": {
+        "name": "Bucharest",
+        "country": "RO",
+        "latitude": 44.4268,
+        "longitude": 26.1025
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }, {
+      "location": {
+        "name": "Seoul",
+        "country": "KR",
+        "latitude": 44.4268,
+        "longitude": 26.1025
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
