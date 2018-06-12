@@ -1,0 +1,41 @@
+{
+  "title": "EOS.ADENSO",
+  "tagline": {
+    "en": "EOS ADENSO - BP Candidate in Far East of Russia",
+    "zh": "EOS ADENSO - BP 在俄罗斯远东的候选人"
+  },
+  "introduce": {
+    "en": "EOS ADENSO is an independent BP operator in Russia with a decade of networking experience. We are located in Vladivostok, Russia.",
+    "zh": "EOS ADENSO是俄罗斯独立BP运营商，拥有十年的网络经验。我们位于俄罗斯的符拉迪沃斯托克"
+  },
+  "account_name": "eosrussiacom",
+  "public_key": "EOS6fZH3jw7LbTkPH1zR7K2NJ86ShDDLqNL9W9txBZTjeAiudYDoY",
+  "org": {
+    "name": "EOS.ADENSO",
+    "website": "http://eos.adenso.ru",
+    "email": "adenso@protonmail.com",
+    "branding":{
+      "logo": "logo-adenso.png",
+      "cover": "cover-adenso.png"
+    },
+    "location": "Vladivostok, Russia",
+    "social_network": {
+      "steemit": "https://steemit.com/@adenso",
+      "twitter": "",
+      "github": "https://github.com/adenso",
+      "telegram": ""
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "7",
+        "name": "eos.adenso.ru"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
