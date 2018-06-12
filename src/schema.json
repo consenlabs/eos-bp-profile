@@ -1,0 +1,170 @@
+{
+  "title": "BlockProducer",
+  "description": "Information about a block producer on the EOS blockchain",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "definitions": {
+    "desc": {
+      "zh": {
+        "type": "string",
+        "minLength": 1
+      },
+      "en": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  },
+  "type": "object",
+  "required": [
+    "title",
+    "tagline",
+    "introduce",
+    "account_name",
+    "public_key",
+    "org",
+    "nodes"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "tagline": {
+      "type": "object",
+      "$ref": "#/definitions/desc"
+    },
+    "introduce": {
+      "type": "object",
+      "$ref": "#/definitions/desc"
+    },
+    "account_name": {
+      "$id": "/properties/account_name",
+      "description": "Producer account name",
+      "type": "string",
+      "maxLength": 12,
+      "minLength": 1
+    },
+    "public_key": {
+      "$id": "/properties/public_key",
+      "description": "Public key starting with EOS",
+      "type": "string"
+    },
+    "org": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "website": {
+          "$id": "/properties/org/properties/website",
+          "description": "Organization website",
+          "type": "string"
+        },
+        "email": {
+          "$id": "/properties/org/properties/email",
+          "description": "Organization email",
+          "type": "string"
+        },
+        "location": {
+          "type": "string",
+          "minLength": 1
+        },
+        "branding": {
+          "type": "object",
+          "properties": {
+            "logo": {
+              "type": "string"
+            },
+            "cover": {
+              "type": "string"
+            }
+          }
+        },
+        "social_network": {
+          "type": "object",
+          "properties": {
+            "facebook": {
+              "description": "group/page address only, not the entire url",
+              "type": "string"
+            },
+            "github": {
+              "description": "username only",
+              "type": "string"
+            },
+            "keybase": {
+              "description": "username only",
+              "type": "string"
+            },
+            "reddit": {
+              "description": "username only",
+              "type": "string"
+            },
+            "steemit": {
+              "description": "username only, WITHOUT @",
+              "type": "string"
+            },
+            "telegram": {
+              "description": "username only",
+              "type": "string"
+            },
+            "twitter": {
+              "description": "username only",
+              "type": "string"
+            },
+            "wechat": {
+              "description": "username only",
+              "type": "string"
+            },
+            "youtube": {
+              "description": "channel address only",
+              "type": "string"
+            }
+          }
+        }
+      },
+      "required": [
+        "name",
+        "location",
+        "website"
+      ]
+    },
+    "nodes": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "properties": {
+          "location": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              }
+            }
+          },
+          "is_producer": {
+            "description": "Is this node a producer?",
+            "type": "boolean"
+          },
+          "p2p_endpoint": {
+            "description": "EOSIO P2P endpoint (host:port)",
+            "type": "string"
+          },
+          "api_endpoint": {
+            "description": "EOSIO HTTP endpoint (http://host:port)",
+            "type": "string"
+          },
+          "ssl_endpoint": {
+            "description": "EOSIO HTTPS endpoint (https://host:port)",
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}
