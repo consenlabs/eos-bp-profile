@@ -1,0 +1,41 @@
+{
+  "title": "eosONO",
+  "tagline": {
+    "en": "For EOS ecosystem, for the human! ", 
+    "zh": "为生态繁荣，为全人类！"
+  },
+  "introduce": {
+    "en": "ONO is the largest free, decentralized social network. We are committed to creating an ecosystem of attention and value that is free and equal, co-governed and diverse, and now has millions of loyal users worldwide. Recently, competition is increasing in the race to become one of the 21 global Block Producers for EOS and now it appears that the entire blockchain space is scrambling to get involved. eosONO is a strong contender for being chosen as one of the top EOS Block Producers. It has been reported that ONO officially launched in mid-April, and is the first social media dApp to be launched on the EOS platform.", 
+    "zh": "ONO，全球最大的自由、去中心化社交网络。致力于打造自由平等、社会共治与多样性的注意力价值生态，现在全球范围内拥有百万忠实用户。ONO，全球最大的自由、去中心化社交网络。致力于打造自由平等、社会共治与多样性的注意力价值生态，现在全球范围内拥有百万忠实用户。2018年3月，eosONO宣布竞选EOS全球21个超级节点，是目前EOS全球超级节点竞选中最强劲候选者之一。2018年5月初，eosONO与硬币资本共同发起并上线了EOS.host测试网络，并邀请了全球EOS超级节点优秀候选者加入测试。eosONO将为EOS生态繁荣提供最大的支持，包括：海量的社交网络用户支持；为全球网络用户提供计算和带宽支持；为基于EOS DAPP生态发展提供建议、帮助和支持。eosONO也已经做好了肩负服务全人类的使命，将与全球其他20个超级节点共建秩序生态网络。"
+  },
+  "account_name": "eosono",
+  "public_key": "",
+  "org": {
+    "name": "eosONO",
+    "website": "https://ono.chat",
+    "email": "service@ono.chat",
+    "branding":{
+      "logo": "logo-eosono.png",
+      "cover": "cover-eosono.png"
+    },
+    "location": "Beijing, China",
+    "social_network": {
+      "steemit": "https://steemit.com/@onosocial",
+      "twitter": "https://twitter.com/onosocial",
+      "facebook": "https://m.facebook.com/onosocial",
+      "telegram": "https://t.me/ONOCN"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": ""
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

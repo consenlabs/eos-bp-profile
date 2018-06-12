@@ -2,11 +2,11 @@
   "title": "EOS Bepal",
   "tagline": {
     "en": "We are Bepal Blockchain Security team and have been working on blockchain technology and security research in the hope of creating a world-class blockchain security ecosystem.",
-    "cn": "我们是Bepal区块链安全团队，一直致力于对区块链技术和安全领域的研究，希望能打造一个世界级的区块链安全生态。"
+    "zh": "我们是Bepal区块链安全团队，一直致力于对区块链技术和安全领域的研究，希望能打造一个世界级的区块链安全生态。"
   },
   "introduce": {
-	"en": "Bepal team was established in 2015. The founder, Dong Ge is an angel investor who invested in F2Pool fish ponds before. Bepal team has excellent R&D achievements in the areas of blockchain network infrastructure, consensus mechanism design, personal and enterprise private key protection.",
-	"cn": "Bepal安全团队于2015年成立，天使投资人董戈曾投资F2Pool鱼池。Bepal安全团队在区块链网络底层构建、共识机制设计、个人及企业私钥保护等领域有着卓越的研发成果。"
+	   "en": "Bepal team was established in 2015. The founder, Dong Ge is an angel investor who invested in F2Pool fish ponds before. Bepal team has excellent R&D achievements in the areas of blockchain network infrastructure, consensus mechanism design, personal and enterprise private key protection.",
+	   "zh": "Bepal安全团队于2015年成立，天使投资人董戈曾投资F2Pool鱼池。Bepal安全团队在区块链网络底层构建、共识机制设计、个人及企业私钥保护等领域有着卓越的研发成果。"
   },
   "account_name": "eosbepal",
   "public_key": "",
@@ -23,7 +23,7 @@
       "steemit": "https://steemit.com/@eosbepal",
       "twitter": "https://mobile.twitter.com/Bepal_Pro",
       "facebook": "https://www.facebook.com/bepal.pro.9",
-	  "weibo": "https://weibo.com/ibepal",
+	    "weibo": "https://weibo.com/ibepal",
       "github": "https://github.com/bepal",
       "telegram": "https://t.me/EOSBepal"
     }

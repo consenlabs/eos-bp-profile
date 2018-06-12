@@ -1,0 +1,41 @@
+{
+  "title": "franceos",
+  "tagline": {
+    "en": "CREATING SHARED VALUE FOR THE EOS COMMUNITY",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "franceos is a gathering of French-speaking and involved crypto-enthusiasts, candidating for a block production position on the EOS decentralized network.",
+    "zh": ""
+  },
+  "account_name": "franceos",
+  "public_key": "",
+  "org": {
+    "name": "franceos",
+    "website": "https://www.franceos.fr",
+    "email": "hello@franceos.fr",
+    "branding":{
+      "logo": "logo-franceos.png",
+      "cover": "cover-franceos.png"
+    },
+    "location": "Toulouse & Lille, France",
+    "social_network": {
+      "steemit": "https://steemit.com/@franceos",
+      "twitter": "https://twitter.com/franceos__",
+      "github": "https://github.com/franceos",
+      "telegram": "https://t.me/franceos"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "33",
+        "name": "france"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
