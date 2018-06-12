@@ -18,13 +18,13 @@
       "logo": "logo-saltblockeos.png",
       "cover": "cover-saltblockeos.png"
     },
-    "location": "City, Country",
+    "location": "Salt Lake City, Utah, United States of America",
     "social_network": {
       "steemit": "https://steemit.com/@saltblock",
       "twitter": "https://twitter.com/saltblockbp",
-      "facebook": "https://www.facebook.com/your-awesome-project",
-      "github": "https://github.com/your-awesome-project",
-      "telegram": "https://t.me/your-awesome-project"
+      "facebook": "",
+      "github": "https://github.com/xilsanctified",
+      "telegram": ""
     }
   },
   "nodes": [
