@@ -8,8 +8,8 @@
     "en": "Palliums is the most influential network infrastructure service provider globally, a valued-added telecom platform, and the largest neutral Internet infrastructure provider for telecom in China. Over the past 20 years, the new era of information infrastructure (data center, decentralized distributed network, CDN, broadband) have been created with high performance, mobility, security and ubiquity through disruptive technology innovation, business model innovation and ecological innovation. Palliums want to continue to exert our full strength in the future value Internet, and are actively engaged in the infrastructure construction of EOS super nodes.", 
     "zh": "Palliums 是全球具有重要影响力的网络空间基础设施创新服务提供商，增值电信服务平台，也是中国最大的电信中立互联网基础设施服务提供商。在过去的20年中，我们通过颠覆性技术创新、商业模式创新和生态创新，构建了高速、移动、安全、泛在的新一代信息基础设施（数据中心、去中心化的分布式网络、CDN、宽带）。Palliums 希望在未来的信任互联网中继续发挥我们所长，积极投入于 EOS 超级节点的基础设施建设。"
   },
-  "account_name": "eospalliums",
-  "public_key": "",
+  "account_name": "eospalliumss",
+  "public_key": "EOS62ThFzb79uGUSedeE2rCLucFAKBoEEmfNyhfd7Y8Qcr9EvCYny",
   "org": {
     "name": "EOS Palliums",
     "website": "http://eospalliums.org",
@@ -29,12 +29,12 @@
   "nodes": [
     {
       "location": {
-        "id": "",
-        "name": ""
+        "id": "1",
+        "name": "EOS Palliums"
       },
       "is_producer": false,
-      "p2p_endpoint": "",
-      "api_endpoint": "",
+      "p2p_endpoint": "peer1.eospalliums.org:9876",
+      "api_endpoint": "peer1.eospalliums.org:8888",
       "ssl_endpoint": ""
     }
   ]
