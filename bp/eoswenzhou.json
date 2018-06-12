@@ -18,18 +18,18 @@
       "logo": "logo-eoswenzhou.png",
       "cover": "cover-eoswenzhou.png"
     },
-    "location": "Wenzhou(zhejiang province in China)",
+    "location": "Wenzhou, China",
     "social_network": {
       "steemit": "https://steemit.com/@eos.wenzhou",
       "twitter": "https://twitter.com/eoswenzhou",
-	  "weibo": "https://weibo.com/u/6327269283",
+	    "weibo": "https://weibo.com/u/6327269283",
       "telegram": "https://t.me/EOSwenzhouofficial"
     }
   },
   "nodes": [
     {
       "location": {
-        "id": "",
+        "id": "86",
         "name": "China"
       },
       "is_producer": false,
@@ -39,7 +39,7 @@
     },
     {
       "location": {
-        "id": "",
+        "id": "852",
         "name": "Hong Kong"
       },
       "is_producer": false,
@@ -49,7 +49,7 @@
     },
 	{
       "location": {
-        "id": "",
+        "id": "1",
         "name": "United States"
       },
       "is_producer": false,
@@ -59,7 +59,7 @@
     },
 	{
       "location": {
-        "id": "",
+        "id": "81",
         "name": "Japan"
       },
       "is_producer": false,
@@ -69,7 +69,7 @@
     },
 	{
       "location": {
-        "id": "",
+        "id": "65",
         "name": "Singapore"
       },
       "is_producer": false,

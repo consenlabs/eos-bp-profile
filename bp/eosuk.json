@@ -1,0 +1,42 @@
+{
+  "title": "EOS UK",
+  "tagline": {
+    "en": "Securing the Future of the EOS Blockchain",
+    "zh": "为你保护EOS的将来"
+  },
+  "introduce": {
+    "en": "EOS UK is the official Block Producer candidacy name of Advanta Productions Limited. Advanta is an Internet solutions provider founded by Roger Davies in 2004. For over 13 years Roger and his team have been gaining crucial experience vital to being a robust Block Producer. This experience has been gained in the field, working for real-world paying customers, with very high standards. Make EOS UK your Vote for EOS Block Producer because when it comes to your money you need level headed experienced business people representing your interests.",
+    "zh": "EOS UK是正式的候选区块生产员，由Advanta Productions Limited拥有。 Roger Davies于2004年创立Advanta Productions提供互联网服务，迄今超过13年。团队拥有丰富的巿场实战经验及高水准网络技术，使我们成为最合适、最能理解巿场客户需求的区块生产员。你需要一个富经验的商业团队来为你的投资赚取更大利润，因此投票给EOS UK，让我们成为你的区块生产员，将是最明智的选择。 EOS UK 为你保护EOS的将来"
+  },
+  "account_name": "eosukblocpro",
+  "public_key": "EOS86HEiSBzagkfTeKovCzNwgqTAtBrqkyuuX4kpK5SmKtR3NKwyf",
+  "org": {
+    "name": "EOS UK",
+    "website": "https://eosuk.io",
+    "email": "bp@eosuk.io",
+    "branding":{
+      "logo": "logo-eosuk.png",
+      "cover": "cover-eosuk.png"
+    },
+    "location": "Nottingham, UK",
+    "social_network": {
+      "steemit": "https://steemit.com/@bodget",
+      "twitter": "https://twitter.com/eosukbp",
+      "facebook": "https://www.facebook.com/eosukbp",
+      "github": "https://github.com/eos-uk",
+      "telegram": "https://t.me/eosuk"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "44",
+        "name": "United Kingdom"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "http://api.eosuk.io:80",
+      "ssl_endpoint": "https://api.eosuk.io:443"
+    }
+  ]
+}

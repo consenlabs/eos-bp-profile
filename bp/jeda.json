@@ -1,0 +1,40 @@
+{
+	"title": "JEDA",
+	"tagline": {
+		"en": "We are committed to promoting EOS in Japan and organize the developer to build the EOS ecosystem.",
+		"zh": "我们致力于促进EOS在日本的事业并且组织开发人员构建EOS生态系统。"
+	},
+	"introduce": {
+		"en": "JEDA(Japan EOS Developer Association) which establish in Tokyo Japan. Committed to supporting and building the ecological system of EOS in Japan. Assist DAPP project development and provide other EOS-based services. We will regularly hold online/offline and other format of event, to promoting the acknowledge of EOS .Holding the developing competition and give the reward to the excellent developer.",
+		"zh": "一般社团法人EOS开发者协会(Japan EOS Developer Association, 一般社団法人EOS開発者協会，简称JEDA)立足于日本，以支援日本地区EOS生态发展为基本，深度参与项目生态建设。积极组织线上线下活动，召集EOS开发者开发有吸引力的Dapp，并且开发基于EOS的多种服务。"
+	},
+	"account_name": "jedaaaaaaaaa",
+	"public_key": "",
+	"org": {
+		"name": "JEDA",
+		"website": "http://www.eosjapan.org",
+		"email": "info@www.eosjapan.org",
+		"branding": {
+			"logo": "logo-jeda.png",
+			"cover": "cover-jeda.png"
+		},
+		"location": "Tokyo, Japan",
+		"social_network": {
+			"steemit": "https://steemit.com/@eosjapan",
+			"twitter": "https://twitter.com/eosjapan_jeda",
+			"facebook": "https://www.facebook.com/eosjapan/",
+			"github": "http://github.com/eosjapan/",
+			"telegram": "https://t.me/eosjapan"
+		}
+	},
+	"nodes": [{
+		"location": {
+			"id": "",
+			"name": ""
+		},
+		"is_producer": false,
+		"p2p_endpoint": "",
+		"api_endpoint": "",
+		"ssl_endpoint": ""
+	}]
+}
