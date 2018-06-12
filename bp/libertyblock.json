@@ -1,0 +1,43 @@
+{
+  "title": "LibertyBlock"
+  "tagline": {
+    "en": "From Decentralization Comes Freedom",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "LibertyBlock is the fusion of Everipedia, The Dollar Vigilante, and Ikigai Asset Management. We are united by the crypto-anarchist principles that gave birth to crypto and inspired by Dan Larimer’s vision in making EOS into a platform for human freedom.",
+    "zh": ""
+  },
+  "account_name": "libertyblock",
+  "public_key": "EOS5jDCYph3hctKED9tHbe9L77q8JZToeuMnefMDdyfPkrb89FzSt",
+  "org": {
+    "name": "LibertyBlock"
+    "website": "http://libertyblock.io",
+    "email": "kedar@everipedia.com",
+    "branding":{
+      "logo": "logo-libertyblock.png",
+      "cover": "cover-libertyblock.png"
+    },
+    "location": "Bhutan",
+    "social_network": {
+      "steemit": "https://steemit.com/@block-liberty",
+      "twitter": "https://twitter.com/blockliberty",
+      "facebook": "https://www.facebook.com/groups/1818056141549615",
+      "github": "https://github.com/LibertyBlock",
+      "telegram": "https://t.me/eoslibertyblock",
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "975"
+        "name": "Bhutan"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "p2p.libertyblock.io:9800",
+      "api_endpoint": "mainnet.libertyblock.io:8888",
+      "ssl_endpoint": ""
+    }
+  ]
+}
+
