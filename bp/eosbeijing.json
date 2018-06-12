@@ -2,16 +2,16 @@
   "title": "EOS Beijing",
   "tagline": {
     "en": "To be a professional high quality public blockchain basic service provider.",
-    "cn": "做专业的优质公链基础服务商"
+    "zh": "做专业的优质公链基础服务商。"
   },
 
   "introduce": {
     "en": "EOS Beijing is concentrating on providing nodes services for superior public blockchain and cooperating with Cloud Servers to restore computing and memory resources. EOS Beijing has two smart contract developing team named “C60” and “YueQianFang”. EOS Beijing has rich experiences in contract development, public blockchain investment and nodes services providing. EOS Beijing also reached close cooperation with first class colleges and universities of China.Furthermore, EOS Beijing will spare the most part of nodes revenue after the deduction of hardware costs to support the development of EOS tech-community, public blockchain researches in collages and universities as well as the media publication of EOS.",
-    "cn": "EOS Beijing致力于做专业的优质公链基础服务商。核心成员在数字货币行业有着丰富的从业经历。现有“双花资本”和“加密愿景”两家投资机构（均为hadax超级节点），以及“碳60”和“跃迁坊”两个智能合约技术团队。EOS Beijing在智能合约开发，公链项目投资上有着丰富的经验。因投资的理念和方向的原因，与一线高校有着非常紧密的合作，会在公链底层技术上做很多积极的探索。EOS Beijing一直致力于提供优质的节点服务。我们与云服务商合作，储备有大量的计算、存储资源，我们投资的玩客云矿机最高时占全网算力5%，暴风播酷云全网25%。EOS Beijing未来会将节点扣除硬件成本后收益的大部分，用于持续支持EOS技术社区的发展、高校的公链研究，以及EOS的媒体推广。"
+    "zh": "EOS Beijing致力于做专业的优质公链基础服务商。核心成员在数字货币行业有着丰富的从业经历。现有“双花资本”和“加密愿景”两家投资机构（均为hadax超级节点），以及“碳60”和“跃迁坊”两个智能合约技术团队。EOS Beijing在智能合约开发，公链项目投资上有着丰富的经验。因投资的理念和方向的原因，与一线高校有着非常紧密的合作，会在公链底层技术上做很多积极的探索。EOS Beijing一直致力于提供优质的节点服务。我们与云服务商合作，储备有大量的计算、存储资源，我们投资的玩客云矿机最高时占全网算力5%，暴风播酷云全网25%。EOS Beijing未来会将节点扣除硬件成本后收益的大部分，用于持续支持EOS技术社区的发展、高校的公链研究，以及EOS的媒体推广。"
   },
 
   "account_name": "eosbeijingbp",
-  "public_key": "",
+  "public_key": "EOS5dGpcEhwB4VEhhXEcqtZs9EQj5HeetuXDnsAGVHMXHAFdMjbdj",
   "org": {
     "name": "EOS Beijing",
     "website": "http://www.eosbeijing.one/",
@@ -21,7 +21,7 @@
       "cover": "cover-eosbeijing.png"
     },
 
-    "location": "Beijing",
+    "location": "Beijing, China",
     "social_network": {
       "steemit": "https://steemit.com/@eosbeijing",
       "twitter": "https://twitter.com/eosbeijing",
@@ -36,7 +36,6 @@
         "id": "",
         "name": ""
       },
-
       "is_producer": false,
       "p2p_endpoint": "",
       "api_endpoint": "",

@@ -1,0 +1,42 @@
+{
+  "title": "EOS Village",
+  "tagline": {
+    "en": "EOS Village is dedicated to building a worldwide interactive community that is based on EOS ecological chain, with ongoing efforts to explore and search for a new social formation. We believe all members are equal and free in this community. We aim to build a free and equal community that upholds openness and transparency, and a decentralized and highly autonomous environment that provides order and equity for all members.",
+    "zh" : "EOS Village 着力打造一个全球基于EOS生态链上的交互社区，为构建新形态的社会模式不断的探索完善。成员自由平等，社群公开透明，无中心化统治，高度自治自运转，有序公平。"
+  },
+  "introduce": {
+    "en": "We are a young, energetic and enthusiastic team with in-depth understanding of high-concurrent products. We’ve got financial support through investment from world-class funds. After closely working together for many years, we have launched a series of internet product such as Qingchifan, Adore, and Maoqiu, which are successfully operating online. In 2018, we launched lianjinshu.com, a blockchain-based information platform. Our goal is to build China’s first-class blockchain community, to facilitate development and advancement of blockchain industry and technology. To achieve this goal, EOSvillage gathered resources and set up a 2,500 sqm incubator, to facilitate the EOS ecosystem, accompanying a series of online and offline seminars to share EOS technology. Below is a detailed introduction of  EOSvillage.",
+    "zh": "EOS Village是一支年轻有活力的团队，我们对高并发产品有深入研究，曾获得世界一流基金投资，团队磨合多年高效稳定，开发并运营请吃饭、Adore、毛球等多款互联网产品，2018年推出了链金术（lianjinshu.com）-区块链资讯平台，着力打造中国一流的区块链社区，以推进区块链行业的发展与进步。此次，EOSvillage投入各方面资源，成立了2500平米孵化器，致力于EOS的生态建设，同时会开展一系统线上线下的宣讲交流活动，推进EOS技术的普及发展。"
+  },
+  "account_name": "eosvillagebp",
+  "public_key": "EOS63VmFVSwsLBDdepSyx4yr1qeJkrLNq2v1Tgf45WH7sU5mnhLPw",
+  "org": {
+    "name": "EOS Village",
+    "website": "http://www.eosvillage.io",
+    "email": "",
+    "branding":{
+      "logo": "logo-eosvillage.png",
+      "cover": "cover-eosvillage.png"
+    },
+    "location": "Beijing, China",
+    "social_network": {
+      "steemit": "https://steemit.com/@eosvillage",
+      "twitter": "https://twitter.com/eosvillage",
+      "facebook": "",
+      "github": "",
+      "telegram": "https://t.me/eosvillage"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": "Tokyo"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "eosbp.eosvillage.io:8181",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

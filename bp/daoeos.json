@@ -1,0 +1,39 @@
+{
+  "title": "Dao Eos",
+  "tagline": {
+    "en": "Distributed Autonomous Organization based on EOS"
+  },
+  "introduce": {
+    "en": "DAO.EOS is an autonomous distributed organization and EOS block production candidate.DAO.EOS nodes and communities will be owned by all DAO.EOS token holders.The goal of DAO.EOS is to help the development of DAPP based on EOS development through the vote of all token holders."
+  },
+  "account_name": "daoeosbpbwin",
+  "public_key": "",
+  "org": {
+    "name": "Dao Eos",
+    "website": "http://www.daoeos.io",
+    "email": "contactus@daoeos.io",
+    "branding":{
+      "logo": "logo-DaoEos.png",
+      "cover": "cover-DaoEos.png"
+    },
+    "location": "Shanghai, Hongkong",
+    "social_network": {
+      "steemit": "https://steemit.com/@daoeos",
+      "twitter": "https://twitter.com/DAOEOSBP",
+      "facebook": "https://fb.com/DAOEOSBP",
+      "telegram": "https://t.me/daoeosbp"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "65",
+        "name": "Singapore"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

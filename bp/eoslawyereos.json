@@ -1,0 +1,41 @@
+﻿{
+  "title": "EOS.LAWYER",
+  "tagline": {
+    "en": "Justice and Fair, Protect EOS holders benefits！",
+    "zh": "正义、公平，维护EOS持有人的利益！"
+  },
+  "introduce": {
+    "en": "As an EOS block producer candidate and all of the team members are EOS long term holders, we want to try our best to protect EOS holders benefits. Here are some thoughts. Try to be different than other block producer candidates; Try to include more traditional business into EOS ecology; Try to build an arbitration forum, and help to train more people about EOS constitution, contracts and arbitration process; Partner with lawyers, institutions and incubators worldwide to help EOS ecology thrive; Try to maximize the EOS token value by assigning new meanings to EOS tokens instead of creating new tokens; for instance, we will try to develop Dapps without creating new tokens. ",
+    "zh": "作为一个EOS块生产者候选人，所有的团队成员都是EOS长期持有人，我们希望尽我们最大的努力，以保护EOS持有人的利益。这里有一些想法。尽量不同于其他的BP候选人;尝试将更多的传统业务纳入EOS生态;建立仲裁论坛, 帮助培训更多的人了解EOS的宪法、合同和仲裁程序;与世界各地的律师、机构和孵化器合作, 帮助EOS生态蓬勃发展;尝试通过为EOS指定新的含义而不是创建新的token来最大化EOS的价值;例如, 我们将尝试开发基于EOS代币的Dapps。"
+  },
+  "account_name": "eoslawyereos",
+  "public_key": "EOS78J1hRNUKTzdGHUE8zLRVTSQLC8qfPKQLfF9iEeNRPZxWMJwvx",
+  "org": {
+    "name": "EOS.LAWYER",
+    "website": "https://eos.lawyer",
+    "email": "eoslawyer@outlook.com",
+    "branding":{
+      "logo": "logo-eoslawyereos.png",
+      "cover": "cover-eoslawyereos.png"
+    },
+    "location": "Shenzhen, China",
+    "social_network": {
+      "steemit": "https://steemit.com/@eos.lawyer",
+      "twitter": "https://twitter.com/eoslawyer",
+      "github": "https://github.com/eoslawyer",
+      "telegram": "https://t.me/eoslawyer"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "1",
+        "name": "United States"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "node.eos.lawyer:9876",
+      "api_endpoint": "node.eos.lawyer:8888",
+      "ssl_endpoint": ""
+    }
+  ]
+}
