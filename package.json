@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/consenlabs/eos-bp-profile.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "imToken PTE. LTD",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/consenlabs/eos-bp-profile/issues"
   },
