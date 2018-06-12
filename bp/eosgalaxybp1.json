@@ -34,7 +34,7 @@
         "name": "Tokyo"
       },
       "is_producer": true,
-      "p2p_endpoint": "testnode.eosgalaxy.io",
+      "p2p_endpoint": "testnode.eosgalaxy.io:9876",
       "api_endpoint": "",
       "ssl_endpoint": ""
     }
