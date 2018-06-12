@@ -1,0 +1,42 @@
+{
+  "title": "EOSVibes",
+  "tagline": {
+    "en": "The Dapp developer Block Producer Candidate",
+    "zh": "The Dapp developer Block Producer Candidate"
+  },
+  "introduce": {
+    "en": "We are a diversified team who live in a variety of locations across the world. After consultation with the EOS community, we have decided to structure ourselves as a DAT; A Decentralised Autonomous Team. The reason we have done this is because we want to be as politically and geographically diversified as possible.",
+    "zh": "我們是一個多元化的團隊，生活在世界各地。在諮詢EOS社區之後，我們決定將自己構建為DAT;一個分散的自治隊。我們這樣做的原因是因為我們希望盡可能在政治和地理上多樣化。"
+  },
+  "account_name": "eosvibesbloc",
+  "public_key": "EOS5wjoLzkppkupmajDM59StKoFSR9AZugfnRSkuBZKDgTrBHP6ZZ",
+  "org": {
+    "name": "EOSVbes",
+    "website": "https://eosvibes.io",
+    "email": "hello@eosvibes.io",
+    "branding":{
+      "logo": "logo-eosvibesbloc.png",
+      "cover": "cover-eosvibesbloc.jpg"
+    },
+    "location": "Amsterdam, Netherlands",
+    "social_network": {
+      "steemit": "https://steemit.com/@eosvibes",
+      "twitter": "https://twitter.com/eosvibes_bp",
+      "facebook": "",
+      "github": "https://github.com/eosvibes",
+      "telegram": "https://t.me/eosvibes_bp"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "31",
+        "name": "Netherlands"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "m.eosvibes.io:9876",
+      "api_endpoint": "api.eosvibes.io:80",
+      "ssl_endpoint": "api.eosvibes.io:443"
+    }
+  ]
+}
