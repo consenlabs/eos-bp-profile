@@ -8,15 +8,15 @@
     "en": "The core members of the EOSGames team have many years of research and development of graphene technology, independent game development, international community operating experience, etc., distributed throughout the world: China, Singapore, the United States, Europe and so on. Details of the specific core team members can be found on the official website: www.eos.games.",
     "zh": "EOSGames团队核心成员有着多年石墨烯技术研发，独立游戏开发，国际化社区运营经验等，分布于全球各地：中国，新加坡，美国，欧洲等。具体核心团队成员介绍详见官网：www.eos.games"
   },
-  "account_name": "eosgamesgood",
-  "public_key": "EOS7KfrsM7HvosZjyXm7hzpDJtqfEAnJkgqyVKe4GFh8RAEnMXrNS",
+  "account_name": "eosgamesboot",
+  "public_key": "EOS5SezwGS6sMZY79KwJYxFXRKVd7idwXBcrBy8wqD75vWvkfB15C",
   "org": {
     "name": "EOSGames",
     "website": "http://www.eos.games",
     "email": "admin@eos.games",
     "branding":{
-      "logo": "logo-eosgamesgood.png",
-      "cover": "cover-eosgamesgood.png"
+      "logo": "logo-eosgamesboot.png",
+      "cover": "cover-eosgamesboot.png"
     },
     "location": "Beijing, Singapore, Los Angeles",
     "social_network": {
