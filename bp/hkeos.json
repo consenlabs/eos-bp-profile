@@ -30,10 +30,30 @@
   "nodes": [
     {
       "location": {
-        "id": "",
-        "name": ""
+        "id": "SG",
+        "name": "Singapore"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "id": "SG",
+        "name": "Singapore"
       },
       "is_producer": false,
+      "p2p_endpoint": "public-nlb.hkeos.com:19875",
+      "api_endpoint": "http://api.hkeos.com:80",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "id": "JP",
+        "name": "Japan"
+      },
+      "is_producer": true,
       "p2p_endpoint": "",
       "api_endpoint": "",
       "ssl_endpoint": ""
