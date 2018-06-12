@@ -29,8 +29,8 @@
   "nodes": [
     {
       "location": {
-        "1"
-        "CA": "US"
+        "id" : "1",
+        "name": "US"
       },
       "is_producer": false,
       "p2p_endpoint": "",
