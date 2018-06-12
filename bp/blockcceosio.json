@@ -29,8 +29,8 @@
   "nodes": [
     {
       "location": {
-        "852"
-        "Hong Kong": "China"
+        "id": "852",
+        "name": "Hong Kong"
       },
       "is_producer": false,
       "p2p_endpoint": "",
