@@ -1,0 +1,84 @@
+{
+  "title": "BitSpace",
+  "tagline": {
+    "en": "Empowering People with Future Technology",
+    "cn": ""
+  },
+  "introduce": {
+    "en": "BitSpace is a technology company that specializes in blockchain services and exponential technology. Our headquarters is based in Oslo, Norway and we are now expanding our operations internationally throughout Europe. With more than 20 years collective experience within the blockchain sector we allocate our resources towards community growth, incubation and software development. Our mission at BitSpace is to help build the future through emerging technologies that include Blockchain, Artificial Intelligence, Space and Virtual Reality.",
+    "cn": ""
+  },
+  "account_name": "bitspacenode",
+  "public_key": "EOS7QyHRrinnxzeyM7UQwuGwVHnj31JDY8bghP3dtgGdfYhaLrn9v",
+  "org": {
+    "name": "BitSpace",
+    "website": "https://www.bitspace.no",
+    "email": "contact@bitspace.no",
+    "branding": {
+      "logo_256": "https://bitspace.no/wp-content/uploads/2018/06/bitspace_256x256.png",
+      "logo_1024": "https://bitspace.no/wp-content/uploads/2018/06/bitspace_1024x1024.png",
+      "logo_svg": "https://keybase.pub/zerfix/eos/bitspace_logo.svg"
+    },
+    "location": {
+      "name": "Oslo, Norway",
+      "latitude": 59.916667,
+      "longitude": 10.733333
+    },
+    "social": {
+      "steemit": "@bitspace",
+      "twitter": "@BitSpaceNetwork",
+      "youtube": "bitspace",
+      "facebook": "bitspace.no",
+      "github": "bitspace-source",
+      "telegram": "BitSpaceNetwork",
+      "wechat": "BitSpaceChina"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "47"
+        "name": "Oslo, Norway",
+        "latitude": 59.916667,
+        "longitude": 10.733333
+      },
+      "is_producer": true,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "name": "Stavanger, Norway",
+        "latitude": 58.963333,
+        "longitude": 5.718889
+      },
+      "is_producer": true,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "name": "Frankfurt, Germany",
+        "latitude": 50.116667,
+        "longitude": 8.683333
+      },
+      "is_producer": false,
+      "p2p_endpoint": "p2p.eos.bitspace.no:9876",
+      "api_endpoint": "",
+      "ssl_endpoint": "api.eos.bitspace.no:443"
+    },
+    {
+      "location": {
+        "name": "London, England",
+        "latitude": 51.507222,
+        "longitude": -0.1275
+      },
+      "is_producer": false,
+      "p2p_endpoint": "p2p.eos.bitspace.no:9876",
+      "api_endpoint": "",
+      "ssl_endpoint": "api.eos.bitspace.no:443"
+    }
+  ]
+}
