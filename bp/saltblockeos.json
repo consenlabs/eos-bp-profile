@@ -5,8 +5,8 @@
     "zh": "利用我们的技术技能来帮助他人并为EOS社区增添价值"
   },
   "introduce": {
-    "en": "Our mission is to translate our knowledge and skills into a positive and dependable platform while helping the EOS community achieve great things through thoughtful action.",
-    "zh": "我们的使命是将我们的知识和技能转化为积极和可靠的平台，同时通过深思熟虑的行动帮助EOS社区实现伟大的事业。"
+    "en": "SaltBlock believes that only through the spirit of inclusion and cooperation can humans achieve long lasting change.",
+    "zh": "SaltBlock认为，只有通过包容与合作的精神，人类才能实现持久的变革。"
   },
   "account_name": "saltblockeos",
   "public_key": "EOS74hY6CxYxQiUAeoZKLGTkJ7TX1zasfG9rzy6sqPkULi8LF4YmS",
@@ -31,12 +31,12 @@
     {
       "location": {
         "id": "1",
-        "name": "United States of America"
+        "name": "USA"
       },
       "is_producer": false,
-      "p2p_endpoint": "",
-      "api_endpoint": "",
-      "ssl_endpoint": ""
+      "p2p_endpoint": "p2p.saltblock.io:19876",
+      "api_endpoint": "https://eos.saltblock.io:80",
+      "ssl_endpoint": "https://eos.saltblock.io:443"
     }
   ]
 }
