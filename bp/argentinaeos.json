@@ -1,0 +1,42 @@
+{
+  "title": "EOS Argentina",
+  "tagline": {
+    "en": "Block Producer helping to build the community en latin america",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "Located in the South American continent, EOS Argentina's proposal is aiming to be based in Argentina but represent Latin America, providing geographical and cultural diversity to the EOS Block Production.",
+    "zh": ""
+  },
+  "account_name": "argentinaeos",
+  "public_key": "EOS7jq4FHrFrtCXxpRQ39dBeDMa5AjM4VaRbqBECkSa5aZnizJzrx",
+  "org": {
+    "name": "EOS Argentina",
+    "website": "https://www.eosargentina.io",
+    "email": "info@eosargentina.io",
+    "branding":{
+      "logo": "logo-EOS_Argentina.png",
+      "cover": "cover-EOS_Argentina.png"
+    },
+    "location": "Buenos Aires, Argentina",
+    "social_network": {
+      "steemit": "https://steemit.com/eosargentina",
+      "twitter": "https://twitter.com/eosargentina",
+      "facebook": "https://www.facebook.com/EOSArgentina",
+      "github": "https://github.com/eosargentina",
+      "telegram": "https://t.me/eosarg"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "54",
+        "name": "Argentina"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
