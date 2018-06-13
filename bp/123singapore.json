@@ -29,10 +29,8 @@
   "nodes": [
     {
       "location": {
-        "name": "123singapore",
-        "country": "HK",
-        "latitude": 22.9,
-        "longitude": 113.52
+        "id": "852",
+        "country": "Hong Kong"
       },
       "is_producer": true,
       "p2p_endpoint": "bp.eos.vote:9876",
