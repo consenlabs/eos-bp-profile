@@ -1,4 +1,4 @@
-{
+﻿{
   "nickname": "COCOS BCX",
   "account_name": "eoscocoshost",
   "public_key": "EOS6f1JapkWZAkzGZuwrEfWEvMFvj8Uz8DeeE9wsrXCobWa5SQejv",
@@ -6,9 +6,9 @@
     "en": "Leading service provider of game engine, development tools and software.",
     "zh": "行业领先的游戏引擎、开发工具及软件服务商。"
   },
-  "logo": "cocosbcx_logo.png",
+  "logo": "logo-EOSCocos.png",
   "website":"http://www.cocosbcx.io/",
-  "email": "support@tclabs.tech",
+  "email": "support@cocosbcx.io",
   "social_network": {
       "twitter": "https://twitter.com/cocosbcx",
       "github": "https://github.com/cocosbcx",
