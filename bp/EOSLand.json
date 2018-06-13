@@ -1,0 +1,41 @@
+{
+  "title": "EOS Land",
+  "tagline": {
+    "en": "THE PREMIER EOS BLOCK PRODUCER CANDIDATE",
+    "zh": "首要的EOS节点候选人"
+  },
+  "introduce": {
+   "en": "EOS Land will change the way people look at blockchain by helping to define a new generation of innovation and transparency. Backed by stable financial Canadian institutions, EOS Land will be the first entity to be a fully audited and regulated Block Producer. Alongside its focus on innovation, EOS Land is committed to following the core tenets of the EOS constitution to enhance Education, Community, and Technology.",
+   "cn": "EOS Land将通过帮助定义新一代的创新和透明度，改变人们关注区块链的方式。 在稳定的加拿大金融机构的支持下，EOS Land将成为首家获得全面审计和监管的区块制造商的实体。 除了专注于创新之外，EOS Land致力于遵循EOS组织的核心宗旨，以加强教育，社区和技术。"
+  },
+  "account_name": "eosholdings1",
+  "public_key": "EOS4uLtAMBg8QyeMKYMVxQfrurQqfKLRnCpwWq9c8MPMk2cmdWZ8y ",
+  "org": {
+    "name": "EOS Land",
+    "website": "http://www.eosland.ca/",
+    "email": "info@eosland.ca",
+    "branding":{
+      "logo": "logo-eosland.png",
+      "cover": "cover-eosland.png"
+    },
+    "location": "Vancouver, Canada",
+    "social_network": {
+      "steemit":"https://steemit.com/@eosland",
+	  "twitter":"https://twitter.com/eosland1",
+      "weibo": "",
+      "telegram": "https://t.me/EOS Land"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": "Canada"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
