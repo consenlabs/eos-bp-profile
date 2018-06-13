@@ -1,0 +1,42 @@
+{
+    "title": "EOS Canada",
+    "tagline": {
+        "en": "Block Producer candidate leading through technology",
+        "zh": "加拿大的区块链技术领导者，EOS超级节点候选人"
+    },
+    "introduce": {
+        "en": "Founded by a team of serial tech entrepreneurs, EOS Canada is headquartered in Montreal, Canada. We believe that EOS.IO will fundamentally change our economic and social systems and as such we are deeply committed to contribute to the growth of the ecosystem.",
+        "zh": "EOS Canada 的总部位于蒙特利尔，我们的团队由一系列技术创业者组成。我们相信 EOS.IO 会在根本上改变我们的社会和经济系统，并且我们以推动金融生态系统的发展为使命。"
+    },
+    "account_name": "eoscanadacom",
+    "public_key": "EOS5HYV7rWeRxpZMCooe8YHRFQHKK7ncdmmUMTe3wCMaY2EvyVzUx",
+    "org": {
+        "name": "EOS Canada",
+        "website": "https: //www.eoscanada.com/",
+        "email": "info@eoscanada.com",
+        "branding": {
+            "logo": "logo-EOS_Canada.png",
+            "cover": "cover-EOS_Canada.png"
+        },
+        "location": "Montreal, Canada",
+        "social_network": {
+            "steemit": "https: //steemit.com/@eos-canada/",
+            "twitter": "https: //twitter.com/EOS_Canada",
+            "facebook": "https: //www.facebook.com/eoscanadacom/",
+            "github": "https: //github.com/eoscanada",
+            "telegram": "https: //t.me/EOSCanada"
+        }
+    },
+    "nodes": [
+        {
+            "location": {
+                "id": "1",
+                "name": "Canada"
+            },
+            "is_producer": false,
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        }
+    ]
+}
