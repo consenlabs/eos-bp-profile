@@ -28,7 +28,7 @@
   "nodes": [
     {
       "location": {
-        "id": "eosgames-node-sg",
+        "id": "65",
         "name": "Singapore"
       },
       "is_producer": false,

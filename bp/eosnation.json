@@ -1,0 +1,44 @@
+{
+  "title": "EOS Nation",
+  "tagline": {
+    "en": "Building our Future one Block at a Time",
+    "cn": "同一个区块，同一个时间，同一个未来。"
+  },
+  "introduce": {
+    "en": "EOS Nation is dedicated to fostering the EOS platform through reliable and efficient block production and community engagement. We believe in a future where life, liberty, and property is protected through decentralization. Our mission is to bring together all members of the EOS community under one project. Accessible to the community in jurisdictions around the world. We strive to share our vision for the future of EOS through education and through education, engagement and support. EOS Nation is focused on trying to ignite leadership in ourselves and others... Expecting greatness, we will discover it! A global community is possible, and we aim to make it a reality.",
+    "cn": "EOS Nation致力于通过可靠而高效的区块生产和社区经营来促进EOS平台的发展。我们相信通过去中心化能够创造一个生命，自由和财产都受到保护的的未来，我们的使命是将所有的EOS社区成员团结在一个项目中，在全球各地的社区中都能发挥作用。我们努力通过教育，科普，参与和支持来分享我们对EOS未来的展望。EOS Nation一直努力地想激发我们自己和大家所有人的领导力。我们期待成就伟大，我们一定能做到！一个全球化的社区不是痴人说梦，我们的目标就是是使其成为现实。"
+  },
+  "account_name": "eosnationftw",
+  "public_key": "EOS8PkNNBYU1xnbcjBUNm1mT6N68QiGvCDgPT97rqurLBEjDanSXK",
+  "org": {
+    "name": "EOS Nation",
+    "website": "https://eosnation.io",
+    "email": "info@eosnation.io",
+    "branding":{
+      "logo": "logo-eosnation.png",
+      "cover": "cover-eosnation.png"
+    },
+    "location": "Toronto, Canada",
+    "social_network": {
+      "steemit": "https://steemit.com/@eosnation",
+      "twitter": "https://twitter.com/EOS_Nation",
+      "facebook": "https://www.facebook.com/groups/EOSNation/",
+      "github": "https://github.com/EOS-Nation",
+      "telegram": "https://t.me/EOSNation"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "1",
+        "name": "Canada",
+        "latitude": 43.655045,
+        "longitude": -79.381306
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

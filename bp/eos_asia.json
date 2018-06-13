@@ -1,0 +1,43 @@
+{
+  "title": "EOS Asia",
+  "tagline": {
+    "en": "Asia's most international and technically experienced BP candidate! We create, inspire, and fund DApps to take EOS to mainstream adoption.",
+    "zh": "亚洲最国际化且技术经验丰富的节点候选人！我们创建和孵化 EOS DApp，让EOS成为主流技术。"
+  },
+  "introduce": {
+    "en": "We are the Avengers of the EOS community. EOS Asia has an all-star founding team that brings together wizards of China, Europe, United States and South Korea. Our core technical members are backed by Silicon Valley incubator Y Combinator and recognized by well-known industry veterans. With 15 years of experience in server and cloud technology, we are handling applications for tens of millions of users. Our team: Dafeng is EOS Asia cofounder and CTO of Strikingly, where he graduated from Y Combinator in 2013; Joseph is EOS Asia cofounder and the founder of EOS Link, EOS Go China ambassador, guest writer for NEO City of Zion, and cofounder of webao.co; Jinma is head of operations in China for EOS Asia, he is the founder of Xiaoma Capital (笑马资本) and creator of the brand “Crypto Golden Horse Award” (币圈金马奖) and a crypto KOL.John Yoon is head of operations in Korea for EOS Asia and the head editor of Startup Radar, a startup tech media platform that helps Korean startups go global; Tyler Diaz is Blockchain Developer & Evangelist.",
+    "zh": "EOS Asia 拥有全明星团队，正如复仇者联盟一样，阵容强大，汇集美国、欧洲、中国、和韩国的超级大脑。EOS Asia 的核心成员，得到了硅谷孵化器 Y Combinator 的支持，也受到了知名黑客的认可，我们拥有超过 15 年的服务器和云技术经验，处理过千万用户级的应用程序。团队如下：郭达峰，EOS Asia 联合创始人，Strikingly 联合创始人兼CTO，香港中文大学荣誉毕业生；Joseph ，意大利人。EOS Asia 联合创始人，EOS Link 创始人， EOS Go 中国大使，City of Zion 特邀撰稿人，微包网站开发 CEO。李金马，中国运营负责人，「笑马资本」创始人，「币圈金马奖」品牌创建者，「金马带你定投区块链」社群创建者，区块链圈 KOL。John Yoon，韩国区运营负责人，「Startup Radar」的主编。Tyler Diaz 来自美国，区块链开发者和技术布道师，是一位资深开发人员。"
+  },
+  "account_name": "eosasia11111",
+  "public_key": "EOS76gG6ATpqfVf5KrVjh3f4JAa4EKzAwWabTucNQ4Xv2TmVAj9bN",
+  "org": {
+    "name": "EOS Asia",
+    "website": "https://www.eosasia.one/",
+    "email": "bp@eosasia.one",
+    "branding":{
+      "logo": "logo-eos_asia.png",
+      "cover": "cover-eos_asia.png"
+    },
+    "location": "Hong Kong",
+    "social_network": {
+      "steemit": "https://steemit.com/@eos-asia",
+      "twitter": "https://twitter.com/eosasia_one",
+      "github": "https://github.com/eosasia",
+      "telegram": "https://t.me/EOSAsia"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "Changhua",
+        "country": "TW",
+        "latitude": 24.0518,
+        "longitude": 120.5161
+      },
+      "is_producer": true,
+      "p2p_endpoint": "https://peering1.mainnet.eosasia.one/",
+      "api_endpoint": "https://api1.eosasia.one/",
+      "ssl_endpoint": "https://api1.eosasia.one/"
+    }
+  ]
+}

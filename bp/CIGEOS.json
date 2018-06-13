@@ -1,0 +1,41 @@
+{
+  "title": "CIGEOS",
+  "tagline": {
+    "en": "One Taiwan BP which you can trust.",
+    "zh": "值得信赖的EOS台湾节点."
+  },
+  "introduce": {
+    "en": "CIG EOS is the only EOS node in Taiwan. The team is committed to maintaining EOS network stability, promoting EOS ecological prosperity, and incubating EOS-based projects.",
+    "zh": "CIG EOS 是台灣唯一的 EOS 區塊生產者節點，團隊致力於維護 EOS 網絡穩定，促進 EOS 生態繁榮，孵化基於 EOS 項目。"
+  },
+  "account_name": "CIGEOS",
+  "public_key": "",
+  "org": {
+    "name": "CIGEOS",
+    "website": "http://cigeos.com/",
+    "email": "cigeos@outlook.com",
+    "branding":{
+      "logo": "logo-cigeos.png",
+      "cover": "cover-cigeos.png"
+    },
+    "location": "Taiwan",
+    "social_network": {
+      "steemit": "https://steemit.com/eos/@cigeos/cigeos-block-producer-report",
+      "twitter": "https://twitter.com/CIGEOS",
+      "facebook": "https://www.facebook.com/cigeos",
+      "telegram": "https://t.me/cigeos"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "86",
+        "name": "China"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

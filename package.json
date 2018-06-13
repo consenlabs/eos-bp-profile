@@ -1,0 +1,23 @@
+{
+  "name": "eos-bp-profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/consenlabs/eos-bp-profile.git"
+  },
+  "author": "imToken PTE. LTD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/consenlabs/eos-bp-profile/issues"
+  },
+  "homepage": "https://github.com/consenlabs/eos-bp-profile#readme",
+  "dependencies": {
+    "ajv": "^6.5.1",
+    "chalk": "^2.4.1"
+  }
+}

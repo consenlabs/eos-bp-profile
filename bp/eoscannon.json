@@ -1,0 +1,61 @@
+{
+  "title": "EOSCannon",
+  "tagline": {
+    "en": "IN EOS WE TRUST CANNON.",
+    "zh": "IN EOS WE TRUST CANNON."
+  },
+  "introduce": {
+   "en": "Our team: Van Kai - Co-Founder.Van is an experienced finance trader, and was the Headmaster of a Forex trading academy called JF LENNON in China. He has a deep understanding of finance market, has studied and get interested in cryptocurrency since 2014. Van invested in Bitcoin and Ripplecoin in a very early time, and has realized the disadvantage of POW as well as the utility weakness of blockchain technology. So when the EOS white paper was released on 2017, Van devoted himself into this world-changing project, and founded EOS Cannon -- A community made by true EOS believers and value investors, to assist with building up a better ecosystem of EOS.io in mainland China.Ricky Shi - Co-Founder.Co-Founder of EOS Cannon, Founder and Director of @bystake，and 胖哥说币（Chubby Boy Crytocurrency Talkshow）blogger owner; many years experiences from worked in IBM & Datayes as a senior technology and full stack engineer. As a serial startup entrepreneur, he participated in multiple stellar internet products design, development and operation. Now he devote himself in a higher cause of his life - building EOS community and eco-system, related technology training and super block producer launch at the DAWN.Franco Chen Co-Founder & CSO.As one of the earliest internet user and startup entrepreneur in China, Franco has experiences in internet economy and online community for over 20 years, as an international businessman for more than 10years and participated in several multi-nation programs, franco start to have different understanding with the current global economy system and became a true beliver of Blockchain economy. By joining the Cannon community, Franco is willing to devote himself in a great cause that to create a more equal world.Larry Ma - Business Development.Larry Ma manages business development efforts and initiatives at EOS Cannon to make it both a leading Block Producer in China and a better EOS community in the long run. Larry brings on board over a decade experience in technology, business development and entrepreneurship. Larry has participated in multiple internet startup ventures with successful exits. In his early career, Larry has designed, implemented and operated large scale SaaS system in leading digital marketing startup. Recently he has spent his time on solving issues in cross border e-commerce area. Larry truly believes in the vision of EOS/blockchain and is excited to be part of the community to help/witness the upcoming Dawn launch.Bean - Tech leader.Bean is the tech leader of EOS Cannon. He gains lots of experiences in developing, testing and operation in his 8 years IT career in IBM and other big companies. He is helping to build out the solid infrastructure.With continuous writing articles and educating newbie with EOS, now he is a famous writer on the largest digital cryptocurrency community bihu.com in China, who has more than 10k fans on that community.",
+   "zh": "EOS Cannon 致力于品质社区的建设;超级节点的搭建;优质项目的孵化; 技术生态的培养以及全球资源的链接。EOS Cannon 作为一个全球知名的 EOS 社区，以助力 EOS 建立成为去中心化生态、改变我们生活方式的区块链基础设施为己任。我们时刻谨记着为 EOS 生态 系统的完善和发展做出努力。团队如下：楷书·创办人 。楷书曾任JF LENNON在中国的外汇交易学院的校长，是一名经验丰富的金融交 易员，对金融市场有着深刻的理解，自2014年以来一直研究并对加密货币产生 兴趣。楷书较早投资了比特币和Ripple coin，并且意识到了POW的劣势以及区 块链技术的实用性。因此，当EOS白皮书于2017年发布时，他高度认可EOS的 价值，致力于这个改变世界的项目，并成立了EOS Cannon--一个由真正的 EOS信徒和价值投资者制作的社区，以协助建立一个更好的EOS生态系统。  施瑞琦·联合创始人 。EOS Cannon共建者，BYSTAKE创始人，胖哥说币 自媒体主理人。资 深技术专家，全栈工程师。曾就职于IBM，通联数据等公司，连续创业 者，曾参与多个互联网产品的开发和运营，现主要参与EOS社区生态建 设，技术培训和超级节点建设。Franco Chen·联合创始人兼CSO 。作为中国最早的互联网创业者之一，Franco在互联网经济和在线社区拥 有超过20年的经验，以及十年以上的大型跨国项目商业经验。Franco对 当前的全球经济体系有不同的理解，是区块链技术的信仰者和践行者。 通过加入EOS Cannon社区，Franco致力于通过区块链技术从根本上的改 变世界。Larry Ma·联合创始人 。Larry 在技术开发运营，商务拓展和创业管理领域均拥有超过十年的经验， 在国内外参与及创立了多家互联网创业公司并有成功退出。在早期的职业 生涯中，Larry 在领先的数字营销创业公司设计实现并运营了大规模 SaaS 系统。现在作为区块链去中心化理念和技术的信仰和倡导者，Larry 积极通 过 EOS 社区实践推动生态的进一步发展。 Bean·联合创始人 Bean在IBM等跨国企业拥有8年的开发、测试和运维经验，是佳能社区的技术 负责人。同时，Bean是中国最大的数字加密货币社区bihu.com的EOS版块最具 影响力的博主，在币乎拥有20,000名粉丝。 "
+  },
+  "account_name": "eoscannonchn",
+  "public_key": "EOS73cTi9V7PNg4ujW5QzoTfRSdhH44MPiUJkUV6m3oGwj7RX7kML",
+  "org": {
+    "name": "EOSCannon",
+    "website": "https://eoscannon.io",
+    "email": "contact@eoscannon.io",
+    "branding":{
+      "logo": "logo-eoscannon.png",
+      "cover": "cover-eoseoscannon.png"
+    },
+    "location": "Shanghai, China",
+    "social_network": {
+      "steemit": "https://steemit.com/@eoscannon",
+      "twitter": "https://twitter.com/cannon_eos",
+      "github": "https://github.com/eoscannon",
+      "telegram": "https://t.me/eos_cannon"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "852",
+        "name": "Hong Kong"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "id": "1",
+        "name": "America"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "id": "65",
+        "name": "Singapore"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
