@@ -30,12 +30,12 @@
   "nodes": [
     {
       "location": {
-        "id": "",
-        "name": ""
+        "id": "81",
+        "name": "Tokyo, Japan"
       },
       "is_producer": false,
-      "p2p_endpoint": "",
-      "api_endpoint": "",
+      "p2p_endpoint": "http://mainnet.eos90s.io:6789",
+      "api_endpoint": "http://mainnet.eos90s.io",
       "ssl_endpoint": ""
     }
   ]
