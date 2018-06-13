@@ -1,5 +1,5 @@
 {
-  "title": "LibertyBlock"
+  "title": "LibertyBlock",
   "tagline": {
     "en": "From Decentralization Comes Freedom",
     "zh": ""
@@ -11,7 +11,7 @@
   "account_name": "libertyblock",
   "public_key": "EOS5jDCYph3hctKED9tHbe9L77q8JZToeuMnefMDdyfPkrb89FzSt",
   "org": {
-    "name": "LibertyBlock"
+    "name": "LibertyBlock",
     "website": "http://libertyblock.io",
     "email": "kedar@everipedia.com",
     "branding":{
@@ -30,7 +30,7 @@
   "nodes": [
     {
       "location": {
-        "id": "975"
+        "id": "975",
         "name": "Bhutan"
       },
       "is_producer": true,
