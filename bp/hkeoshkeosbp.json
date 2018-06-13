@@ -40,22 +40,22 @@
     },
     {
       "location": {
-        "id": "SG",
-        "name": "Singapore"
+        "id": "JP",
+        "name": "Tokyo"
       },
       "is_producer": false,
-      "p2p_endpoint": "public-nlb.hkeos.com:19875",
-      "api_endpoint": "http://api.hkeos.com:80",
+      "p2p_endpoint": "p2p.hkeos.com:9876",
+      "api_endpoint": "",
       "ssl_endpoint": ""
     },
     {
       "location": {
-        "id": "JP",
-        "name": "Japan"
+        "id": "SG",
+        "name": "Singapore"
       },
-      "is_producer": true,
+      "is_producer": false,
       "p2p_endpoint": "",
-      "api_endpoint": "",
+      "api_endpoint": "http://api.hkeos.com:80",
       "ssl_endpoint": ""
     }
   ]
