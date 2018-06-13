@@ -1,0 +1,42 @@
+{
+  "title": "LiquidEOS",
+  "tagline": {
+    "en": "https://liquideos.com/",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "LiquidEOS By Bancor",
+    "zh": ""
+  },
+  "account_name": "eosliquideos",
+  "public_key": "EOS4v1n2j5kXbCum8LLEc8zQLpeLK9rKVFmsUgLCWgMDN38P6PcrW",
+  "org": {
+    "name": "Bancor",
+    "website": "https://liquideos.com/",
+    "email": "block_producer@liquideos.com",
+    "branding":{
+      "logo": "logo-liquideos.png",
+      "cover": "cover-liquideos.png"
+    },
+    "location": "Tel Aviv, Israel",
+    "social_network": {
+      "steemit": "https://steemit.com/@bancor-network",
+      "twitter": "https://twitter.com/bancor",
+      "facebook": "https://www.facebook.com/bancor/",
+      "github": "https://github.com/bancorprotocol/",
+      "telegram": "https://t.me/BPLiquidEOS"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "972",
+        "name": "Israel"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "node1.liquideos.com:9876",
+      "api_endpoint": "http://node2.liquideos.com:80",
+      "ssl_endpoint": "https://node2.liquideos.com:443"
+    }
+  ]
+}
