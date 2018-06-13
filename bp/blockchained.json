@@ -1,0 +1,45 @@
+{
+  "title": "BLOCKCHAINED",
+  "tagline": {
+    "en": "Decentralization is a product",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "We’ve been watching the winding paths that the development of decentralized projects is taking, and believe that EOS would be that particular link in the evolutionary blockchain that would realize the hidden potential of DPoS genetic code.
+    An explosive growth in one ecosystem would inevitably spread all over the world, and only truly autonomous block producers can help it, creating a truly decentralized global network with their efforts while bringing value to their local community.
+    We completely support such a vision, and that is why we’re supporting the development of decentralized exchanges and applications, crystallizing the experience and rewards that we receive into products of our own.
+    And while it would take some time until the old system finally becomes obsolete, we will continue our deliberate movement, because a journey of a thousand li begins with a single Block Producer. 🙂",
+    "zh": ""
+  },
+  "account_name": "blockchained",
+  "public_key": "EOS7NkhhRMNz4HoBxvea27gsWJoYjaWzWQCBSmkToZP1cC5e5uMp6",
+  "org": {
+    "name": "BLCKCHND",
+    "website": "https://eos.blckchnd.com",
+    "email": "eos@blckchnd.com",
+    "branding":{
+      "logo": "logo-blockchained.png",
+      "cover": "cover-blockchained.png"
+    },
+    "location": "St. Petersburg, Russia",
+    "social_network": {
+      "steemit": "https://steemit.com/@blockchained",
+      "twitter": "https://twitter.com/BLCKCHND",
+      "facebook": "",
+      "github": "https://github.com/blckchnd",
+      "telegram": "https://t.me/blckchnd_EOS"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "49",
+        "name": "Germany"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "p2p.eos.blckchnd.com:9876",
+      "api_endpoint": "https://api-eos.blckchnd.com/v1/chain/get_info",
+      "ssl_endpoint": "https://api-eos.blckchnd.com/v1/chain/get_info"
+    }
+  ]
+}
