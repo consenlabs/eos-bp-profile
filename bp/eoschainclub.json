@@ -15,10 +15,10 @@
     "website": "https://eosio.university/",
     "email": "admin@eosio.university",
     "branding":{
-      "logo": "logo-eoschainclub.png",
+      "logo": "logo-chainclubeos.png",
       "cover": "cover-eoschainclub.png"
     },
-    "location": "Sydney,Australia",
+    "location": "Australia",
     "social_network": {
       "steemit": "https://steemit.com/@eoschainclub/",
       "twitter": "https://twitter.com/eoschainclub",
@@ -29,8 +29,8 @@
   "nodes": [
     {
       "location": {
-        "id": "chainclubeos",
-        "name": "chainclubeos"
+        "id": "61",
+        "name": "Sydney,Australia"
       },
       "is_producer": true,
       "p2p_endpoint": "bp.eosio.university:9876",
