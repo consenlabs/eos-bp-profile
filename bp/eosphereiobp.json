@@ -1,0 +1,59 @@
+{
+  "title": "EOSphere",
+  "tagline": {
+    "en": "Based in Australia, but serving the entire EOSphere",
+    "zh": "总部设在澳大利亚，但服务于整个EOSphere."
+  },
+  "introduce": {
+    "en": "EOSphere are a passionate group of EOS enthusiasts and data centre professionals campaigning for election as founding block producers for the EOS Mainnet. Based in Australia, EOSphere are focussed on bootstrapping the EOS community and serving the entire EOSphere through provision of infrastructure, governance and community benefit initiatives.",
+    "zh": "EOSphere是一群充满热情的EOS爱好者和数据中心专业人士，他们竞选EOS Mainnet的创始人。 总部位于澳大利亚，EOSphere致力于引导EOS社区，并通过提供基础设施，治理和社区惠益举措为整个EOSphere服务"
+  },
+  "account_name": "eosphereiobp",
+  "public_key": "EOS5FYRrG3ThNU56d3uZ8d4bo4MsN5Fig9WPY3xYSpH3RqPhpoH3A",
+  "org": {
+    "name": "EOSphere",
+    "website": "https://www.eosphere.io/",
+    "email": "info@eosphere.io",
+    "branding": {
+      "logo": "logo-eosphere.png",
+      "cover": "cover-eosphere.png"
+    },
+    "location": "Australia",
+    "social": {
+      "steemit": "eosphere",
+      "twitter": "eosphere_io",
+      "youtube": "eosphere",
+      "facebook": "eosphereio",
+      "github":"eosphere",
+      "reddit": "eosphere",
+      "keybase": "eosphere",
+      "telegram": "@rossco99",
+      "wechat":"ross-eosphere"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "node1.eosphere.io",
+        "country": "AU",
+        "latitude": -33.865143,
+        "longitude": 151.209900
+      },
+      "is_producer": false,
+      "p2p_endpoint": "node1.eosphere.io:9876",
+      "api_endpoint": "node1.eosphere.io:8888",
+      "ssl_endpoint": "node1.eosphere.io:443"
+    },
+    {
+      "location": {
+        "name": "node2.eosphere.io",
+        "country": "AU",
+        "latitude": -33.865143,
+        "longitude": 151.209900
+      },
+      "is_producer": false,
+      "p2p_endpoint": "node2.eosphere.io:9876",
+      "api_endpoint": "node2.eosphere.io:8888",
+      "ssl_endpoint": "node2.eosphere.io:443"
+    }
+  ]}
