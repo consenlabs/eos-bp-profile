@@ -30,7 +30,7 @@
     {
       "location": {
         "id": "852",
-        "country": "Hong Kong"
+        "name": "Hong Kong"
       },
       "is_producer": true,
       "p2p_endpoint": "bp.eos.vote:9876",
