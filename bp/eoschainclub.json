@@ -1,5 +1,5 @@
 {
-  "title": "EOS_ChainClub",
+  "title": "EOS ChainClub",
   "tagline": {
     "en": "Build an EOS Super University",
     "zh": "共建一所EOS超级大学"
@@ -11,7 +11,7 @@
   "account_name": "chainclubeos",
   "public_key": "EOS6bTR5gkBdGQhbM6uFYMYdc2kugU2FUA3XD5soHSCt1pXbGjHjn",
   "org": {
-    "name": "EOS_ChainClub",
+    "name": "EOS ChainClub",
     "website": "https://eosio.university/",
     "email": "admin@eosio.university",
     "branding":{
