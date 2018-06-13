@@ -1,1 +1,40 @@
-{"title": "eos sw/eden", "tagline": { "en": "Building Eden Through Blockchain Technology", "zh": "通过区块链技术构建伊甸园" }, "introduce": {"en": "Our team launched the first successful test network on the EOS Blockchain. We have been an important source of information for BP candidates in the blockchain ecosystem, helping community members understand how to build their own server systems and operate in the EOS chain. One of the driving forces of EOS SW/EDEN is to help people learn how to use their talents and abilities to contribute to the community. This driving force is based on our core values - transparency, integrity, generosity and education.", "zh": "我们的团队在EOS Blockchain上推出了第一个成功的测试网。我们一直是区块链生态系统中BP候选人的重要信息来源，帮助社区成员了解如何建立自己的服务器系统并在EOS链中运营。EOS SW/EDEN 的驱动力之一是帮助人们学习如何使用自己的天赋和能力为社区做贡献。这种驱动力建立在我们核心价值观的基础上 - 透明度，诚信，慷慨和教育。" }, "account_name": "eosswedenorg","public_key": "EOS7SGSBsWhSob6TEric6u3TGodcc1uXFcqSrquJ3Etuqcbb3VnNY", "org": { "name": "eos sw/eden", "website": "https://eossweden.se/", "email": "community@eossweden.se", "branding":{ "logo": "sw-eden-leaf-logo-sml.png", "cover": "eos-sw-eden-banner.png" }, "location": "Sweden", "social_network": { "steemit": "https://steemit.com/@eos.sw-eden", "twitter": "https://twitter.com/eossweden", "facebook": "https://www.facebook.com/EOS-sweden-554084258304426/", "github": "https://github.com/xebb82", "telegram": "https://t.me/eossweden" } },"nodes": [ { "location": { "id": "46", "name": "Sweden" }, "is_producer": false,"p2p_endpoint": "p2p.eossweden.se:9876","api_endpoint": "http://fn.eossweden.se:80","ssl_endpoint": "https://fn.eossweden.se:443"}]}
+{
+	"title": "eos sw/eden",
+	"tagline": {
+		"en": "Building Eden Through Blockchain Technology",
+		"zh": "通过区块链技术构建伊甸园"
+	},
+	"introduce": {
+		"en": "Our team launched the first successful test network on the EOS Blockchain. We have been an important source of information for BP candidates in the blockchain ecosystem, helping community members understand how to build their own server systems and operate in the EOS chain. One of the driving forces of EOS SW/EDEN is to help people learn how to use their talents and abilities to contribute to the community. This driving force is based on our core values - transparency, integrity, generosity and education.",
+		"zh": "我们的团队在EOS Blockchain上推出了第一个成功的测试网。我们一直是区块链生态系统中BP候选人的重要信息来源，帮助社区成员了解如何建立自己的服务器系统并在EOS链中运营。EOS SW/EDEN 的驱动力之一是帮助人们学习如何使用自己的天赋和能力为社区做贡献。这种驱动力建立在我们核心价值观的基础上 - 透明度，诚信，慷慨和教育。"
+	},
+	"account_name": "eosswedenorg",
+	"public_key": "EOS7SGSBsWhSob6TEric6u3TGodcc1uXFcqSrquJ3Etuqcbb3VnNY",
+	"org": {
+		"name": "eos sw/eden",
+		"website": "https://eossweden.se/",
+		"email": "community@eossweden.se",
+		"branding": {
+			"logo": "sw-eden-leaf-logo-sml.png",
+			"cover": "eos-sw-eden-banner.png"
+		},
+		"location": "Sweden",
+		"social_network": {
+			"steemit": "https://steemit.com/@eos.sw-eden",
+			"twitter": "https://twitter.com/eossweden",
+			"facebook": "https://www.facebook.com/EOS-sweden-554084258304426/",
+			"github": "https://github.com/xebb82",
+			"telegram": "https://t.me/eossweden"
+		}
+	},
+	"nodes": [{
+		"location": {
+			"id": "46",
+			"name": "Sweden"
+		},
+		"is_producer": false,
+		"p2p_endpoint": "p2p.eossweden.se:9876",
+		"api_endpoint": "http://fn.eossweden.se:80",
+		"ssl_endpoint": "https://fn.eossweden.se:443"
+	}]
+}
