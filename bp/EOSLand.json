@@ -27,7 +27,8 @@
     }
   },
   "nodes": [
-    "location": {
+    {
+      "location": {
         "id": "",
         "name": "Canada"
       },
@@ -35,5 +36,6 @@
       "p2p_endpoint": "",
       "api_endpoint": "",
       "ssl_endpoint": ""
+    }
   ]
 }
