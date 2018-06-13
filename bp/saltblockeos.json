@@ -1,12 +1,12 @@
 {
   "title": "SaltBlock",
   "tagline": {
-    "en": "Using our technical super-powers to add value to the EOS community!",
-    "zh": "利用我们的技术技能来帮助他人并为EOS社区增添价值"
+    "en": "Creating the infrastructure for a decentralized community.",
+    "zh": "为分散社区创建结构"
   },
   "introduce": {
     "en": "SaltBlock believes that only through the spirit of inclusion and cooperation can humans achieve long lasting change.",
-    "zh": "SaltBlock认为，只有通过包容与合作的精神，人类才能实现持久的变革。"
+    "zh": "SaltBlock认为，只有通过包容与合作的精神，人类才能实现持久的变革"
   },
   "account_name": "saltblockeos",
   "public_key": "EOS74hY6CxYxQiUAeoZKLGTkJ7TX1zasfG9rzy6sqPkULi8LF4YmS",
@@ -18,7 +18,7 @@
       "logo": "logo-saltblockeos.png",
       "cover": "cover-saltblockeos.png"
     },
-    "location": "Salt Lake City, Utah, United States of America",
+    "location": "Salt Lake City, USA",
     "social_network": {
       "steemit": "https://steemit.com/@saltblock",
       "twitter": "https://twitter.com/saltblockbp",
