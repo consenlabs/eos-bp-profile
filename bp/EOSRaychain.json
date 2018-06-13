@@ -1,0 +1,42 @@
+{
+  "title": "EOSRaychain",
+  "tagline": { 
+"en": "One chain to connect them all, one chain to dream, one chain to innovate them all.",
+"zh": "打造最安全稳健的民主节点，助力eos生态发展建设。"
+  },
+  "introduce": {
+"en": "Founded in 2017, Hong Kong Rylink Science and Technology Co., Ltd. is a developing and applied company on blockchain underlying technology. We will ensure the security for industry development by developing cryptocurrencies application products. We aim to provide secure and reliable asset management and abundant blockchain application service for users all over the world.",
+"zh": "香港锐链科技有限公司成立于2017年，是一家区块链底层技术研发与应用型科技公司。致力于数字货币应用层产品的开发，为行业发展提供安全保障。公司通过对自身产品的不断优化和区块链底层技术的探索，致力于为全球用户提供安全可靠的资产管理保障服务以及丰富的区块链应用服务。"
+  },
+  "account_name": "eosraychains",
+  "public_key": "EOS7heWdmdsEHDh4TcV6oUWCNTnnToNf6KxtjKLg9bUZwnxHdhmYT",
+  "org": {
+    "name": "EOSRaychain",
+    "website": "https://eosraychain.com/",
+    "email": "contact@eosraychain.com",
+    "branding":{
+      "logo": "logo-eosraychain.png",
+      "cover": "cover-eosraychain.png",
+    },
+    "location": "Hong Kong",
+    "social_network": {
+      "steemit": " https://steemit.com/@eosraychain",
+      "twitter": "https://twitter.com/EosRaychain",
+      "facebook": "https://www.facebook.com/EosRaychain",
+      "telegram": "https://t.me/EosRaychain"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": ""
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
+
