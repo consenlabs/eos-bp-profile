@@ -1,0 +1,42 @@
+{
+  "title": "Block Matrix",
+  "tagline": {
+    "en": "Proud block producer from the UK",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "Block Matrix develop applications and infrastructure that interact with blockchain technologies. Our team is comprised of experienced individuals from the technology and financial sectors. We operate with complete transparency, have many relationships throughout the crypto world and are excited to be part of the EOS community.",
+    "zh": ""
+  },
+  "account_name": "blockmatrix1",
+  "public_key": "EOS6oNSm6QKnMBzJDHiA32KsEjSgKKt1nGdPYfc2wZU34HA9GjP9q",
+  "org": {
+    "name": "Block Matrix",
+    "website": "https://blockmatrix.network",
+    "email": "bp@blockmatrix.network",
+    "branding":{
+      "logo": "logo-blockmatrix.png",
+      "cover": "cover-blockmatrix.png"
+    },
+    "location": "Newcastle, GB",
+    "social_network": {
+      "steemit": "https://steemit.com/@blockmatrix",
+      "twitter": "",
+      "facebook": "",
+      "github": "https://github.com/BlockMatrixNetwork",
+      "telegram": "https://t.me/blockmatrixnetwork"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "US",
+        "name": "United States of America"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "eosapi.blockmatrix.network:13546",
+      "api_endpoint": "",
+      "ssl_endpoint": "https://eosapi.blockmatrix.network"
+    }
+  ]
+}
