@@ -1,0 +1,41 @@
+{
+  "title": "EOS42",
+  "tagline": {
+    "en": "Empowering the Community.",
+    "zh": "社區力量的賦予者"
+  },
+  "introduce": {
+    "en": "EOS.IO Block Producer Candidate for London, UK",
+    "zh": "基於英國倫敦的 EOS.IO 出塊者候選人"
+  },
+  "account_name": "eos42freedom",
+  "public_key": "EOS4tw7vH62TcVtMgm2tjXzn9hTuHEBbGPUK2eos42ssY7ip4LTzu",
+  "org": {
+    "name": "EOS42",
+    "website": "www.eos42.io",
+    "email": "community@eos42.io",
+    "branding":{
+      "logo": "logo-$account_name.png",
+      "cover": "cover-$account_name.png"
+    },
+    "location": "London, United Kingdom",
+    "social_network": {
+      "steemit": "https://steemit.com/@eos42",
+      "twitter": "https://twitter.com/eos42io",
+      "github": "https://github.com/eos42",
+      "telegram": "https://t.me/EOS42"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "825",
+        "name": "UK"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "p2p.eos42.io",
+      "api_endpoint": "http://nodes.eos42.io",
+      "ssl_endpoint": ""
+    }
+  ]
+}
