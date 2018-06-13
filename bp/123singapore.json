@@ -1,0 +1,41 @@
+{
+  "title": "EOS Singapore",
+  "tagline": {
+    "en": "Creating the most ecological EOS Block Producers",
+    "zh": "打造最具生态价值的EOS超级节点"
+  },
+  "introduce": {
+    "en": "We are a project team sponsored by the professional block chain investment agency - LinkVC capital. The LinkVC capital was established in May 2016, with BBEX, AICoin, Mining$hares, LBTC Block Producers and other representative projects to bring global business resources and professional financial services to great block chain companies and developers. Over the past 2 years, LinkVC capital has invested multiple projects in 20 countries. It is a global vision of a new venture capital fund, with its headquarters in Singapore and offices in Beijing, Hongkong and San Francisco. The main investment directions of the fund include block chain technology, encrypted currency and financial technology.",
+    "zh": "我们是由专业区块链投资机构-连接资本发起成立的项目团队，连接资本成立于2016年5月，有BBEX、AICoin、Mining$hares、LBTC超级节点等代表项目，致力于为伟大的区块链公司和开发者们带来全球商业资源和专业的金融服务。过去2年时间，连接资本投资了全球20个国家的多个项目，是一家具有全球视野的新锐风险投资基金，总部位于新加坡，办公地点分布在北京、香港和旧金山等地。基金主要投资方向包括区块链技术、加密货币和金融科技等。"
+  },
+  "account_name": "123singapore",
+  "public_key": "EOS71UbkZzuz55WNBpsEVQzkXrZAJ2XyLoQiEcS9WKwbYambhFxWb",
+  "org": {
+    "name": "EOS Singapore",
+    "website": "http://eos.vote/",
+    "email": "support@eos.vote",
+    "branding":{
+      "logo": "logo-123singapore.png",
+      "cover": "cover-123singapore.png"
+    },
+    "location": "Singapore",
+    "social_network": {
+      "steemit": "",
+      "twitter": "https://twitter.com/cKzvl87oBcI5CL0",
+      "github": "",
+      "telegram": "https://t.me/EosSingapore"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "852",
+        "name": "Hong Kong"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "bp.eos.vote:9876",
+      "api_endpoint": "bp.eos.vote:8888",
+      "ssl_endpoint": ""
+    }
+  ]
+}
