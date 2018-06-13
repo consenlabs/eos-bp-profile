@@ -1,4 +1,13 @@
 {
+  "title": "eosDAC",
+  "tagline": {
+    "en": "The Community-Owned EOS Block Producer and DAC Enabler",
+    "zh": "一个社区共有的EOS区块生产节点"
+  },
+  "introduce": {
+    "en": "It is the vision of eosDAC that eosio block production should be open for everyone. To realise this vision, eosDAC is an evolving Decentralised Autonomous Community (DAC) focused on eosio Block Production serving the EOS communities worldwide. In doing this, eosDAC will create the tools and smart contracts it needs to function. It will share these with the EOS communities and help other DACs thrive on the eosio blockchains.",
+    "zh": "eosDAC的愿景为EOS将是一个对每个人开放的社区，每个人可以进行贡献及得到收益。为了实现这个愿景，eosDAC将成为一个持续发展的分布式自治社区（DAC），并致力于成为一个领先生产区块节点，并服务于全世界的EOS社区。因此eosDAC将会创建相关的工具及职能合约，并将在EOS社区分享，同时帮助在EOS区块链中其他的分布式自治社区。"
+  },
   "producer_account_name": "eosdacserver",
   "producer_public_key": "EOS7aBPDACAn1SpJDjmaZHSEUgqfNWdUaNawVZhVuEWUx5aoepJf6",
   "org": {
