@@ -1,0 +1,42 @@
+{
+  "title": "EOS Emerge Poland",
+  "tagline": {
+    "en": "Success comes with experience - vote for decentralization! Vote for emergepoland!",
+    "zh": "成功與經驗 - 分權投票！ 為emergepoland投票！"
+  },
+  "introduce": {
+    "en":"We are a group of strong IT and blockchain enthusiasts from Poland with background and IT experience in private companies (precious metals, mutual funds, insurance), with a 14-yr history in the financial market and extensive knowledge about most of the financial instruments that appeared in the last decade, indicating our ability to adapt to the changing environments of business. As such, we are extremely excited and ready to use our financial background, IT knowledge, and innovation skills to serve the EOS project. We are big enthusiasts of the EOS ecosystem and we believe in its core foundations, which makes us want to be active participants in its early adoption phase. Using our previous experience in IT and finance, we are eager to join your community to contribute in building dApps for EOS, which in our opinion could be a real breakthrough!",
+    "zh":"作为EOS Emerge Poland的成员，以及基于EOS.io区块链推出的创始区块生产者（节点）候选人我们很荣幸能够成为这一革命性项目的一部分，并且有机会向EOS社区展示自己。我们是一群来自波兰的IT和区块链爱好者，拥有贵金属、共同基金和保险行业的背景及信息科技经验，在金融市场有14年从业经验，我们非常熟悉过去十年中出现的大多数金融工具，也有能力适应不断变化的业务环境。因此，我们非常兴奋，也准备利用资金资源、IT只是和创新技能来服务EOS项目。我们是EOS生态系统“死忠”，也相信其核心基础，我们希望成为了EOS早期采用阶段的积极参与者。利用我们以前的IT和金融行业经验，我们渴望加入社区，为构建EOS的DApp们做出贡献，我们认为这是一个真正的突破！"
+  },
+  "account_name": "emergepoland",
+  "public_key": "EOS7ghyBJsLyNiyJBwLDnRBUCfNcYENeqiZb1hAjS5yhHA4KmpMRn",
+  "org": {
+    "name": "EOS Emerge Poland",
+    "website": "http://eosemerge.io",
+    "email": "support@eosemerge.io",
+    "branding":{
+      "logo": "logo-emergepoland.png",
+      "cover": "cover-emergepoland.png"
+    },
+    "location": "Katowice, Poland",
+    "social_network": {
+      "steemit": "https://steemit.com/@eosemerge",
+      "twitter": "https://twitter.com/eos_emerge",
+      "facebook": "",
+      "github": "",
+      "telegram": "https://t.me/eosemerge"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "48",
+        "name": "Poland"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "dc1.eosemerge.io:9876",
+      "api_endpoint": "http://dc1.eosemerge.io:8888",
+      "ssl_endpoint": "http://dc1.eosemerge.io:5443"
+    }
+  ]
+}
