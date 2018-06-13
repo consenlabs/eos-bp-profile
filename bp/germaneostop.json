@@ -1,0 +1,42 @@
+{
+  "title": "GermanEOS",
+  "tagline": {
+    "en": "EOS Block Producer Candidate made-in-Germany",
+    "zh": "来自德国的EOS社区",
+	"de": "EOS Block Producer aus Deutschland"
+  },
+  "introduce": {
+   "en": "We are GermanEOS, the Block Producer Candidate from Germany. We are wings of EOS with the goal to strengthen the influence of EOS platform in Germany and to assist the promotion and application of EOS blockchain technology in Germany. GermanEOS aim at being one of the best EOS nodes on the world by adopting class-leading infrastructure, technology, and community building strategy. In addition, GermanEOS will enhance the blockchain technology for universal education, knowledge sharing and incubation projects. GermanEOS is a user-centric community and organized by a group of blockchain enthusiasts. We are truly excited by the technology powering the EOS platform. The GermanEOS community believes that the blockchain technology, EOS in particular, has the potential to be something groundbreaking that will significantly change many of the business areas that are currently working with centralized architectures. GermanEOS will operate as a user-centric community. It aims at being the largest EOS community in Germany. We promote the development of decentralized applications (DAPP) of EOS platform and other blockchain-based technology in the area of energy (SmartEnergy), finance (Coiner.world), logistics, and water. GermanEOS will provide class-leading infrastructures to support the main EOS network. Substantial efforts will be invested in protecting GermanEOS nodes from DDOS attacks.GermanEOS belongs to the whole EOS community and no single person or legal entity should ever control it.",
+   "zh": "我们是GermanEOS，来自德国的Block Producer Candidate。我们是EOS的翅膀，目标是加强EOS平台在德国的影响力，并协助EOS区块链技术在德国的推广和应用。 GermanEOS旨在通过采用领先的基础设施，技术和社区建设战略，成为全球最佳EOS节点之一。此外，德国EOS将加强区块链技术，用于普及教育，知识共享和孵化项目。 GermanEOS是一个以用户为中心的社区，由一群区块链爱好者组织。 EOS平台的技术令我们非常兴奋。德国EOS社区认为区块链技术尤其是EOS具有开创性的潜力，这将大大改变目前与集中式架构合作的许多业务领域。 GermanEOS将以用户为中心的社区运作。它的目标是成为德国最大的EOS社区。我们在能源（智能能源），金融（Coiner.world），物流和水领域促进EOS平台和其他基于区块链技术的分散应用（DAPP）的发展。 GermanEOS将提供一流的基础设施来支持主要的EOS网络。将大量的努力用于保护德国EOS节点免受DDOS攻击。GermanEOS属于整个EOS社区，任何单个人或法人都不应该控制它。",
+   "de": "Wir sind GermanEOS, der Block Producer Candidate aus Deutschland. Wir sind Flügel von EOS mit dem Ziel, den Einfluss der EOS-Plattform in Deutschland zu stärken und die Förderung und Anwendung der EOS-Blockchain-Technologie in Deutschland zu unterstützen. GermanEOS zielt darauf ab, einer der besten EOS-Knoten auf der Welt zu sein, indem es eine führende Infrastruktur-, Technologie- und Community-Building-Strategie einführt. Darüber hinaus wird GermanEOS die Blockchain-Technologie für universelle Bildung, Wissensaustausch und Inkubationsprojekte erweitern. GermanEOS ist eine benutzerzentrierte Community und wird von einer Gruppe von Blockchain-Enthusiasten organisiert. Wir sind wirklich begeistert von der Technologie, die die EOS-Plattform antreibt. Die GermanEOS-Community glaubt, dass die Blockchain-Technologie, insbesondere EOS, das Potenzial hat, bahnbrechend zu sein, was viele der Geschäftsbereiche, die derzeit mit zentralisierten Architekturen arbeiten, erheblich verändern wird. GermanEOS wird als benutzerzentrierte Community agieren. Ziel ist es, die größte EOS-Community in Deutschland zu sein. Wir fördern die Entwicklung von dezentralen Anwendungen (DAPP) der EOS-Plattform und anderer blockchain-basierter Technologie in den Bereichen Energie (SmartEnergy), Finanzen (Coiner.world), Logistik und Wasser. GermanEOS wird erstklassige Infrastrukturen bereitstellen, um das EOS-Hauptnetzwerk zu unterstützen. Erhebliche Anstrengungen werden unternommen, um GermanEOS-Knoten vor DDOS-Angriffen zu schützen. GermanEOS gehört zur gesamten EOS-Gemeinschaft, und keine einzelne Person oder juristische Person sollte es jemals kontrollieren."
+  },
+  "account_name": "germaneostop",
+  "public_key": "EOS83SYvZgxFZxugkzjy1n5cxNr4xYL27wGxDY4yvszDxXWwx9RnW",
+  "org": {
+    "name": "GermanEOS",
+    "website": "http://www.germaneos.de",
+    "email": "info@germaneos.de",
+    "branding":{
+      "logo": "logo-germaneostop.png",
+      "cover": "cover-germaneostop.png"
+    },
+    "location": "Bonn, Germany",
+    "social_network": {
+      "steemit": "https://steemit.com/@germaneos",
+      "twitter": "https://twitter.com/germaneos",
+      "telegram": "https://t.me/germaneos"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "49",
+        "name": "Germany"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
