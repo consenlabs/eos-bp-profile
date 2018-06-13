@@ -34,7 +34,7 @@
         "name": "BR"
       },
       "is_producer": true,
-      "p2p_endpoint": "35.198.59.183:9876",
+      "p2p_endpoint": "35.198.59.183:6987",
       "api_endpoint": "http://api.eosnewyork.io:80",
       "ssl_endpoint": "https://api.eosnewyork.io:443"
     }
