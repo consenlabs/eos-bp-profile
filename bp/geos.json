@@ -8,8 +8,8 @@
     "en": "GEOS is registered in Singapore and has offices in Beijing and Shanghai. The team of GEOS are from GDEX.io and Magicwallet (www.magicw.net), both of which are well known in BitShares community due to their technology accumulation. GEOS aims to explore the feasibility of combining Bitshares ecosystem with EOS ecosystem, by means of building developers’ community, incubating projects, researching the technology, building API servers and tokenizing the assets.",
     "cn": "公司总部位于新加坡，并在上海和北京设有办事处。由深耕Bitshares生态并为社区做出卓越贡献的GDEX、鼓鼓钱包联合发起，旨在探索Bitshares生态和EOS生态高效、完美结合。GEOS将专注EOS生态建设，建立开发者社区、孵化项目、帮助项目落地、资产流转、扶持API Server等，并协同其他共建者，共同繁荣EOS大生态。"
   },
-  "account_name": "",
-  "public_key": "",
+  "account_name": "geosoneforbp",
+  "public_key": "EOS7CjPeMYUj2Ydmw667JJNsQA5mige9YE4FVxMCT81Jst3SRVbX3",
   "org": {
     "name": "GEOS",
     "website": "https://www.geos.one/",
@@ -33,7 +33,7 @@
         "name": ""
       },
       "is_producer": false,
-      "p2p_endpoint": "",
+      "p2p_endpoint": "bp.geos.one:80",
       "api_endpoint": "",
       "ssl_endpoint": ""
     }
