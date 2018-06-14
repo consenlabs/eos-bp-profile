@@ -1,0 +1,42 @@
+{
+  "title": "EOSeoul",
+  "tagline": {
+    "en": "EOS Mechanic",
+    "zh": "EOS Mechanic"
+  },
+  "introduce": {
+    "en": "EOSeoul is a blockchain project from NEOWIZ, one of the big IT companies in Korea. NEOPLY, a subsidiary of NEOWIZ, is heading this project along with some of the lead engineers from NEOWIZ and a business team from NEOWIZ PLAYSTUDIO. As we have about 20 years of technical expertise fully integrated within our organisation from running a large company, we attach an immense importance to technical skills and security.",
+    "zh": "EOSeoul是由韩国IT集团NEOWIZ推进的区块链项目。以NEOPLY为中心，由NEOWIZ技术部门、NEOWIZ PLAY STUDIO事业部门共同推进。我们是20年来运营大型企业的具有技术凝聚力的超级节点，尤其重视实力和安全的团队。史上最强大的区块链EOS，我们希望和大家一起为EOS发展而努力。"
+  },
+  "account_name": "eoseouldotio",
+  "public_key": "EOS6SSA4gYCSZ3q9NWpxGsYDv5MWjSwKseyq25RRZexwj8EM6YHDa",
+  "org": {
+    "name": "EOSeoul",
+    "website": "https://portal.eoseoul.io/",
+    "email": "eoseoul@neowiz.com",
+    "branding":{
+      "logo": "logo-eoseoul.png",
+      "cover": "cover-eoseoul.png"
+    },
+    "location": "Seoul, Korea",
+    "social_network": {
+      "steemit": "https://steemit.com/@eoseoul",
+      "twitter": "https://twitter.com/eoseoul_kor",
+      "facebook": "http://www.facebook.com/EOSeoul.kr",
+      "github": "https://github.com/eoseoul",
+      "telegram": "https://t.me/eoseoul"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "82",
+        "name": "Korea"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+} 
