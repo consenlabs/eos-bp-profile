@@ -1,0 +1,47 @@
+{
+  "title": "EOS Washington",
+  "tagline": {
+    "en": "First Washington EOS Supernode.",
+    "zh": "第一个首都华盛顿的EOS超级节点。"
+  },
+
+  "introduce": {
+    "en": "Unique FedRAMP-secured Massively Parallel Processing EOS Supernode.",
+    "zh": "第一个首都华盛顿的EOS超级节点 - 独步的FedRAMP安全和云超算功能。"
+  },
+
+  "account_name": "tchaineospro"
+  "public_key": "EOS8eW7gGhAwB3nxAPLvhWbtSipUN2SogtZsiLErJ981grPoLLFon",
+  "org": {
+    "name": "EOS Washington"
+    "website": "http://eoswashingtondc.com/",
+    "email": "token@thetchain.com",
+    "branding":{
+      "logo": "logo-tchaineospro.png",
+      "cover": "cover-tchaineospro.png"
+    },
+
+    "location": "Washington DC, USA",
+    "social_network": {
+      "steemit": "http://eoswashingtondc.com",
+      "twitter": "http://eoswashingtondc.com",
+      "github": "http://eoswashingtondc.com",
+      "telegram": "http://eoswashingtondc.com"
+    }
+  },
+
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": ""
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+
+  ]
+
+}
