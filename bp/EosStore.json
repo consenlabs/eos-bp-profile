@@ -1,0 +1,52 @@
+{
+  "title": "EosStore",
+  "tagline": {
+    "en": "Focusing on the practical use of commercial DApp.",
+    "zh": "一切以应用商业落地为核心。"
+  },
+  "introduce": {
+    "en": "EosStore focusing on the practical use of commercial DApp, EosStore will create a super DApp store based on EOS and establish  the EOS Capital. Any EOS holder who votes for us will become our community member. in which every one in the community will be able to vote for their preferred projects and foster excellent projects with our fund to achieve the practical use of more applications.Community members will gain a reasonable reward from their voting. Meanwhile, our Eos.Store is devoted to incubating, investing and supporting more EOS developers globally. A cyclic developing mode  comprising of a community, a DApp store and a fund could promote an orderly healthy EOS ecosystem.Details of specific core team members can be found on the official website:https://www.eos.store",
+    "zh": "EosStore一切围绕商业应用落地为核心，构建基于EOS的DApp开发超级应⽤市场以及柚子资本基金，每⼀个EosStore社群成员都将拥有优先投票权选择自己喜欢的项目，并连同基金一起推动优质项⽬的发展，促进更多的开发应用落地，同时帮助EOS对更多在全球的开发者进行孵化、投资、扶持，社区、应⽤商店以及基⾦形成循环发展，共同促使整个EOS生态合理有序。详细团队成员请见官网：https://www.eos.store"
+  },
+  "account_name": "eosstorebest",
+  "public_key": "EOS8FrjiXUDAFc8pSQkFejk1zRxyALnqPbYdJsqhAwKMya3tY7TaU",
+  "org": {
+    "name": "EosStore",
+    "website": "https://www.eos.store",
+    "email": "market@eos.store",
+    "branding":{
+      "logo": "logo-eosstore.png",
+      "cover": "cover-eosstore.png"
+    },
+    "location": "Beijing, China",
+    "social_network": {
+      "steemit": "https://steemit.com/@eos.store",
+      "twitter": " http://www.eos.store",
+      "facebook": "https://www.facebook.com/StoreEos",
+      "github": "https://github.com/eosstore",
+      "telegram": "https://t.me/StoreEos"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "81",
+        "name": "Japan"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+	{
+      "location": {
+        "id": "65",
+        "name": "Singapore"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

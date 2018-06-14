@@ -1,0 +1,41 @@
+{
+  "title": "SheLeaders",
+  "tagline": {
+    "en": "Every woman is a leader!",
+    "zh": "每一位女性都有权成为领导者"
+  },
+  "introduce": {
+    "en": "SheLeaders is a decentralized autonomous community of women leaders who keep learning and exploring the great paradigm shifts of our lives driven by innovations. SheLeaders is a community-owned block producer of credible and women friendly blockchains. SheLeaders is a non-profit organization that receive donations, all income will only be used to benefit community. ",
+    "zh": "SheLeaders，是一个女性去中心化自治社群，非营利组织，也是一个社群共同拥有的区块生产者，我们代表全体女性参与经我们全面评估后靠谱并对女性友好的各公链跨链生态建设，所得将全部用于所在链生态和社群的建设。虽然我们的发起人是在各个领域中做出过成绩和贡献的女性领导者们，但我们没有年龄、地域、种族、专业、经济能力、政治地位的区分，为所有社群成员绝对平等而存在，所以欢迎所有女性朋友加入。虽然从平均颜值来看，我们应该是最高的吧，但我们并不屑自封“女神”，我们仅仅是相信在区块链的世界，每一位女性都有权并应该成为领导者。此外，我们绝非极端女权组织，事实上，我们不排斥男同胞们的支持与加入。"
+  },
+  "account_name": "sheleaders21",
+  "public_key": "EOS7LGK4aCwe69AB9f796fdTaiz4zCQPCUV1mLU8Qwm4voAgWbQ96",
+  "org": {
+    "name": "SheLeaders",
+    "website": "http://sheleaders.one",
+    "email": "contact@sheleaders.one",
+    "branding":{
+      "logo": "logo-sheleaders.png",
+      "cover": "cover-sheleaders.png"
+    },
+    "location": "Beijing, China",
+    "social_network": {
+      "steemit": " https://steemit.com/@eosmatrix",
+      "twitter": "https://twitter.com/SheLeaders_",
+      "github": "https://github.com/SheLeaders",
+      "telegram": "https://t.me/sheleaders"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": ""
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

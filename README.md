@@ -1,9 +1,9 @@
-# EOS BP Profile
+# EOS Block Producer Profile
 
 
 The purpose of the repo is to make users know more about EOS block producer info. BP info display example: 
 
-![example](tutorial/eos_bp_profile.jpg)
+![example](tutorial/eos_bp_profile.png)
 
 ## How to contribute
 
@@ -32,7 +32,7 @@ cover-$account_name.png
 - logo size: 180x180 png
 - cover size: 1125x420 png
 
-![example](tutorial/image_example.jpg)
+![example](tutorial/image_example.png)
 
 
 ## Copyright

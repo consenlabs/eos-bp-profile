@@ -1,0 +1,42 @@
+{
+  "title": "eoscube",
+  "tagline": {
+    "en": "eoscubechina mission impossible",
+    "zh": "柚子魔方，无限可能"
+  },
+  "introduce": {
+    "en": "We are team of eoscube Shenzhen China, with a total of more than 20 core members. Most of the technical team members come from the world's top five hundred communications company HUAWEI which has many years of cloud server deployment and research & development experience.At present, we are researching cross chain technology and EOS side chain, developing EOS cross chain wallet, EOS block chain browser and other infrastructure. We have a great advantage in the deployment and maintenance of block producer. The members of the technology team are from the gold medal team of HUAWEI cloud service and operation and maintenance, and have the experience and technology of serving 120 telecommunications operators in 75 countries.",
+    "zh": "我们是中国深圳柚子魔方eoscube团队，目前拥有核心成员共20余人，技术团队成员大部分来自于世界五百强通信公司华为，拥有多年的云服务器部署和研发经验。我们在节点部署和维护上面拥有巨大的优势，技术团队成员都来自于华为云服务和运维的金牌团队，有服务全球75个国家120家电信运营商的经验和技术实力。我们是来自于中国“硅谷”深圳的超级节点，节点标示eoscube，或者EOSCUBE，请支持我们。"
+  },
+  "account_name": "eoscube11111",
+  "public_key": "EOS5DgNvMFzzatTk23tp6NezQsRQBMxqcd687jo6Ks2GCKWRoSxEp",
+  "org": {
+    "name": "EOSCUBE柚子魔方",
+    "website": "http://eoscube.io",
+    "email": "magic@eoscube.io",
+    "branding":{
+      "logo": "logo-eoscube.png",
+      "cover": "cover-eoscube.png"
+    },
+    "location": "Shenzhen, China",
+    "social_network": {
+      "steemit": "ttps://steemit.com/@eoscube",
+      "twitter": "https://twitter.com/Eos_Cube",
+      "facebook": "",
+      "github": "",
+      "telegram": "http://t.me/eoscube"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": ""
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

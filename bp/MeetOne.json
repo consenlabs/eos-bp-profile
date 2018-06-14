@@ -1,0 +1,62 @@
+{
+  "title": "MEET.ONE",
+  "tagline": {
+    "en": "Portal to EOS Ecology",
+    "zh": "打造EOS生态入口"
+  },
+  "introduce": {
+    "en": "MEET.ONE is a BP candidate from Singapore. We would like to become the flow portal to EOS to make various functions in EOS ecology be realized via setting up EOS ecology portal. Meanwhile, established foundation for Dapp to filtering and incubating by launched side-chain. As the product development principles stated earlier, MEET.ONE team hope to take part in building up the healthy closed loop for EOS ecology. All products that developed by MEET.ONE team and all business plans are made for the purpose of serving EOS parent chain.",
+    "zh": "MEET.ONE是来自新加坡的超级节点竞选团队，希望通过搭建EOS生态入口，实现EOS生态中的各项功能的落地，成为EOS的流量入口；同时通过发起MEET.ONE侧链，成立基金会对Dapp进行筛选并投资孵化，成为EOS应用生态的孵化器以及过滤器。"
+  },
+  "account_name": "eosiomeetone",
+  "public_key": "EOS5gS4ZtanRS2Jx4vpjAQaVNci3v65iZiGCgMr9DNwu67x2pt8Qd",
+  "org": {
+    "name": "MeetOne",
+    "website": "https://meet.one",
+    "email": "hello@meet.one",
+    "branding":{
+      "logo": "logo-eosiomeetone.png",
+      "cover": "cover-eosiomeetone.png"
+    },
+    "location": "City, Singapore",
+    "social_network": {
+      "steemit": "https://steemit.com/@meetone",
+      "twitter": "https://twitter.com/MeetDotOne",
+      "facebook": "",
+      "github": "https://github.com/meet-one",
+      "telegram": "https://t.me/MeetOne"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "852",
+        "name": "Hong Kong"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "id": "1",
+        "name": "America"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "id": "65",
+        "name": "Singapore"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "EOS Rio",
+  "tagline": {
+    "en": "Technical leadership and commitment with security",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "Located in Brazil, EOS Rio contributes to the geographical and cultural distribution of the EOS network, which is an important feature of a reliable and robust Delegated Proof of Stake (DPoS) network. Our team is well diversified, ranging from developers to education professionals. We are developing a series of open-source tools for developers and other block producers, such as: • SimplEOS - a desktop wallet for the EOS ecosystem; • The Dev Playground - a tool for developers to help them build and test smart contracts; • EOS Node Governor - a process manager, control panel and api proxy for EOS nodes; • EOS Beat - a network metrics tool for EOS networks, based on Elastic’s Beats.",
+    "zh": "EOS Rio位于巴西，对拓展EOS网络的地理分布做出了贡献，这是可靠和强大的授权证明（DPoS）网络的一个重要特征。 我们的团队组成非常多元化，成员从开发人员到教育专业人员，应有尽有。 我们正在为开发人员和其他块生产商开发一系列开源工具，比如其他块生产商的控制面板，开发员的沙箱环境以及映射和优化网络拓扑的工具。我们还计划推出以社区为中心的Dapps。 • SimplEOS - EOS生态系统的桌面钱包; • EOS.IO Dev Playground - 供开发人员帮助他们构建和测试智能合约的工具; • EOS节点管理器 - 用于EOS节点的进程管理器，控制面板和api代理; • EOS Beat - 基于Elastic's Beats的EOS网络度量工具。"
+  },
+  "account_name": "eosriobrazil",
+  "public_key": "EOS7RioGoHQnhv2fJEiciP9Q7J8JgfJYFcyofVkmCqMop8Q1PzgqP",
+  "org": {
+    "name": "EOS Rio",
+    "website": "https://eosrio.io/",
+    "email": "contact@eosrio.io",
+    "branding":{
+      "logo": "logo-eosriobrazil.png",
+      "cover": "cover-eosriobrazil.png"
+    },
+    "location": "Rio de Janeiro, Brazil",
+    "social_network": {
+      "steemit": "https://steemit.com/@eosrio",
+      "twitter": "https://twitter.com/eosriobrazil",
+      "facebook": "https://www.facebook.com/EOSRioBP",
+      "github": "https://github.com/eosrio",
+      "telegram": "https://t.me/eosrio"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "BR",
+        "name": "Brazil"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
