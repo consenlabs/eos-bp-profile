@@ -13,7 +13,7 @@
   "account_name": "tchaineospro"
   "public_key": "EOS8eW7gGhAwB3nxAPLvhWbtSipUN2SogtZsiLErJ981grPoLLFon",
   "org": {
-    "name": "EOS Washington"
+    "name": "EOS Washington",
     "website": "http://eoswashingtondc.com/",
     "email": "token@thetchain.com",
     "branding":{
@@ -25,7 +25,7 @@
     "social_network": {
       "steemit": "http://eoswashingtondc.com",
       "twitter": "http://eoswashingtondc.com",
-      "github": "http://eoswashingtondc.com",
+      "github": "https://github.com/yeswici",
       "telegram": "http://eoswashingtondc.com"
     }
   },
