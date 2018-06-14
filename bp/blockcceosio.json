@@ -1,0 +1,41 @@
+{
+  "title": "BlockCC",
+  "tagline": {
+    "en": "BlockCC all in one block",
+    "zh": "BlockCC 一切尽在区块中"
+  },
+  "introduce": {
+    "en": "Block.CC is a team dedicated to developing blockchain services to make it easier and more reliable for users to use blockchain technology in various fields. We provide technical and data services related to blockchain, and we are committed to excavating the users' needs and solving the users’ pain points to improve the user experience comprehensively by using blockchain technology. We have established a blockchain data community and hope that all the participants in the community can experience the transparency, openness and safety of blockchain technology.",
+    "zh": "Block.CC一个专注开发区块链服务的团队，以如何更便利更可靠的让用户在各个领域使用区块链技术为目标。我们提供区块链相关的技术和数据服务，致力于挖掘用户需求，利用区块链技术替用户解决其所处行业痛点，全面提升用户体验。我们建立了区块链数据社区, 希望社区的所有参与者都能够体验到区块链技术所带来的透明、公开、安全等特点。"
+  },
+  "account_name": "blockcceosio",
+  "public_key": "EOS8VYW1mptsVYiy9GUQzfrM7AbCENKazjrDvv88cvKZuaoSAnR29",
+  "org": {
+    "name": "BlockCC",
+    "website": "https://eos.block.cc/",
+    "email": "eos@block.cc",
+    "branding":{
+      "logo": "logo-blockcceosio.png",
+      "cover": "cover-blcokcceosio.png"
+    },
+    "location": "Hong Kong, China",
+    "social_network": {
+      "steemit": "https://steemit.com/@blockcc",
+      "twitter": "https://twitter.com/block_cc",
+      "github": "https://github.com/blockcceosio/",
+      "telegram": "https://t.me/blockcccommunity"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "852",
+        "name": "Hong Kong"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

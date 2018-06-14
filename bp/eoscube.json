@@ -1,5 +1,5 @@
 {
-  "title": "eoscube",
+  "title": "柚子魔方EOSCUBE",
   "tagline": {
     "en": "eoscubechina mission impossible",
     "zh": "柚子魔方，无限可能"
@@ -20,7 +20,7 @@
     },
     "location": "Shenzhen, China",
     "social_network": {
-      "steemit": "ttps://steemit.com/@eoscube",
+      "steemit": "https://steemit.com/@eoscube",
       "twitter": "https://twitter.com/Eos_Cube",
       "facebook": "",
       "github": "",
@@ -30,8 +30,8 @@
   "nodes": [
     {
       "location": {
-        "id": "",
-        "name": ""
+        "id": "86",
+        "name": "China"
       },
       "is_producer": false,
       "p2p_endpoint": "",

@@ -1,0 +1,52 @@
+{
+  "title": "GenerEOS",
+  "tagline": {
+    "en": "A vote for GenerEOS is a vote for Charity!",
+    "zh": "投票GenerEOS，就是你对慈善事业的投票！"
+  },
+  "introduce": {
+    "en": "GenerEOS is a social enterprise block producing candidate with a mission of promoting and supporting scalable and highly reliable block production whilst giving back block rewards to charities. Based out of Sydney, Australia, GenerEOS is founded by a team of like minded blockchain enthusiasts with diverse backgrounds and a passion to make a difference in the world and fostering the spirit of generosity by giving back.",
+    "zh": "GenerEOS是专业超级节点候选人，它的使命是建立一个促进，可持续发展和高度可靠的区块链生产，同时对慈善事业带来益处。GenerEOS总部设在澳大利亚的悉尼，由一群志同道合的区块链专业人士组成。他们虽拥有不同背景，却共有让世界不再一样的热诚，并努力把GenerEOS塑造成慷慨回馈社会的典范。"
+  },
+  "account_name": "aus1genereos",
+  "public_key": "EOS57ZyzVjoEG2bvzmYmmeiH8YnYtRudxNKxppx17q7Hg29F8tW4t",
+  "org": {
+    "name": "GenerEOS",
+    "website": "https://www.genereos.io",
+    "email": "contact@genereos.io",
+    "branding":{
+      "logo": "logo-genereos.png",
+      "cover": "cover-genereos.png"
+    },
+    "location": "Sydney, Australia",
+    "social_network": {
+      "steemit": "https://steemit.com/@genereos",
+      "twitter": "https://twitter.com/genereossydney",
+      "facebook": "https://www.facebook.com/generEOS",
+      "github": "https://github.com/generEOS",
+      "telegram": "https://t.me/generEOS"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "61",
+        "name": "Australia"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "p2p.genereos.io:9876",
+      "api_endpoint": "http://mainnet.genereos.io",
+      "ssl_endpoint": "https://mainnet.genereos.io"
+    },
+    {
+      "location": {
+        "id": "61",
+        "name": "Australia"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
