@@ -29,7 +29,7 @@
   "nodes": [
     {
       "location": {
-        "id": "",
+        "id": "1",
         "name": ""
       },
       "is_producer": false,
