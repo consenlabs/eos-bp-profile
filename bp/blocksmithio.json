@@ -1,0 +1,41 @@
+{
+  "title": "EOS BlockSmith",
+  "tagline": {
+    "en": "VOTE YOUR VALUES"
+  },
+  "introduce": {
+    "en": "A block producer candidate committed to unwavering financial transparency, accountability, and integrity."
+  },
+  "account_name": "blocksmithio",
+  "public_key": "EOS6XVaKPQNJeyCdKXG3VbLD7VZZbah8jNQBafCySPgzEtnNiM7L8",
+  "org": {
+    "name": "EOS BlockSmith",
+    "website": "https://eosblocksmith.io",
+    "email": "jerry@eosblocksmith.io",
+    "branding": {
+      "logo": "logo-blocksmithio.png",
+      "cover": "cover-blocksmithio.png"
+    },
+    "location": "Oklahoma City, OK",
+    "social_network": {
+      "steemit": "https://steemit.com/@eosblocksmith",
+      "twitter": "https://twitter.com/eosBlockSmith",
+      "github": "https://github.com/eosBlockSmith",
+      "medium": "https://medium.com/@eosBlockSmith",
+      "telegram": "https://t.me/joinchat/FwtiV0tU_Tl-orBNr-uQlw",
+      "youtube": "https://www.youtube.com/channel/UC0UaoraKSMrjBQ7OH-i_XPw"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": ""
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
