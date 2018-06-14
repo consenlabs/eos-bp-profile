@@ -1,0 +1,41 @@
+{
+  "title": "EOStark",
+  "tagline": {
+    "en": "Sometims you gotta run before you can walk",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "We are EOStark – a group of devoted enthusiasts committed to evangelizing Blockchain Technology. We are all specialists in our own industries and have grouped our skillsets towards a common mission – to create a decentralized community anchored around transparency, liberty and justice. We are a fully independent and self-funded team based in Shanghai. We will act as a neutral platform to promote the EOS ideology and be the link connecting China to the Global EOS community. It is our aim to be a critical contributor in the evolution towards a decentralized community.",
+    "zh": ""
+  },
+  "account_name": "eostark11111",
+  "public_key": "EOS8gC9ySrYrP3arewzCp4JQAwb8om7vzttBzzdh9CtkmEDFxZP4h",
+  "org": {
+    "name": "EOStark",
+    "website": "https://eostark.com/",
+    "email": "official@eostark.com",
+    "branding":{
+      "logo": "logo-eostark11111.png",
+      "cover": "cover-eostark11111.png"
+    },
+    "location": "Shanghai, China",
+    "social_network": {
+      "steemit": "https://steemit.com/@eostark",
+      "twitter": "https://twitter.com/stark_eos",
+      "github": "https://github.com/yuantaowork/eos-bp-profile",
+      "telegram": "https://t.me/eostark"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "86",
+        "name": "China"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
