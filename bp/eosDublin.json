@@ -1,0 +1,72 @@
+{
+  "title": "EOS Dublin",
+  "tagline": {
+    "en": "The Irish Block Producer",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "EOS Dublin are the main hub for EOS.IO in Ireland. We believe that EOS.IO represents a global paradigm shift towards a better digital world. EOS.IO is more than a technological advance, it’s about what becomes possible when we merge technology, community and individual commitment.",
+    "zh": ""
+  },
+  "account_name": "eosdublinwow",
+  "public_key": "EOS5bjub7pm8H9WLMYW5ETSwfFKrEJpVWwiwK5knvGAqLVUjEpLxx",
+  "org": {
+    "name": "EOS Dublin",
+    "website": "https://eosdublin.com",
+    "email": "hello@eosdublin.com",
+    "branding":{
+      "logo": "logo-eosdublin.png",
+      "cover": "cover-eosdublin.png"
+    },
+    "location": "Dublin, Ireland",
+    "social_network": {
+      "steemit": "https://steemit.com/@eosdublin",
+      "twitter": "https://twitter.com/eosdubllin",
+      "facebook": "https://www.facebook.com/eosdublin",
+      "github": "https://github.com/eosdublin",
+      "telegram": "https://t.me/eosdublin"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "353",
+        "name": "Ireland"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "id": "353",
+        "name": "Ireland"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "id": "353",
+        "name": "Ireland"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "p2p.one.eosdublin.io:9876",
+      "api_endpoint": "http://api1.eosdublin.io",
+      "ssl_endpoint": "https://api1.eosdublin.io"
+    },
+    {
+      "location": {
+        "id": "353",
+        "name": "Ireland"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "p2p.two.eosdublin.io:9876",
+      "api_endpoint": "http://api2.eosdublin.io",
+      "ssl_endpoint": "https://api2.eosdublin.io"
+    }
+  ]
+}
