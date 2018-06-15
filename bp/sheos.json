@@ -2,7 +2,6 @@
   "title": "shEOS",
   "tagline": {
     "en": "The only female operated EOS Block Producer candidate owned and operated EOS block producer candidate - empowering women around the world.",
-<<<<<<< HEAD
     "zh": "shEOS 很荣幸宣布我们已获得 EOS 网络的区块生产者资格。"
 	},
   "introduce": {
@@ -34,54 +33,11 @@
 				"name": "Ireland"
 		  },
 			"is_producer": false,
-=======
-    "zh": "shEOS 很荣幸宣布我们已获得 EOS 网络的区块生产者资格",
-  },
-  "introduce": {
-    "en": "shEOS is comprised of an international group of female entrepreneurs, investors, and engineers: 
-          - Emily Bush is on the Board of Directors of Verses, Codex and Fr8.Network. Previous venture partner at DNA.Fund. Famous for: spearheading the women in blockchain movement.
-          - Shauna Mei Devand is the Co-founder of QBX Global, EVP of Global Operation at Binary Financial, Co-founder of Arclydia Group. Formerly ConsenSys. Board seats: LynQ, Good Money. MIT engineer. Famous for: Founder and former CEO of AHAlife.com, a publicly-traded company that she took public on the ASX in 2015.
-          - Crystal Rose is the Founder and CEO of SENSE. Partner of Unicorn VC, Partner Artemis Collective. Sits on the Board of the ICO Governance Foundation and Restart.One. Advisor to the Digital Asset Trade Association. Famous for: top 20 women in blockchain.
-          - Pamela Day is the Founder and CEO of Paladin Trust, a cryptocurrency custodian company that manages digital assets. Graduate of Harvard Business School. Famous for: her appearance on The Apprentice and Trailblazer Award by the Forum for Women Entrepreneurs.
-          ",
-     "zh": "http://bit.ly/sheos-zh
-           ",
-  },
-  "account_name": "sheos21sheos",
-  "public_key": "EOS5nUybopuNRPp4Lgpt3BCxT3j2Zw3BftJha8gLbJFvMQBMC3ToL",
-  "org": {
-    "name": "shEOS",
-    "website": "https://www.sheos.org/",
-    "email": "eos@sheos.org",
-    "branding":{
-      "logo": "logo-sheos.png",
-      "cover": "cover-sheos.png"
-    },
-    "location": "Hong Kong",
-    "social_network": {
-      "steemit": "https://steemit.com/@sheos",
-      "twitter": "https://twitter.com/sheos_org",
-      "facebook": "",
-      "github": "",
-      "telegram": "https://t.me/sheos_org"
-    }
-  },
-  "nodes": [
-    {
-      "location": {
-        "name": "Dublin",
-        "country": "IE",
-        "latitude": 53.3498,
-        "longitude": 6.2603
-      },
-      "is_producer": false,
->>>>>>> 626e00d569e7e0058646a9edf05ee7a130069de9
       "p2p_endpoint": "p2p1a.dub.sheos.org:5556",
       "api_endpoint": "http://api.proxy1a.sheos.org",
       "ssl_endpoint": "https://lb1.sheos.org"
     },
     {
-<<<<<<< HEAD
     "location": {
       "id": "354",
       "country": "Iceland",
@@ -93,20 +49,3 @@
     }
 	]
 }
-=======
-      "location": {
-        "name": "Reykjavik",
-        "country": "Iceland",
-        "latitude": 64.1265,
-        "longitude": 21.8174
-      },
-      "is_producer": true,
-      "p2p_endpoint": "",
-      "api_endpoint": "",
-      "ssl_endpoint": ""
-    }
-  ]
-}
-
-
->>>>>>> 626e00d569e7e0058646a9edf05ee7a130069de9
