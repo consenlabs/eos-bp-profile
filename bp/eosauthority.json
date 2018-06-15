@@ -1,0 +1,42 @@
+{
+  "title": "EOS Authority",
+  "tagline": {
+    "en": "Focus on technology and education",
+    "zh": "技术和教育"
+  },
+  "introduce": {
+    "en": "EOS Authority is based in London, UK. EOS Authority is fully self-funded and we will engage the community, develop various tools & DApps.",
+    "zh": "期待您在主网上线后能够投票给我们，使我们当选节点。为了能够继续为您提供这些工具和服务，我们需要您的帮助。"
+  },
+  "account_name": "eosauthority",
+  "public_key": "EOS4va3CTmAcAAXsT26T3EBWqYHgQLshyxsozYRgxWm9tjmy17pVV",
+  "org": {
+    "name": "EOS Authority",
+    "website": "https://eosauthority.com/",
+    "email": "hello@eosauthority.com",
+    "branding":{
+      "logo": "logo-eosauthority.png",
+      "cover": "cover-eosauthority.png"
+    },
+    "location": "London, United Kingdom",
+    "social_network": {
+      "steemit": "https://steemit.com/@eosauthority",
+      "twitter": "https://twitter.com/eosauthority",
+      "github": "https://github.com/eosauthority",
+      "telegram": "https://t.me/eosauthority",
+      "youtube": "http://youtube.com/c/eosauthority"      
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "44",
+        "name": "United Kingdom"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "http://publicapi-mainnet.eosauthority.com",
+      "ssl_endpoint": "https://publicapi-mainnet.eosauthority.com"
+    }
+  ]
+}
