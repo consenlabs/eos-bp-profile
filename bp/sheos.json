@@ -14,7 +14,7 @@
 		"name": "shEOS",
 		"website": "https://sheos.org",
 		"email": "eos@sheos.org",
-		"branding": {
+		"branding":{
 			"logo": "logo-sheos.png",
 			"cover": "cover-sheos.png"
 		},
@@ -33,7 +33,6 @@
 				"name": "Ireland"
 		  },
 			"is_producer": false,
-      "is_producer": false,
       "p2p_endpoint": "p2p1a.dub.sheos.org:5556",
       "api_endpoint": "http://api.proxy1a.sheos.org",
       "ssl_endpoint": "https://lb1.sheos.org"
