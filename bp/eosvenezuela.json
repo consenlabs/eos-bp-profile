@@ -5,14 +5,14 @@
     "zh": "让区块链构建我们的未来"
   },
   "introduce": {
-    "en": "lockchain adoption is a key for development in Latin America, especially in Venezuela, and through the EOS platform we can foster new entrepreneurial opportunities that can lead to a change for the better in a place submerged in a humanitarian crisis. As Block Producers we can provide knowledge, training and capital for ideas that can reshape the social and economic reality of our country.",
+    "en": "Blockchain adoption is a key for development in Latin America, especially in Venezuela, and through the EOS platform we can foster new entrepreneurial opportunities that can lead to a change for the better in a place submerged in a humanitarian crisis. As Block Producers we can provide knowledge, training and capital for ideas that can reshape the social and economic reality of our country.",
     "zh": "锁链采用是拉美地区发展的关键，特别是在委内瑞拉，通过EOS平台，我们可以培育新的创业机会，从而在陷入人道主义危机的地方带来更好的变革。作为区块生产商，我们可以为重塑我们国家的社会和经济现实的想法提供知识，培训和资金。"
   },
   "account_name": "eosvenezuela",
   "public_key": "EOS88r3in9hPXhWwwvjjSsVwcy9hdRQHKtG8zc2FtxFTt7Uo6WmR2",
   "org": {
     "name": "EOS Venezuela",
-    "website": "https://eosvenezuela.io/",
+    "website": "www.eosvenezuela.io",
     "email": "eosvenezuelabp@gmail.com",
     "branding":{
       "logo": "https://s33.postimg.cc/igecxxse7/180_eosvenezuela_logo.png",
@@ -22,7 +22,6 @@
     "social_network": {
       "steemit": "https://steemit.com/@eosvenezuela",
       "twitter": "https://twitter.com/eosvzla",
-      "facebook": "https://www.facebook.com/groups/eosvenezuela/",
       "github": "https://github.com/eosvenezuela/",
       "telegram": "https://t.me/eosvenezuela"
     }
@@ -30,10 +29,10 @@
   "nodes": [
     {
       "location": {
-        "id": "+58,
+        "id": "58",
         "name": "Venezuela"
       },
-      "is_producer": true,
+      "is_producer": false,
       "p2p_endpoint": "node.eosvenezuela.io:9876",
       "api_endpoint": "http://node.eosvenezuela.io:8888",
       "ssl_endpoint": ""
