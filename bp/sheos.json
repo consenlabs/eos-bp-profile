@@ -1,0 +1,54 @@
+{
+  "title": "shEOS",
+  "tagline": {
+    "en": "The only female operated EOS Block Producer candidate owned and operated EOS block producer candidate - empowering women around the world.",
+    "zh": "shEOS 很荣幸宣布我们已获得 EOS 网络的区块生产者资格"
+	},
+  "introduce": {
+    "en": "shEOS is comprised of an international group of female entrepreneurs, investors, and engineers. \n - Emily Bush is on the Board of Directors of Verses, Codex and Fr8.Network. Previous venture partner at DNA.Fund. Famous for: spearheading the women in blockchain movement. \n - Shauna Mei Devand is the Co-founder of QBX Global, EVP of Global Operation at Binary Financial, Co-founder of Arclydia Group. Formerly ConsenSys. Board seats: LynQ, Good Money. MIT engineer. Famous for: Founder and former CEO of AHAlife.com, a publicly-traded company that she took public on the ASX in 2015.\n- Crystal Rose is the Founder and CEO of SENSE. Partner of Unicorn VC, Partner Artemis Collective. Sits on the Board of the ICO Governance Foundation and Restart.One. Advisor to the Digital Asset Trade Association. Famous for: top 20 women in blockchain.\n- Pamela Day is the Founder and CEO of Paladin Trust, a cryptocurrency custodian company that manages digital assets. Graduate of Harvard Business School. Famous for: her appearance on The Apprentice and Trailblazer Award by the Forum for Women Entrepreneurs.",
+    "zh": "shEOS 由来自全球的女性企业家、投资人和工程师组成——这是一个只由女性运营的 EOS 区块生产商——专注于为全球的 EOS.IO 区块链的成功启动和稳定发展提供支持。我们的数据中心使用强大安全的先进技术，我们的首要任务就是保证快速、积极响应、可信赖的工作表现，使 EOS 网络能够广泛传播。\n同时，我们认识到全世界对创新的去中心化应用和高效智慧合约的拥护，使得高速处理 EOS.IO 区块链成为可能，这将为人类历史的多样性和包容性带来前所未有的机遇。除了希望有一天所有人都可以获得重要的技术产品和服务，shEOS同时还致力于消除由性别歧视带来的过时、低效的文化偏见。我们的目标是将区块链技术的开发者和用户的性别比提高到 1:1。我们相信由创新主导的 EOS 不仅能够满足每个人最基础的技术需求，EOS 的出现还将造福全人类。\n shEOS 的使命是为整个 EOS 网络创造价值，它是去中心化应用中最强大的软件。我们的目标和诚意非常明显、明确且透明。除了拥有优秀的区块制造能力，我们还致力于将区块制造中获得的奖励赠送给更大的全球性 EOS 和区块链生态。我们对社区的拥护还延伸到了活动事件、外展服务、辩护工作以及对整个网络的支持。通过我们的社区收益承诺，我们还会创立 shEOS 奖学基金，奖励技术教育和面向女性区块链开发者的就业服务。\n shEOS 认识到经验丰富、敬业可靠的区块生产者们必须从第一天就要能够开始工作，并且在我们共同开发区块链新经济的同时承担着巨大的公民责任。富有热情的我们已经做好了充足的准备要成为这一领域的领导者。"
+  },
+  "account_name": "sheos21sheos",
+  "public_key": "EOS5nUybopuNRPp4Lgpt3BCxT3j2Zw3BftJha8gLbJFvMQBMC3ToL",
+	"org": {
+		"name": "shEOS",
+		"website": "https://sheos.org",
+		"email": "eos@sheos.org",
+		"branding": {
+			"logo": "logo-sheos.png",
+			"cover": "cover-sheos.png"
+		},
+		"location": "Madrid, Spain",
+		"social_network": {
+			"steemit": "https://steemit.com/@sheos",
+			"twitter": "https://twitter.com/sheos_org",
+			"github": "https://github.com/sheos-org",
+			"telegram": "https://t.me/sheos_org"
+		}
+	},
+	"nodes": [
+		{
+			"location": {
+				"id": "353",
+				"name": "Ireland"
+		  },
+			"is_producer": false,
+      "is_producer": false,
+      "p2p_endpoint": "p2p1a.dub.sheos.org:5556",
+      "api_endpoint": "http://api.proxy1a.sheos.org",
+      "ssl_endpoint": "https://lb1.sheos.org"
+    },
+    {
+    "location": {
+      "id": "354",
+      "country": "Iceland",
+      "latitude": 64.1265,
+      "longitude": 21.8174
+    },
+    "is_producer": true,
+    "p2p_endpoint": "",
+    "api_endpoint": "",
+    "ssl_endpoint": ""
+    }
+	]
+}
