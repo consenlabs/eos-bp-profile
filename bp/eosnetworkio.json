@@ -1,0 +1,42 @@
+{
+  "title": "EOS Network by Advanced Blockchain AG",
+  "tagline": {
+    "en": "EOS network is powered by German publicly listed company Advanced Blockchain AG.",
+    "zh": "EOS network is powered by German publicly listed company Advanced Blockchain AG."
+  },
+  "introduce": {
+    "en": "Advanced Blockchain AG has always been about connecting the real world with the power of Distributed Ledger Technology (DLT). It's our goal, our vision - what gets us out of bed in the morning. Our founders have understood the power of DLT for over 8 years and Advanced Blockchain AG represents their lastest and most tangible embodiment of their continued active support and participation in the growth of the industry. The chance to be an EOS Block Producer is an excellent opportunity to extend our contribution to an industry we love and believe in. An opportunity to help nurture the technology as it continues to evolve and begins to impact our organizations, societies and daily lives. With this in mind, Advanced Blockchain AG is joining forces with nakamo.to to form EOS network, an EOS Block Producer candidate with a DLT pedigree and headquarters in the crypto-capital, Berlin, Germany.",
+    "zh": "Advanced Blockchain AG 由始至终以分布式账本技术（DLT）的力量连接真实世界。这是我们的目标、我们的愿景--我们早上起床的动力。我们的创始人对分布式账本技术的力量有超過 8 年的认知，而 Advanced Blockchain AG是他们在行业增长中的持续积极支持和参与的最新和最具体的表现。成为EOS区块生产者是我们为自己所热爱和信赖的行业扩大贡献的绝佳机遇。也是随着该技术继续演化并开始影响我们的组织、社会和日常生活而促进其发展的机遇。出于这种考虑，Advanced Blockchain AG正与nakamo.to合力打造EOS网络，EOS网络是一个具有分布式账本技术谱系的EOS区块生产者候选人，其总部设在加密货币之都德国柏林。"
+  },
+  "account_name": "eosnetworkio",
+  "public_key": "EOS7GpcMsDge5fWhhJrzXVzzg5CKtMHxgV8bESMkyGknezuoUMh6T",
+  "org": {
+    "name": "EOS network by Advanced Blockchain AG",
+    "website": "https://eosnetwork.io/",
+    "email": "contact@eosnetwork.io",
+    "branding": {
+      "logo": "logo-eosnetworkio.png",
+      "cover": "cover-eosnetworkio.png"
+    },
+    "location": "Germany",
+    "social": {
+      "steemit": "https://steemit.com/@ad-blockchain-ag",
+      "twitter": "https://twitter.com/EOSnetwork_io",
+      "facebook": "https://www.facebook.com/eosnetwork.io/",
+      "github": "",
+      "telegram": "@EOSnetwork"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "DE",
+        "name": "Germany"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "p2p-1.eosnetwork.io:9876",
+      "api_endpoint": "https://api.eosnetwork.io:443",
+      "ssl_endpoint": "https://api.eosnetwork.io:443"
+    }
+  ]
+}
