@@ -1,0 +1,56 @@
+{
+  "title": "CryptoLions",
+  "tagline": {
+    "en": "Our Values: Sophrosyne, Respect, Competence, Integrity",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "EOS Block Producer Candidates based in Ukraine",
+    "zh": ""
+  },
+  "account_name": "cryptolions1",
+  "public_key": "EOS5yHaUBwhpwFftNjADdVwBpCVybLPg5P3z7HpTbDGjUfpqwWSSf",
+  "org": {
+    "name": "CryptoLions",
+    "website": "http://cryptolions.io",
+    "email": "roar@cryptolions.io",
+    "branding":{
+      "logo": "logo-cryptolions1.png",
+      "cover": "cover-cryptolions1.png"
+    },
+    "location": "Lviv, Ukraine",
+    "social_network": {
+      "steemit": "https://steemit.com/@cryptolions",
+      "twitter": "https://twitter.com/EOS_CryptoLions",
+      "facebook": "",
+      "github": "https://github.com/CryptoLions",
+      "telegram": "https://t.me/CryptoLions_io"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "49",
+        "name": "Germany"
+      },
+      "is_producer": false,
+      is_producer": false,
+	  "p2p_endpoint": "bp.cryptolions.io:9876",
+	  "api_endpoint": "http://bp.cryptolions.io:8888",
+	  "bnet_endpoint": "bp.cryptolions.io:9875",
+	  "ssl_endpoint": ""
+    },
+	{
+      "location": {
+        "id": "358",
+        "name": "Finland"
+      },
+      "is_producer": false,
+      is_producer": false,
+	  "p2p_endpoint": "bp.cryptolions.io:9876",
+	  "api_endpoint": "http://bp.cryptolions.io:8888",
+	  "bnet_endpoint": "bp.cryptolions.io:9875",
+	  "ssl_endpoint": ""
+    }
+  ]
+}
