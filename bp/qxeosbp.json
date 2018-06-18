@@ -1,0 +1,42 @@
+﻿{
+  "title": "HKEOS",
+  "tagline": {
+    "en": "QiXiang community is a technology oriented self media alliance. We are doing something to change the world！",
+    "zh": "旗象社区是一个技术导向的自媒体联盟，大陆第一自媒体联盟，我们在做着改变世界的事情！"
+  },
+  "introduce": {
+    "en": "QiXiang community is a technology oriented self media alliance. We are doing something to change the world！",
+     "zh": "旗象社区是一个技术导向的自媒体联盟，我们在做着改变世界的事情！"
+  },
+  "account_name": "qxeosqxeosbp",
+  "public_key": "EOS6BSNQfe3t1Q13L4kVfWipzjvYa9aHQLhLyg1UzxNZLiGKVwKMu",
+  "org": {
+    "name": "QXEOS",
+    "website": "https://www.blockpin.net/eos",
+    "email": "afzheng@live.com",
+    "branding":{
+    "logo": "logo_qxeos.png",
+    "cover": "cover_qxeos.png"
+    },
+    "location": "HangZhou",
+    "social_network": {
+      "steemit": "",
+      "twitter": "",
+      "facebook": "",
+      "github": "",
+      "telegram": ""
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "cn-hz",
+        "name": "China HangZhou"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "161.117.46.213:9876",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
