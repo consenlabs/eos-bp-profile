@@ -33,6 +33,10 @@ jsonFileNames
       parseErr = e
     }
 
+    if (content.indexOf('�') !== -1) {
+      exitWithMsg(`ERROR! json file name ${jsonFileName} must be utf-8 encoding`)
+    }
+
     if (parseErr) {
       exitWithMsg(`ERROR! json file name ${jsonFileName} parse error, please check first (maybe has some unnecessary space or comma symbol like ",")`)
     }
