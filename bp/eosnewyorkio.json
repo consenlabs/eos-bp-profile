@@ -20,11 +20,11 @@
     },
     "location": "Cook Islands",
     "social": {
-      "steemit": "eosnewyork",
-      "twitter": "eosnewyork",
-      "facebook": "eosnewyorkBP",
-      "github": "eosnewyork",
-      "telegram": "eosnewyorkchat"
+      "steemit": "https://steemit.com/@eosnewyork",
+      "twitter": "https://twitter.com/eosnewyork",
+      "facebook": "https://www.facebook.com/eosnewyorkBP",
+      "github": "https://github.com/eosnewyork",
+      "telegram": "https://t.me/eosnewyorkchat"
     }
   },
   "nodes": [
