@@ -1,0 +1,61 @@
+{
+  "title": "Aloha EOS",
+  "tagline": {
+    "en": "Bridging North America to all points West",
+    "zh": "将北美连接到西部的所有地点"
+  },
+  "introduce": {
+    "en": "Aloha EOS promotes the tenets of integrity, transparency, benefit to the community, and the overall success of EOS. Our unique geographic location helps to diversify the EOS block production network as we bridge the North American continent with all points West.",
+    "zh": "Aloha EOS提倡诚信，透明度，对社区有利的信条，以及EOS的全面成功。 我们独特的地理位置有助于实现EOS区块生产网络的多元化，因为我们将北美大陆与西部所有地区连接起来。"
+  },
+  "account_name": "alohaeosprod",
+  "public_key": "EOS53pfXfxZ4tH3EGccdnGvBZVJsrcSf2nbCKiLLMphgaii9XxxhM",
+  "org": {
+    "name": "Aloha EOS",
+    "website": "https://www.alohaeos.com/",
+    "email": "info@alohaeos.com",
+    "branding":{
+      "logo": "logo-alohaeosprod.png",
+      "cover": "cover-alohaeosprod.png"
+    },
+    "location": "Honolulu, USA",
+    "social_network": {
+      "steemit": "https://steemit.com/@alohaeos",
+      "twitter": "https://twitter.com/eosaloha",
+      "github": "https://github.com/alohaeos",
+      "telegram": "https://t.me/AlohaEOS"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "1",
+        "name": "United States"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "id": "44",
+        "name": "United Kingdom"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "peer.main.alohaeos.com:9876",
+      "api_endpoint": "http://api.main.alohaeos.com",
+      "ssl_endpoint": "https://api.main.alohaeos.com"
+    },
+    {
+      "location": {
+        "id": "65",
+        "name": "Singapore"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
