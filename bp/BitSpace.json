@@ -25,13 +25,12 @@
       "longitude": 10.733333
     },
     "social": {
-      "steemit": "@bitspace",
-      "twitter": "@BitSpaceNetwork",
-      "youtube": "bitspace",
-      "facebook": "bitspace.no",
-      "github": "bitspace-source",
-      "telegram": "BitSpaceNetwork",
-      "wechat": "BitSpaceChina"
+      "steemit": "https://steemit.com/@bitspace",
+      "twitter": "https://twitter.com/BitSpaceNetwork",
+      "youtube": "https://youtube.com/bitspace",
+      "facebook": "https://www.facebook.com/bitspace.no",
+      "github": "https://github.com/bitspace-source",
+      "telegram": "https://t.me/BitSpaceNetwork",
     }
   },
   "nodes": [
