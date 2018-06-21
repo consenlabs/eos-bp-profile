@@ -12,7 +12,7 @@
   "public_key": "EOS6GVX8eUqC1gN1293B3ivCNbifbr1BT6gzTFaQBXzWH9QNKVM4X",
   "org": {
     "name": "EOS New York",
-    "website": "https://www.eosnewyork.io/",
+    "website": "https://www.eosnewyork.io",
     "email": "community@eosnewyork.io",
     "branding": {
       "logo": "logo-eosnewyorkio.png",
@@ -22,7 +22,7 @@
     "social": {
       "steemit": "https://steemit.com/@eosnewyork",
       "twitter": "https://twitter.com/eosnewyork",
-      "facebook": "https://www.facebook.com/eosnewyorkBP/",
+      "facebook": "https://www.facebook.com/eosnewyorkBP",
       "github": "https://github.com/eosnewyork",
       "telegram": "https://t.me/eosnewyorkchat"
     }
@@ -34,9 +34,9 @@
         "name": "BR"
       },
       "is_producer": true,
-      "p2p_endpoint": "35.198.59.183:6987",
-      "api_endpoint": "http://api.eosnewyork.io:80",
-      "ssl_endpoint": "https://api.eosnewyork.io:443"
+      "p2p_endpoint": "node1.eosnewyork.io:6987",
+      "api_endpoint": "http://api.eosnewyork.io",
+      "ssl_endpoint": "https://api.eosnewyork.io"
     }
   ]
 }
