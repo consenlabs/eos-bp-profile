@@ -1,0 +1,42 @@
+{
+  "title": "eosfishrocks",
+  "tagline": {
+    "en": "F2Pool Block Producer. eosfishrocks!",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "EOS.fish is a bitfish project. Founded by Mr. Chun Wang, co-founder of F2Pool, one of the world's leading mining pools.",
+    "zh": "是 bitfish的一个项目。项目创始人是Wang Chun 先生，同时他也是国际领先矿池F2Pool的 创史人之一"
+  },
+  "account_name": "eosfishrocks",
+  "public_key": "EOS4xAhqjLs5fsCzw7QsGYJtRDVo3t2xRFCHd7amGEWwhjSb5DPZT",
+  "org": {
+    "name": "bitfish",
+    "website": "https://eos.fish",
+    "email": "mlong@bit.fish",
+    "branding":{
+      "logo": "",
+      "cover": ""
+    },
+    "location": "Hong Kong, China",
+    "social_network": {
+      "steemit": "https://steemit.com/@hibitfish",
+      "twitter": "https://twitter.com/bitfish",
+      "facebook": "",
+      "github": "https://github.com/eosfish",
+      "telegram": "https://t.me/ogbitcoin"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "852",
+        "name": "Hong Kong"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "p2p.bp.fish:9786",
+      "api_endpoint": "api.bp.fish",
+      "ssl_endpoint": ""
+    }
+  ]
+}
