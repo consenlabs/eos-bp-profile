@@ -1,0 +1,40 @@
+{
+  "title": "EOS SOCAL",
+  "tagline": {
+    "en": "Proud EOSIO Block Producer Candidate from Southern California"
+  },
+  "introduce": {
+    "en": "Contributing to a decentralized ecosystem, helping masses preserve life, liberty and property for a better world"
+  },
+  "account_name": "eossocalprod",
+  "public_key": "EOS6AQo5pKfAaA3zb2LiWi61DEqF5SWyey9U88yYE1US7K5ZZnF8B",
+  "org": {
+    "name": "EOS SOCAL",
+    "website": "http://www.eosocal.io",
+    "email": "cesar@eosocal.io",
+    "branding":{
+      "logo": "logo-eossocal.png",
+      "cover": "cover-eossocal.png"
+    },
+    "location": "Los Angeles, CA",
+    "social_network": {
+      "steemit": "https://steemit.com/@eos-socal",
+      "twitter": "https://www.twitter.com/eos_la",
+      "facebook": "",
+      "github": "https://github.com/eosocal",
+      "telegram": "https://t.me/eossocal"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": ""
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

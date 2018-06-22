@@ -1,0 +1,42 @@
+{
+  "title": "EOS Philippines",
+  "tagline": {
+    "en": "Never Miss a Block!",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "We are EOS PH, a Block Producer Candidate from the Philippines, a politically independent nation at the nexus of Southeast and Northeast Asia. EOS PH is operated by a corporation with deep experience in serving regulated online gaming communities in Asia. Our team has knowledge of government regulations, understanding of public market expectations, and experiences with providing IT and management services to legitimate gaming businesses, both in the Philippines and abroad.",
+    "zh": ""
+  },
+  "account_name": "philippinebp",
+  "public_key": "EOS76UAdwK6qUcYH7BkxczdQn1KykW6ujKkF6dmJw6HiCx8Sp3sMb",
+  "org": {
+    "name": "EOS PH",
+    "website": "eoskh.io",
+    "email": "info@eosph.io",
+    "branding":{
+      "logo": "logo-philippinebp.png",
+      "cover": "cover-philippinebp.png"
+    },
+    "location": "Makati City, Philippines",
+    "social_network": {
+      "steemit": "https://steemit.com/@eosph",
+      "twitter": "",
+      "facebook": "",
+      "github": "",
+      "telegram": "https://t.me/eos_ph"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "PH",
+        "name": "Philippines"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

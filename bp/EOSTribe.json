@@ -1,0 +1,42 @@
+{
+  "title": "EOS Tribe",
+  "tagline": {
+    "en": "To leverage, build and promote distributed systems that secure life, liberty, and property for all.",
+    "zh": "利用，建立和推广保障所有人生命，自由和财产安全的分布式系统"
+  },
+  "introduce": {
+    "en": "EOS Tribe is highly technical BP candidate based in US, member of EOS Core - original Ghostbusters team",
+    "zh": "EOS Tribe是位于美国的高度技术性BP候选人，EOS Core成员 - 原创Ghostbusters团队"
+  },
+  "account_name": "eostribeprod",
+  "public_key": "EOS6J5d6rwHJYPZnuv7KRrf5cekTf3atRTjMgbU1YMKuNnrgGvEdE",
+  "org": {
+    "name": "EOS Tribe",
+    "website": "https://eostribe.io",
+    "email": "eugene@eostribe.io",
+    "branding":{
+      "logo": "logo-eostribe.png",
+      "cover": "cover-eostribe.png"
+    },
+    "location": "Cheyene, WY, USA",
+    "social_network": {
+      "steemit": "https://steemit.com/@eostribe",
+      "twitter": "https://twitter.com/eostribe",
+      "facebook": "",
+      "github": "https://github.com/EOSTribe",
+      "telegram": "https://t.me/eostribe"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "1",
+        "name": "USA"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "209.41.67.115:7115",
+      "api_endpoint": "209.41.67.115:9115",
+      "ssl_endpoint": ""
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "EOS-Huobipool",
+  "tagline": {
+    "en": "Connect Everything about EOS",
+    "zh": "连接EOS的一切"
+  },
+  "introduce": {
+    "en": "EOS-Huobipool is committed to providing one-stop financial and technology services and solutions to every members in EOS community and form close partnerships in the blockchain industry. EOS-Huobipool is a business unit of Huobi Group, Huobi brand is widely known in the global blockchain industry with excellent reputation.",
+    "zh": "EOS-Huobipool旨在为EOS社区的每位成员提供一站式金融科技服务和解决方案，并在区块链领域构建紧密的合作伙伴关系。EOS-Huobipool隶属于火币集团，火币品牌在全球区块链领域拥有优异的知名度和口碑。"
+  },
+  "account_name": "eoshuobipool",
+  "public_key": "EOS5XKswW26cR5VQeDGwgNb5aixv1AMcKkdDNrC59KzNSBfnH6TR7",
+  "org": {
+    "name": "Huobi Pool",
+    "website": "https://www.eoshuobipool.com",
+    "email": "eoshuobipool@huobi.com",
+    "branding":{
+      "logo": "logo-eoshuobipool.png",
+      "cover": "cover-eoshuobipool.png"
+    },
+    "location": "Beijing, China",
+    "social_network": {
+      "steemit": "https://steemit.com/@eoshuobipool",
+      "twitter": "https://mobile.twitter.com/EOS_huobipool",
+      "facebook": "",
+      "github": "https://github.com/eoshuobipool",
+      "telegram": "https://t.me/eoshuobipool"
+    }
+  },
+  "nodes": []
+}

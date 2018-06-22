@@ -1,0 +1,68 @@
+{
+  "title": "EOS Detroit",
+  "tagline": {
+    "en": "Open Source Technology, Empowering Community.",
+    "zh": "开放源码技术,赋予社区权力."
+  },
+  "introduce": {
+    "en": "Reliable infrastructure and innovation for EOS and public benefit here in Detroit and communities around the world!",
+    "zh": "在底特律和世界各地的社区，为EOS和公众利益提供可靠的基础设施和创新!"
+  },
+  "account_name": "eosiodetroit",
+  "public_key": "EOS6cGjgMnrdsBt5zAjpvqUdPiSjHjdQdsF1tpTG8Dpz9rPitHUMd",
+  "org": {
+    "name": "EOS Detroit",
+    "website": "https://eosdetroit.io",
+    "email": "ask@eosdetroit.com",
+    "branding":{
+      "logo": "logo-eosdetroit.png",
+      "cover": "cover-eosdetroit.png"
+    },
+    "location": "Detroit MI, USA",
+    "social_network": {
+      "steemit": "https://steemit.com/@eos.detroit",
+      "twitter": "https://twitter.com/eosiodetroit",
+      "facebook": "https://www.facebook.com/eosiodetroit",
+      "github": "https://github.com/eosdetroit",
+      "telegram": "https://t.me/eos_detroit"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "EOS Detroit API",
+        "country": "United States",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": "https://api.eosdetroit.io:443"
+    },
+    {
+      "location": {
+        "name": "EOS Detroit NP1",
+        "country": "United States",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "is_producer": false,
+      "p2p_endpoint": "p2p.eosdetroit.io:3018",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "name": "EOS Detroit BP1",
+        "country": "United States",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "is_producer": true,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

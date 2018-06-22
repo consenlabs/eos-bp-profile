@@ -1,15 +1,15 @@
 {
   "title": "eos90s",
   "tagline": {
-    "en": "a young evangelist of EOS",
-    "zh": "EOS年轻的布道者"
+    "en": "The young power",
+    "zh": "年轻的力量"
   },
   "introduce": {
     "en": "EOS90s is a Chinese team dedicated to promoting EOS ecology to the general public.",
     "zh": "EOS90s是一个专注于向普通大众宣传EOS生态的中国团队"
   },
-  "account_name": "",
-  "public_key": "",
+  "account_name": "eosninetiess",
+  "public_key": "EOS7eMeo7dgG42NQPy4x45X2VhG8T3gjnwuSdsoGeGzz1w3Hwrr7m",
   "org": {
     "name": "eos90后",
     "website": "http://www.eos90s.io",
@@ -18,7 +18,7 @@
       "logo": "logo-eos90s.png",
       "cover": "cover-eos90s.png"
     },
-    "location": "湖南长沙",
+    "location": "Changsha, China",
     "social_network": {
       "steemit": "https://steemit.com/@eos90s",
       "twitter": "https://twitter.com/Eos90S",
@@ -30,12 +30,12 @@
   "nodes": [
     {
       "location": {
-        "id": "",
-        "name": ""
+        "id": "81",
+        "name": "Tokyo, Japan"
       },
       "is_producer": false,
-      "p2p_endpoint": "",
-      "api_endpoint": "",
+      "p2p_endpoint": "http://mainnet.eos90s.io:6789",
+      "api_endpoint": "http://mainnet.eos90s.io",
       "ssl_endpoint": ""
     }
   ]

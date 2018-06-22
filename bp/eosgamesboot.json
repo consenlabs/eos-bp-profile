@@ -1,0 +1,50 @@
+{
+  "title": "EOSGames",
+  "tagline": {
+    "en": "A construction node that is dedicated to becoming the first EOS game ecosystem.",
+    "zh": "一个致力成为首个EOS游戏生态下的建设节点。"
+  },
+  "introduce": {
+    "en": "The core members of the EOSGames team have many years of research and development of graphene technology, independent game development, international community operating experience, etc., distributed throughout the world: China, Singapore, the United States, Europe and so on. Details of the specific core team members can be found on the official website: www.eos.games.",
+    "zh": "EOSGames团队核心成员有着多年石墨烯技术研发，独立游戏开发，国际化社区运营经验等，分布于全球各地：中国，新加坡，美国，欧洲等。具体核心团队成员介绍详见官网：www.eos.games"
+  },
+  "account_name": "eosgamesboot",
+  "public_key": "EOS5SezwGS6sMZY79KwJYxFXRKVd7idwXBcrBy8wqD75vWvkfB15C",
+  "org": {
+    "name": "EOSGames",
+    "website": "http://www.eos.games",
+    "email": "admin@eos.games",
+    "branding":{
+      "logo": "logo-eosgamesboot.png",
+      "cover": "cover-eosgamesboot.png"
+    },
+    "location": "Beijing, Singapore, Los Angeles",
+    "social_network": {
+      "steemit": "https://steemit.com/@eosgames",
+      "github": "https://github.com/GamechainSystem",
+      "telegram": "https://t.me/GameChainSystem"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "65",
+        "name": "Singapore"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "id": "eosgames-node-los",
+        "name": "Los Angeles"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

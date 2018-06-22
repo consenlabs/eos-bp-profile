@@ -1,0 +1,52 @@
+{
+  "title": "EOSIO.SG",
+  "tagline": {
+    "en": "Build a better world with EOS",
+    "zh": "与EOS共建美好世界"
+  },
+  "introduce": {
+    "en": "EOSIO.SG, based in Singapore, concentrates on low-level blockchain technology. ",
+    "zh": "EOSIO.SG，来自新加坡的EOS节点候选团队，专注区块链底层技术研究。"
+  },
+  "account_name": "eosiosg11111",
+  "public_key": "EOS7zVBQMhV7dZ5zRQwBgDmmbFCHA6YcmwW6Dq5CePGpqLR1ZsVAc",
+  "org": {
+    "name": "EOSIO.SG",
+    "website": "https://eosio.sg",
+    "email": "deadlock@eosio.sg",
+    "branding":{
+      "logo": "logo-eosiosg.png",
+      "cover": "cover-eosiosg.png"
+    },
+    "location": "Singapore, Singapore",
+    "social_network": {
+      "steemit": "https://steemit.com/@eosiosg",
+      "twitter": "https://twitter.com/eosiosg",
+      "facebook": "https://www.facebook.com/eosiosg-168790343770758/",
+      "github": "https://github.com/eosiosg",
+      "telegram": "https://t.me/eosiosg"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "65",
+        "name": "Singapore"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "id": "1",
+        "name": "U.S."
+      },
+      "is_producer": true,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "EOSKh",
+  "tagline": {
+    "en": "Be not simply good, be good for something",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "We are EOSKh. We are a Block Producer candidate in Phnom Penh, looking forward to building a robust EOS blockchain. We are galvanized to add benefit to the EOS ecosystem, as well as to leverage the EOS ecosystem to bring benefit to our society.",
+    "zh": ""
+  },
+  "account_name": "bpkhmereoskh",
+  "public_key": "EOS6w6uE419kYd2Kkkw7xhu96Wywp8YbwtMhJa6gYqT1MuMj8ZBc6",
+  "org": {
+    "name": "EOSKh",
+    "website": "eoskh.com",
+    "email": "info@eoskh.com",
+    "branding":{
+      "logo": "logo-bpkhmereoskh.png",
+      "cover": "cover-bpkhmereoskh.png"
+    },
+    "location": "Phnom Penh, Kingdom of Cambodia",
+    "social_network": {
+      "steemit": "https://steemit.com/@eoskh",
+      "twitter": "",
+      "facebook": "",
+      "github": "",
+      "telegram": "https://t.me/EOSKh"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "KH",
+        "name": "Kingdom of Cambodia"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

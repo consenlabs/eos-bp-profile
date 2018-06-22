@@ -1,0 +1,42 @@
+{
+  "title": "EOS Galaxy",
+  "tagline": {
+    "en": "Open, Collaborate, Dedicate, Integrity",
+    "zh" : "火星财经超级节点"
+  },
+  "introduce": {
+    "en": "We do think EOS has brilliant future, we want to follow BM’s mission to create a better world HuoXing 100% involved blackchain eco, we put many resources like R&D, operation, community and media broadcast in last half year. We deem that only participate in EOS eco system we can leverage our opportunity and strength to realize our commitment",
+    "zh": "EOS GALAXY是由火星财经发起的节点竞争者，火星财经看好EOS的发展未来，愿意追随BM愿景，建设恢弘的区块链社会新时代。在过去的半年中，火星财经身体力行的投身于区块链行业中，在研发，运营，宣传以及社区等方面全情投入，尤其在EOS方面，我们比其他媒体投入了更多的精力让普罗大众了解并认知EOS，并坚定地投身于以EOS为代表的时代变革当中。我们认为，只有加入EOS生态才能更好的推动区块链生态的向前发展，才能利用好我们的资源，把我们的机会，我们将在技术、应用、市场以及社区等方面，积极竞争参与节点，全身心投入到EOS的世界中。我们已经组建了非常专业的团队，团队成员汇集游戏，移动互联网OS，互联网社群软件, 防病毒安全DDOS，专业媒体，社区运营等多领域的专家人才，我们相信通过我们的助力，一定能够成为EOS生态中不可忽视的一股力量。"
+  },
+  "account_name": "eosgalaxybp1",
+  "public_key": "EOS6yVYyJd5nrGG86FbM3BM7eV91pdykxqvbnHPWoYzCsMy2Uc16r",
+  "org": {
+    "name": "EOS Galaxy",
+    "website": "http://www.eosgalaxy.io",
+    "email": "",
+    "branding":{
+      "logo": "logo-eosgalaxybp1.png",
+      "cover": "cover-eosgalaxybp1.png"
+    },
+    "location": "Beijing, China",
+    "social_network": {
+      "steemit": "https://steemit.com/@kevinxu",
+      "twitter": "https://twitter.com/EOS_Galaxy",
+      "facebook": "",
+      "github": "https://github.com/EosGalaxy",
+      "telegram": "https://t.me/joinchat/HU-8vBEBmUHmjZ1zu6zoow"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "",
+        "name": "Tokyo"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "testnode.eosgalaxy.io:9876",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}

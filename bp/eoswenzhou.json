@@ -1,0 +1,81 @@
+{
+  "title": "EOS Wenzhou",
+  "tagline": {
+    "en": "To communicate millions of business resources all over the world, to promote the real economy and ecological prosperity of EOS.",
+    "zh": "EOS Wenzhou:沟通世界百万商业资源,促进EOS赋能实体经济及生态繁荣"
+  },
+  "introduce": {
+	"en": "We are the first community to study blockchain technology and eos.io. We determined to aggregate the world's business resources, with the goal to make virtual economy serve for subtantial economy, to make blockchain digital economy come true and to make blockchain 3.0 a real commercial application.",
+	"zh": "我们是最早对区块链技术和eos.io进行研究的社区。立志聚合全世界的商业资源,本着虚拟经济为实体经济服务的宗旨，将区块链数字经济去伪成真, 使区块链3.0技术真正落地到商业应用。"
+  },
+  "account_name": "eoswenzhoubp",
+  "public_key": "EOS7TE1bhYwMhscabYraC88WHpMHz3xNiS2Vokp9rJx6Q1N26Ynnh",
+  "org": {
+    "name": "EOS Wenzhou",
+    "website": "http://www.eoswz.com",
+    "email": "service@eoswz.com",
+    "branding":{
+      "logo": "logo-eoswenzhou.png",
+      "cover": "cover-eoswenzhou.png"
+    },
+    "location": "Wenzhou, China",
+    "social_network": {
+      "steemit": "https://steemit.com/@eos.wenzhou",
+      "twitter": "https://twitter.com/eoswenzhou",
+	    "weibo": "https://weibo.com/u/6327269283",
+      "telegram": "https://t.me/EOSwenzhouofficial"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "86",
+        "name": "China"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "id": "852",
+        "name": "Hong Kong"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+	{
+      "location": {
+        "id": "1",
+        "name": "United States"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+	{
+      "location": {
+        "id": "81",
+        "name": "Japan"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+	{
+      "location": {
+        "id": "65",
+        "name": "Singapore"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
