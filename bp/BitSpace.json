@@ -15,9 +15,8 @@
     "website": "https://www.bitspace.no",
     "email": "contact@bitspace.no",
     "branding": {
-      "logo_256": "https://bitspace.no/wp-content/uploads/2018/06/bitspace_256x256.png",
-      "logo_1024": "https://bitspace.no/wp-content/uploads/2018/06/bitspace_1024x1024.png",
-      "logo_svg": "https://keybase.pub/zerfix/eos/bitspace_logo.svg"
+      "logo": "logo-bitspacenode.png",
+      "cover": "cover-bitspacenode.png"
     },
     "location": {
       "name": "Oslo, Norway",
