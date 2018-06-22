@@ -16,8 +16,8 @@
     "website": "http://www.eosnairobi.io",
     "email": "blocks@eosnairobi.io",
     "branding":{
-      "logo": "logo-eosnairobi.jpg",
-      "cover": "cover-eosnairobi.jpg"
+      "logo": "logo-eosnairobike.png",
+      "cover": "cover-eosnairobi.png"
     },
     "location": "Nairobi, Kenya",
     "social_network": {
@@ -35,9 +35,9 @@
         "name": "Kenya"
       },
       "is_producer": false,
-      "p2p_endpoint": "",
-      "api_endpoint": "",
-      "ssl_endpoint": ""
+      "p2p_endpoint": "peer2.eosnairobi.io:9999",
+      "api_endpoint": "http://api2.eosnairobi.io:8898",
+      "ssl_endpoint": "https://api2.eosnairobi.io:8899"
     }
   ]
 }
