@@ -1,0 +1,42 @@
+{
+  "title": "EOS Shanghai",
+  "tagline": {
+    "en": "EOS Shanghai is a team dedicated to the block chain game, we created the Fishone block chain fishing Game early in 2018 to contribute to enriching the EOS ecosystem. In the future, we will continue to develop, introduce and incubate the game based on the EOS public chain. Make EOS more colorful.",
+    "zh": "EOS Shanghai 是一支专注于区块链游戏的团队，我们早在2018年初就创立了 FishOne 区块链捕鱼游戏，目的为丰富EOS生态作出贡献。将来我们会不断的开发、引入和孵化基于EOS公链上的游戏。让EOS更加丰富多彩。"
+  },
+  "introduce": {
+    "en": "EOS Shanghai is a team dedicated to the block chain game, we created the Fishone block chain fishing Game early in 2018 to contribute to enriching the EOS ecosystem. In the future, we will continue to develop, introduce and incubate the game based on the EOS public chain. Make EOS more colorful. The first mission of EOS Shanghai is to make the block chain and game better integrated, so that users around the world can experience a fun and fair, fair, open game.:",
+    "zh": "EOS Shanghai 是一支专注于区块链游戏的团队，我们早在2018年初就创立了 FishOne 区块链捕鱼游戏，目的为丰富EOS生态作出贡献。将来我们会不断的开发、引入和孵化基于EOS公链上的游戏。让EOS更加丰富多彩。EOS Shanghai 的第一使命就是让区块链与游戏能够更好的融合，让全球的用户可以体验到趣味十足且公平、公正、公开的游戏。"
+  },
+  "account_name": "nodeshanghai",
+  "public_key": "EOS8VV8BCF5nQfTC8G5G6YpU1YWYWk5Y9SCvMfRuVUfc17KKXQp3S",
+  "org": {
+    "name": "FishOne",
+    "website": "https://fish.one",
+    "email": "services@fish.one",
+    "branding":{
+      "logo": "logo-eosshanghai.png",
+      "cover": "cover-eosshanghai.png"
+    },
+    "location": "Shanghai, China",
+    "social_network": {
+      "steemit": "https://steemit.com/@fishone",
+      "twitter": "https://twitter.com/fishonetoken",
+      "facebook": "https://www.facebook.com/fishone-110929193087471/",
+      "github": "https://github.com/fishonetoken",
+      "telegram": "https://t.me/fishonetoken"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "86",
+        "name": "China"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
