@@ -1,0 +1,61 @@
+{
+  "title": "shEOS",
+  "tagline": {
+    "en": "Say hello to women in the block. Recognize shEOS: A women-led, funded, rewarded organization that supports the EOS ecosystem.",
+    "zh": "向区块中的女性问好。认识 shEOS：一个由女性领导、出资、奖励的支持 EOS 生态系统的组织。"
+  },
+  "introduce": {
+   "en": "The mission of shEOS is to create value for the entire EOS network. It is the most powerful software for decentralized applications. Our goals and sincerity are very clear, clear and transparent. In addition to having excellent block manufacturing capabilities, we are also committed to rewarding the larger global EOS and blockchain ecology with rewards obtained in block manufacturing. Our advocacy of the community also extends to events, outreach services, defense work, and support for the entire network. Through our community revenue promises, we will also create a shEOS Scholarship Fund to reward technical education and employment services for female blockchain developers. shEOS recognizes that experienced, dedicated and reliable block producers must be able to start work from the very first day and take on huge civic responsibilities while we work together to develop a new blockchain economy. Enthusiastically, we are well prepared to become a leader in this field.",
+   "zh": "shEOS 的使命是为整个 EOS 网络创造价值，它是去中心化应用中最强大的软件。我们的目标和诚意非常明显、明确且透明。除了拥有优秀的区块制造能力，我们还致力于将区块制造中获得的奖励赠送给更大的全球性 EOS 和区块链生态。我们对社区的拥护还延伸到了活动事件、外展服务、辩护工作以及对整个网络的支持。通过我们的社区收益承诺，我们还会创立 shEOS 奖学基金，奖励技术教育和面向女性区块链开发者的就业服务。shEOS 认识到经验丰富、敬业可靠的区块生产者们必须从第一天就要能够开始工作，并且在我们共同开发区块链新经济的同时承担着巨大的公民责任。富有热情的我们已经做好了充足的准备要成为这一领域的领导者。"
+  },
+  "account_name": "sheos21sheos",
+  "public_key": "EOS5nUybopuNRPp4Lgpt3BCxT3j2Zw3BftJha8gLbJFvMQBMC3ToL",
+  "org": {
+    "name": "shEOS",
+    "website": "https://sheos.org",
+    "email": "eos@sheos.org",
+    "branding":{
+      "logo": "logo-sheos.png",
+      "cover": "cover-sheos.png"
+    },
+    "location": "Madrid, Spain",
+    "social_network": {
+      "steemit": "https://steemit.com/@sheos",
+      "twitter": "https://twitter.com/sheos_org",
+      "github": "https://github.com/sheos-org",
+      "telegram": "https://t.me/sheos_org"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "353",
+        "name": "Ireland"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "p2p1a.dub.sheos.org:5556",
+      "api_endpoint": "http://api.proxy1a.sheos.org",
+      "ssl_endpoint": "https://lb1.sheos.org"
+    },
+    {
+      "location": {
+        "id": "354",
+        "name": "Iceland"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "id": "1",
+        "name": "America"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
