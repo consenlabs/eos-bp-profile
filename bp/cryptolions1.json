@@ -38,7 +38,7 @@
       "p2p_endpoint": "bp.cryptolions.io:9876",
       "api_endpoint": "http://bp.cryptolions.io:8888",
       "bnet_endpoint": "bp.cryptolions.io:9875",
-      "ssl_endpoint": ""
+      "ssl_endpoint": "https://bp.cryptolions.io:443"
     },
 	{
       "location": {
@@ -50,7 +50,7 @@
       "p2p_endpoint": "bp.cryptolions.io:9876",
       "api_endpoint": "http://bp.cryptolions.io:8888",
       "bnet_endpoint": "bp.cryptolions.io:9875",
-      "ssl_endpoint": ""
+      "ssl_endpoint": "https://bp.cryptolions.io:443"
     }
   ]
 }
