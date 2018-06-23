@@ -1,0 +1,42 @@
+{
+  "title": "EOS Candy.ONE",
+  "tagline": {
+    "en": "The World's Biggest Bounty Offering Platform",
+    "zh": "全球最大的赏金任务平台"
+  },
+  "introduce": {
+    "en": "As the new generation of Candy community products based on the world's first blockchain ETF, Candy.ONE promotes the concept of “make contribution more valuable” and provides users with interested, personalized content and services. Founded in January 2018, it has nearly 6 million users worldwide and is one of the fastest growing product services in the global smart economy.",
+    "zh": "Candy.ONE作为基于全球第一支区块链ETF基金的新生代糖果社区产品，倡导“让贡献更有价值”的理念，为用户提供感兴趣、有价值的个性化内容和服务。成立于2018年1月，已在全球拥有近600万用户，是全球智能经济领域成长最快的产品服务之一。"
+  },
+  "account_name": "eoscandyone1",
+  "public_key": "EOS8SZrDZ6s1H9wrJrzeUqqm4QFXFgUZ9515osJsAbsgth4RknaeP",
+  "org": {
+    "name": "Candy.ONE",
+    "website": "https://candy.one",
+    "email": "rewards@candy.one",
+    "branding":{
+      "logo": "logo-eoscandyone1.png",
+      "cover": "cover-eoscandyone1.png"
+    },
+    "location": "Beijing, China",
+    "social_network": {
+      "steemit": "",
+      "twitter": "https://twitter.com/realCandyOne",
+      "facebook": "https://www.facebook.com/realcandyone",
+      "github": "",
+      "telegram": "https://t.me/candyoneofficial2"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "81",
+        "name": "Tokyo, Japan"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "eos-peer.candy.one:9876",
+      "api_endpoint": "http://eos-api.candy.one",
+      "ssl_endpoint": "https://eos-api.candy.one"
+    }
+  ]
+}
