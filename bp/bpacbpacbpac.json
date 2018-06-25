@@ -1,0 +1,43 @@
+
+{
+  "producer_account_name": "bpacbpacbpac",
+  "producer_public_key": "EOS55W5m6Rh6x3eCPvEZzPBAgqaahZTjL2y3Sb1VTreNkd9Ns55n3",
+  "org": {
+    "candidate_name": "BP App Coalition",
+    "website": "https://bpac.io",
+    "code_of_conduct":"https://bpac.io",
+    "email":"hello@mail.bpac.io",
+    "branding":{
+      "logo_256":"https://bpac.io/wp-content/uploads/2018/05/bpac2.svg",
+      "logo_1024":"",
+      "logo_svg":"https://bpac.io/wp-content/uploads/2018/05/bpac2.svg"
+    },
+    "location": {
+      "name": "Mumbai",
+      "country": "IN",
+      "latitude": "19.0760 N",
+      "longitude": "72.8777 E"
+    },
+    "social": {
+      "steemit": "@eosbpac",
+      "twitter": "eosbpac",
+      "github":"kar2905",
+      "keybase": "kar2905",
+      "telegram": "https://t.me/eosbpac"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "Mumbai",
+        "country": "IN",
+        "latitude": 19.0760,
+        "longitude": 72.8777
+      },
+      "is_producer": true,
+      "p2p_endpoint": "p2p.bpac.io:1876",
+      "api_endpoint": "http://proxy1.bpac.io",
+      "ssl_endpoint": "https://proxy1.bpac.io"
+    }
+  ]
+}
