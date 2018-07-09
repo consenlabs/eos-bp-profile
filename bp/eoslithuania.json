@@ -33,7 +33,7 @@
                 "id": "440",
                 "name": "Vilnius"
             },
-            "is_producer": true,
+            "is_producer": false,
             "p2p_endpoint": "node.eosio.lt:9878",
             "api_endpoint": "http://api.eosio.lt",
             "ssl_endpoint": ""
