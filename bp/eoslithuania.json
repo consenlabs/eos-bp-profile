@@ -1,0 +1,42 @@
+{
+    "title": "EOS Lithuania",
+    "tagline": {
+        "en": "For the safe and reliable EOS block production: https://eosio.lt/",
+        "zh": ""
+    },
+    "introduce": {
+        "en": "Founded by a team of over 30 crypto professionals, EOS Lithuania is established in crypto friendly country Lithuania. We believe that EOSIO community will shape the current blockchain world to a better one. EOS Lithuania is committed to contribute to the growth of the our crypto economic and crypto social ecosystem.",
+        "zh": ""
+    },
+    "account_name": "eoslithuania",
+    "public_key": "EOS8EhBDNGiqHtwhmPyxFqsqAZfirZUzhqvaErbFVbQem7i5QrNXk",
+    "org": {
+        "name": "Crypto Economy Organisation",
+        "website": "https://www.eosio.lt/",
+        "email": "info@eosio.lt",
+        "branding": {
+            "logo": "logo-EOS_Lithuania.png",
+            "cover": "cover-EOS_Lithuania.png"
+        },
+        "location": "Vilnius, Lithuania",
+        "social_network": {
+            "steemit": "https://steemit.com/eos/@eoslithuania/",
+            "twitter": "https://twitter.com/crypto4economy",
+            "facebook": "https://www.facebook.com/cryptoeconomy.world/",
+            "github": "https://github.com/eoslithuania",
+            "telegram": "https://t.me/eoslithuania"
+        }
+    },
+    "nodes": [
+        {
+            "location": {
+                "id": "440",
+                "name": "Vilnius"
+            },
+            "is_producer": false,
+            "p2p_endpoint": "node.eosio.lt:9878",
+            "api_endpoint": "http://api.eosio.lt",
+            "ssl_endpoint": ""
+        }
+    ]
+}
