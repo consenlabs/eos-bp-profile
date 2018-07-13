@@ -1,0 +1,63 @@
+{
+  "title": "EOS Costa Rica",
+  "tagline": {
+    "en": "EOS Costa Rica is an Independent and Self-funded Block producer.",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "Providing the EOS network with Bare Metal Infrastructure, from a geo-strategic and politically stable location.",
+    "zh": ""
+  },
+  "account_name": "costaricaeos",
+  "public_key": "EOS7phU8qE6nPCfpkCQ2T3HmRwGg6z4v61RTLvPBBVmPWmPisZoWY",
+  "org": {
+    "name": "EOS Costa Rica",
+    "website": "https://eoscostarica.io",
+    "email": "bp@eosio.cr",
+    "branding":{
+      "logo": "logo-eoscostarica.png",
+      "cover": "cover-eoscostarica.png"
+    },
+    "location": "San Jose, Costa Rica",
+    "social_network": {
+      "steemit": "https://steemit.com/@eos-costarica",
+      "twitter": "https://twitter.com/EOSCostaRica",
+      "facebook": "",
+      "github": "https://github.com/eoscostarica",
+      "telegram": "https://t.me/eoscr"
+    }
+  },
+  "nodes":[
+    {
+      "location":{
+        "id":"506",
+        "name":"Costa Rica"
+      },
+      "is_producer": false,
+      "p2p_endpoint":"p2p.eosio.cr:1976",
+      "api_endpoint":"",
+      "ssl_endpoint":"https://api.eosio.cr"
+    },
+    {
+      "location":{
+        "id":"506",
+        "country":"Costa Rica"
+      },
+      "is_producer": false,
+      "p2p_endpoint":"p2p.eosio.cr:5418",
+      "api_endpoint":"",
+      "ssl_endpoint":""
+    },
+    {
+      "location":{
+        "id":"506",
+        "country":"Costa Rica"
+      },
+      "node_type":"producer",
+      "is_producer": true,
+      "p2p_endpoint":"",
+      "api_endpoint":"",
+      "ssl_endpoint":""
+    }
+  ]
+}
