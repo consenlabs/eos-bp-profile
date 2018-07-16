@@ -1,0 +1,42 @@
+{
+  "producer_account_name": "eosmetaliobp",
+  "producer_public_key": "EOS6nTwVt2xXPqj49crMpFRpe6ooMi8od5RMSS763Rvfv7Hh2SQNT",
+  "org": {
+    "candidate_name": "EOSMetal",
+    "website": "https://eosmetal.io",
+    "email": "info@eosmetal.io",
+    "ownership_disclosure": "https://steemit.com/eos/@eosmetal/eosmetal-ownership-disclosure",
+    "code_of_conduct": "https://steemit.com/eos/@eosmetal/eosmetal-code-of-conduct",
+    "branding":{
+      "logo_256":"https://eosmetal.io/img/logo-256.png",
+      "logo_1024":"https://eosmetal.io/img/logo-1024.png",
+      "logo_svg":"https://eosmetal.io/img/logo-1024.svg"
+    },
+    "location": {
+      "name": "Iceland",
+      "country": "IS",
+      "latitude": 64.9631,
+      "longitude": -19.0208
+    },
+    "social": {
+      "steemit": "eosmetal",
+      "twitter": "@eosmetal",
+      "github":"eosmetal"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "France",
+        "country": "FR",
+        "latitude": 48.864716,
+        "longitude": 2.349014
+      },
+      "is_producer": false,
+      "node_type": "full",
+      "p2p_endpoint": "p2p.eosmetal.io:19878",
+      "api_endpoint": "http://api.eosmetal.io",
+      "ssl_endpoint": ""
+    }
+  ]
+}
