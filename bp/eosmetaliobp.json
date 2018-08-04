@@ -1,0 +1,42 @@
+{
+  "title": "EOS Metal",
+  "tagline": {
+    "en": "Bare Metal"
+  },
+  "introduce": {
+    "en": "Physically Decentralizing EOS Through Bare Metal and Multi-International Physical Servers.",
+    "es": "Descentralizando EOS con Servidores Dedicados en Multiples Localizaciones Internacionales",
+    "cn": "通过电脑裸机和多国际物理服务器物理分散EOS",
+    "kr": "베어 메탈 및 다국적 물리적 서버를 통한 물리적 분산형 EOS"
+  },
+  "account_name": "eosmetaliobp",
+  "public_key": "EOS6nTwVt2xXPqj49crMpFRpe6ooMi8od5RMSS763Rvfv7Hh2SQNT",
+  "org": {
+    "name": "EOS Metal",
+    "website": "https://eosmetal.io",
+    "email": "info@eosmetal.io",
+    "branding": {
+      "logo": "logo-eosmetalio.png",
+      "cover": "cover-eosmetalio.png"
+    },
+    "location": "Iceland, IS",
+    "social_network": {
+      "steemit": "https://steemit.com/@eosmetal",
+      "twitter": "https://twitter.com/eosmetal",
+      "github": "https://github.com/eosmetal",
+      "telegram": "https://t.me/eosmetal"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "FR",
+        "name": "Frace"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "p2p.eosmetal.io:19878",
+      "api_endpoint": "http://api.eosmetal.io",
+      "ssl_endpoint": ""
+    }
+  ]
+}
