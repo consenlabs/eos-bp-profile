@@ -1,37 +1,37 @@
 {
-  "title": "Name this listing",
+  "title": "KEOS",
   "tagline": {
-    "en": "Say something catchy",
-    "zh": ""
+    "en": "KEOS Decentralized Autonomous Community",
+    "zh": "KEOS 一個分散的自治社區"
   },
   "introduce": {
-    "en": "Producer description",
-    "zh": ""
+    "en": "As a decentralized autonomous community, KEOS is governed by amendable constitution with the token holders and the board members voting and co-creating the actionable rules to run its operations. And also, KEOS is block producer candidate on EOS mainnet. KEOS account name is keoskorea111.",
+    "zh": "作為一個分散的自治社區，KEOS受可修改的憲法管轄，令牌持有人和董事會成員投票並共同製定可操作的規則來運作其業務。而且，KEOS是EOS主網上的塊生產者候選者。 KEOS帳戶名是keoskorea111."
   },
-  "account_name": "Name of producer account",
-  "public_key": "Public key for producer account",
+  "account_name": "keoskorea111",
+  "public_key": "EOS51nK2u8JTuZEqBczHkFujoQZQ9Sw2johEHBYdxRgWqqtPaHeTM",
   "org": {
-    "name": "Organization name",
-    "website": "",
-    "email": "",
+    "name": "KEOS",
+    "website": "https://www.keos.kr/",
+    "email": "team@keos.kr",
     "branding":{
-      "logo": "logo-$account_name.png",
-      "cover": "cover-$account_name.png"
+      "logo": "logo-keoskorea111.png",
+      "cover": "cover-keoskorea111.png"
     },
-    "location": "City, Country",
+    "location": "Seoul, South Korea",
     "social_network": {
-      "steemit": "https://steemit.com/@your-awesome-project",
-      "twitter": "https://twitter.com/your-awesome-project",
-      "facebook": "https://www.facebook.com/your-awesome-project",
-      "github": "https://github.com/your-awesome-project",
-      "telegram": "https://t.me/your-awesome-project"
+      "steemit": "https://steemit.com/@keos",
+      "twitter": "",
+      "facebook": "",
+      "github": "https://github.com/KEOSofficial",
+      "telegram": "https://t.me/keos_official_kr"
     }
   },
   "nodes": [
     {
       "location": {
-        "id": "insert country code, refer to: https://countrycode.org/",
-        "name": "Country"
+        "id": "82",
+        "name": "South Korea"
       },
       "is_producer": false,
       "p2p_endpoint": "",
