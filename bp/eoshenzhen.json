@@ -1,41 +1,64 @@
 {
-  "title": "EOShenzhen(EOS深圳)",
-  "tagline": {
-    "en": "We are in Shenzhen, Shenzhen is Asia's Sillcon Valley, EOShenzhen are aspired to serve next one billion people.",
-    "zh": "我们在深圳（亚洲的硅谷），EOShenzhen致力于服务下一个十亿人。"
-  },
-  "introduce": {
-    "en": "To provide solid and stable physical server for one billion people in region Shenzhen , Pearl River Delta and Greater China",
-    "zh": "我们提供安全稳定的物理服务器，致力于服务包括深圳，珠江三角洲，和大中华地区的下一个十亿人"
-  },
-  "account_name": "eoshenzhenio",
-  "public_key": "EOS5WqLGFJK9jPX5d71pYkyQmCv7zJ1Xfv1diqjjzydAJZ4oCMGPi",
+  "producer_account_name": "eoshenzhenio",
+  "producer_public_key": "EOS8EJrMphgHJx5EkHQ4ryodbvnocZEC1xp5T1FnRsT7XtzYA1FE7",
   "org": {
-    "name": "EOShenzhen",
-    "website": "http://eoshenzhen.io/",
+    "candidate_name": "EOShenzhen",
+    "website": "https:\/\/eoshenzhen.io",
+    "code_of_conduct": "https://busy.org/@eoshenzhen/eoshenzhen-code-of-conduct-draft",
+    "ownership_disclosure": "https://busy.org/@eoshenzhen/we-are-eoshenzhen-eos-bp-candidate",
     "email": "info@eoshenzhen.io",
-    "branding":{
-      "logo": "logo-eoshenzhen.png",
-      "cover": "cover-eoshenzhen.png"
+    "branding": {
+      "logo_256": "https:\/\/github.com\/eoshenzhen\/website\/raw\/master\/256.png",
+      "logo_1024": "https:\/\/github.com\/eoshenzhen\/website\/raw\/master\/1024.png",
+      "logo_svg": ""
     },
-    "location": "Shenzhen, China",
-    "social_network": {
-      "steemit": "https://steemit.com/@eoshenzhen",
-      "twitter": "https://twitter.com/@eoshenzhen",
-      "github": "https://github.com/eoshenzhen",
-      "telegram": "https://t.me/EOShenzhen"
+    "location": {
+      "name": "Shenzhen, China",
+      "country": "CN",
+      "latitude": 22.54,
+      "longitude": 114.06
+    },
+    "social": {
+      "steemit": "eoshenzhen",
+      "twitter": "eoshenzhen",
+      "youtube": "eoshenzhen",
+      "facebook": "",
+      "github": "eoshenzhen",
+      "reddit": "",
+      "keybase": "eoshenzhen",
+      "telegram": "eoshenzhen",
+      "wechat": "eoshenzhen"
     }
   },
   "nodes": [
     {
       "location": {
-        "id": "",
-        "name": ""
+        "name": "Shenzhen, China",
+        "country": "CN",
+        "latitude": 22.54,
+        "longitude": 114.06
       },
-      "is_producer": false,
-      "p2p_endpoint": "",
-      "api_endpoint": "",
-      "ssl_endpoint": ""
+      "node_type": "seed",
+      "p2p_endpoint": "p2p.eoshenzhen.io:9876"
+    },
+    {
+      "location": {
+        "name": "Shenzhen, China",
+        "country": "CN",
+        "latitude": 22.54,
+        "longitude": 114.06
+      },
+      "node_type": "full",
+      "p2p_endpoint": "mainnet.eoshenzhen.io:8888"
+    },
+    {
+      "location": {
+        "name": "Shenzhen, China",
+        "country": "CN",
+        "latitude": 22.54,
+        "longitude": 114.06
+      },
+      "node_type": "producer"
     }
   ]
 }
