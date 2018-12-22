@@ -33,7 +33,7 @@
         "id": "primary",
         "name": "DE"
       },
-      "is_producer": false,
+      "is_producer": true,
       "p2p_endpoint": "node1.eosnewyork.io:6987",
       "api_endpoint": "http://api.eosnewyork.io",
       "ssl_endpoint": "https://api.eosnewyork.io"
