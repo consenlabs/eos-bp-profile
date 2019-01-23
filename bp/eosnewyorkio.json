@@ -31,7 +31,7 @@
     {
       "location": {
         "id": "primary",
-        "name": "BR"
+        "name": "DE"
       },
       "is_producer": true,
       "p2p_endpoint": "node1.eosnewyork.io:6987",
