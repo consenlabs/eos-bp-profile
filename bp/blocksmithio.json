@@ -11,7 +11,7 @@
   "org": {
     "name": "EOS BlockSmith",
     "website": "https://eosblocksmith.io",
-    "email": "jerry@eosblocksmith.io",
+    "email": "devops@eosblocksmith.io",
     "branding": {
       "logo": "logo-blocksmithio.png",
       "cover": "cover-blocksmithio.png"
@@ -29,13 +29,13 @@
   "nodes": [
     {
       "location": {
-        "id": "",
-        "name": ""
+        "id": "1",
+        "name": "United States"
       },
-      "is_producer": false,
-      "p2p_endpoint": "",
-      "api_endpoint": "",
-      "ssl_endpoint": ""
+      "is_producer": true,
+      "p2p_endpoint": "peer.eos-mainnet.eosblocksmith.io:9876",
+      "api_endpoint": "http://eos-mainnet.eosblocksmith.io",
+      "ssl_endpoint": "https://eos-mainnet.eosblocksmith.io"
     }
   ]
 }
