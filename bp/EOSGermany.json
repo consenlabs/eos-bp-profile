@@ -1,0 +1,41 @@
+{
+  "title": "EOS Germany",
+  "tagline": {
+    "en": "EOS Germany your biz on the block",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "EOS Germany was founded by a team of Fintech and IT entrepreneurs. We believe that the EOS Blockchain is a game changer to our economic and social systems and as such we are deeply committed to contribute to the growth of the ecosystem via becoming a Block Producer as well as a supporter of solutions which can benefit from the EOS Blockchain.",
+    "zh": ""
+  },
+  "account_name": "eosgermanybp",
+  "public_key": "EOS6KTbE5ktt6snuTGoQYFibvC3w86T7NVpYLhUFamNNPNJxgUSZ8",
+  "org": {
+    "name": "EOS Germany",
+    "website": "https://eosgermany.one",
+    "email": "contact@eosgermany.one",
+    "branding":{
+      "logo": "logo-$EOS_Germany.png",
+      "cover": "cover-$EOS_Germany.png"
+    },
+    "location": "City, Country",
+    "social_network": {
+      "steemit": "eosgermany",
+      "twitter": "EOSGermany1",
+      "github":"eosgermany",
+      "telegram": "ERVWyhCpHEv5MvUXZRKB_w"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "DE",
+        "name": "Germany"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "p2p.eosgermany.online:9876",
+      "api_endpoint": "http://api.eosgermany.online",
+      "ssl_endpoint": "https://api.eosgermany.online"
+    }
+  ]
+}
