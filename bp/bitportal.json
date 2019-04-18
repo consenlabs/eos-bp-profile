@@ -1,0 +1,52 @@
+{
+  "title": "BitPortal",
+  "tagline": {
+    "en": "Your Tursted Portal to the Internet of Value. ",
+    "zh": "BitPortal是一家技术导向的区块链钱包，专注于将普通用户引入价值互联网的生态中。"
+  },
+  "introduce": {
+    "en": "BitPortal is an technical oriented blockchain wallet and focus on converting common users into the the users of Internet of Value and linking secure, convinient, user-friendly blockchain service.",
+    "zh": "BitPortal是一家技术导向的区块链钱包，专注于将普通用户引入价值互联网的生态中，并链接安全，便捷，友好的区块链服务。"
+  },
+  "account_name": "bp.bp",
+  "public_key": "EOS8gNuZCsqBnvaLacA6WinmUy73nDJYD3gmYWTc5n7aGfB2Csnpc",
+  "org": {
+    "candidate_name": "BitPortal",
+    "website": "https://www.bitportal.io",
+    "code_of_conduct": "",
+    "email": "support@bitportal.io",
+    "branding": {
+      "logo_256": "https://cdn.bitportal.io/bp/bitportal_256.jpg",
+      "logo_1024": "https://cdn.bitportal.io/bp/bitportal_1024.jpg",
+      "logo_svg": "https://cdn.bitportal.io/bp/bitportal.svg"
+    },
+    "location": {
+      "name": "Singapore",
+      "country": "SG",
+      "latitude": 1.290599,
+      "longitude": 103.85371
+    },
+    "social": {
+      "steemit": "https://steemit.com/@bitportal",
+      "twitter": "https://twitter.com/bitportal_io",
+      "youtube": "",
+      "facebook": "https://www.facebook.com/bitportal",
+      "github": "https://github.com/bitportal",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "https://t.me/BitPortal_official_EN"
+    }
+  },
+  "nodes": [{
+    "location": {
+      "name": "BitPortal",
+      "country": "SG",
+      "latitude": 1.290599,
+      "longitude": 103.32371
+    },
+    "is_producer": false,
+    "p2p_endpoint": "47.105.190.128:9376",
+    "api_endpoint": "http://47.105.190.128:8883",
+    "ssl_endpoint": ""
+  }]
+}
