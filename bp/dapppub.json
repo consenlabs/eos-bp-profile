@@ -1,0 +1,42 @@
+{
+  "title": "DappPub",
+  "tagline": {
+    "en": "DappPub, Unleashing the Power of DApps",
+    "zh": "DappPub, 释放DApp的无限可能"
+  },
+  "introduce": {
+    "en": "The DappPub node is a product & technology driven DApp development community node. DappPub adheres to the concept of high standard, high quality and high efficiency and it is rooted in the construction of blockchain DApp eco-related protocols and solutions, hoping to release the unlimited possibilities of DApp with products and technologies.",
+    "zh": "DappPub节点是一个产品和技术驱动的Dapp开发社区节点。DappPub秉承高标准、高质量、高效率的理念，扎根于区块链DApp生态相关协议及解决方案的构建，希望用产品和技术来释放Dapp的无限可能。"
+  },
+  "account_name": "dapppub.bp",
+  "public_key": "EOS5XLGoeaGe3zuPsm4nWUitQ8bmRvt11BXU9dxVfykd4X9yuXHdZ",
+  "org": {
+    "name": "DappPub",
+    "website": "https://dapp.pub",
+    "email": "admin@dap.pub",
+    "branding":{
+      "logo": "logo-dapppub.bp.png",
+      "cover": "cover-dapppub.bp.png"
+    },
+    "location": "Singapore",
+    "social_network": {
+      "steemit": "",
+      "twitter": "https://twitter.com/dapppub",
+      "facebook": "",
+      "github": "https://github.com/dappub",
+      "telegram": "https://t.me/dapppub"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "81",
+        "name": "Japan"
+      },
+      "is_producer": false,
+      "p2p_endpoint": "35.221.69.87:9876",
+      "api_endpoint": "35.221.69.87:8888",
+      "ssl_endpoint": "35.221.69.87:8888"
+    }
+  ]
+}
